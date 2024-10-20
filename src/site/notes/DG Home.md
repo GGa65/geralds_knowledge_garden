@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/DG Home/","tags":["class/index","gardenEntry","gardenEntry"],"noteIcon":"","created":"2023-11-05","updated":"2024-10-20T12:27:50.486+02:00"}
+{"dg-publish":true,"permalink":"/DG Home/","tags":["class/index","gardenEntry"],"noteIcon":"","created":"2023-11-05","updated":"2024-10-20T12:31:59.639+02:00"}
 ---
 
 | [[+Atlas/Über mich\|Über mich]] | [[+Atlas/Über das Projekt\|Über das Projekt]] | [Ich auf Mastodon](https://colearn.social/@gg) |
 
 # Willkommen auf knowledge-garden.de
 
-Herzliche willkommen, 
+Herzlich willkommen, 
 
 ich freue mich, dass Du hierhergefunden hast.
 
