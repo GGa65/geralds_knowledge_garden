@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dg-home/","tags":["class/HOMEPAGE","gardenEntry"],"noteIcon":"","created":"2023-11-05","updated":"2024-10-20T16:16:25.930+02:00"}
+{"dg-publish":true,"permalink":"/dg-home/","tags":["class/HOMEPAGE","gardenEntry"],"noteIcon":"","created":"2023-11-05","updated":"2024-10-20T16:26:15.765+02:00"}
 ---
 
 | [[+Atlas/About me\|About me]] | [[+Atlas/About Knowledge Garden\|About Knowledge Garden]] | [Ich auf Mastodon](https://colearn.social/@gg) |
@@ -8,19 +8,19 @@
 
 Herzlich willkommen, 
 
-ich freue mich, dass Du hierhergefunden hast.
+ich freue mich, dass Du hierhergefunden hast. Mehr über mich findest Du hier: [[+Atlas/About me\|About me]].
 
-Knowledge-Garden.de ist die Internetrepräsentanz des *öffentlichen Teils* meines digitalen Gartens. Das klingt kompliziert, ist aber nicht. Es ist zwar komplex, aber nicht wirklich kompliziert.
+*Knowledge-Garden.de* ist die Internetrepräsentanz des *öffentlichen Teils* meines digitalen Gartens. Das klingt kompliziert, ist aber nicht. Es ist zwar komplex, aber nicht wirklich kompliziert.
 
-Mein Digitaler Garten ist Teil meines persönlichen Wissensmanagement-Systems (PKM-System), welches ich natürlich digital führe.
+Mein Digitaler Garten ist Teil meines persönlichen Wissensmanagement-Systems (PKM-System), welches ich natürlich digital führe. Mehr zum Projekt *Knowledge-Garden.de* findest Du hier: [[+Atlas/About Knowledge Garden\|About Knowledge Garden]].
 
 ## Zur Herkunft der Ideen rund um mein PKM
 
-Im Sinne von [[+Atlas/Notes/People/Nick Milo\|Nick Milo]] und seinem [[10_Zettel/LYT approach\|LYT approach]] ist diese Notiz der zentrale Knoten im Geflecht des sogenannten **Second Brain**[^1] (oder auch [[+Atlas/Notes/Terms/Zweites Gehirn\|Zweites Gehirn]])
-
-Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **veröffentlichten** Gedankensalat[^2]. 
+Im Sinne von [[+Atlas/Notes/People/Nick Milo\|Nick Milo]] und seinem [[10_Zettel/LYT approach\|LYT approach]] ist diese Notiz der zentrale Knoten im Geflecht des sogenannten **Second Brain**[^1] (oder auch [[+Atlas/Notes/Terms/Zweites Gehirn\|Zweites Gehirn]]), es ist die *HOMEPAGE* des Projektes *Knowledge-Garden.de*. Die Notiz [[DG Home\|DG Home]] ist demnach der **zentrale Einstiegspunkt** in meinen **veröffentlichten** Gedankensalat[^2]. 
 
 Und mein veröffentlichter Gedankensalat ist **Mein [[+Atlas/Notes/Terms/Digital Garden\|Digital Garden]]**, der den Namen **[Knowledge Garden](https://knowledge-garden.de)** trägt und unter https://knowledge-garden.de im world wide web zu finden ist.
+
+Nun ist ales klar oder?
 
 --- 
 ## Anstelle eines Vorworts: (m)eine Präambel

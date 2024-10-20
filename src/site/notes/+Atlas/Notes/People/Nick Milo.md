@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/people/nick-milo/","tags":["class/people"],"noteIcon":"","updated":"2024-10-20T16:18:10.220+02:00"}
+{"dg-publish":true,"permalink":"/atlas/notes/people/nick-milo/","tags":["class/people"],"noteIcon":"","updated":"2024-10-20T16:21:08.233+02:00"}
 ---
 
 ## Über Nick Milo 
@@ -13,7 +13,7 @@
 - Er hat auch einen **Master-Abschluss** in Organisationsentwicklung und verfügt über **mehr als 20 Jahre Erfahrung in der Erwachsenenbildung**.
 - Nick Milo ist der Gründer von "[Linking Your Thinking](https://www.linkingyourthinking.com/)", einem Unternehmen, das sich auf die Bereitstellung von Produkten und Dienstleistungen konzentriert, die Menschen helfen, ihre kreativen Fähigkeiten zu verbessern und ihre Ziele zu erreichen. 
 - Er ist auch Autor mehrerer Bücher, darunter "***The Ultimate Guide to Mind Mapping***" und "***Focus in the Age of Distraction***".
-- Nick Milo hat auch auf verschiedenen Konferenzen und Veranstaltungen als **Redner** aufgetreten und gibt regelmäßig Schulungen und Workshops **zur Verbesserung der Produktivität und des Lernens**.
+- Nick Milo ist auf verschiedenen Konferenzen und Veranstaltungen als **Redner** aufgetreten und gibt regelmäßig Schulungen und Workshops **zur Verbesserung der Produktivität und des Lernens**.
 
 
 ## Und was sagt uns das Internet über die Qualität seiner Reden, Schulungen und Workshops?
