@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/+Atlas/Notes/Terms/Digital Garden/","tags":["class/termNote"],"noteIcon":"","updated":"2024-10-20T12:39:47.571+02:00"}
+{"dg-publish":true,"permalink":"/+Atlas/Notes/Terms/Digital Garden/","tags":["class/termNote"],"noteIcon":"","updated":"2024-10-20T13:51:44.804+02:00"}
 ---
 
 
 
-> [!quote] **Quote about what a *Digital Garden* is**
+> [!quote] **Zitat darüber, was ein *Digital Garden* ist**
 > A digital garden is an online space at the intersection of a notebook and a blog, where digital gardeners share seeds of thoughts to be cultivated in public.
 > 
 > ([[+Atlas/Notes/People/Anne-Laure Le Cunff\|Anne-Laure Le Cunff]] @ [How to set up your own digital garden](https://nesslabs.com/digital-garden-set-up))
