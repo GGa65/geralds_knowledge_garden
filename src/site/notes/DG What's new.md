@@ -10,7 +10,6 @@ Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierte
 | ------------------------------------------------------------------------------------------------- | ----------------- | ----------------------------------- |
 | [[+Atlas/Notes/Terms/Digital Garden\|Digital Garden]]                                          | October 20, 2024  | +Atlas/Notes/Terms                  |
 | [[DG Home\|DG Home]]                                                                           | October 20, 2024  |                                     |
-| [[+/Mein PKM-Workflow\|Mein PKM-Workflow]]                                                     | March 05, 2024    | +                                   |
 | [[DG What's new\|DG What's new]]                                                               | March 03, 2024    |                                     |
 | [[+Calendar/Notes of the day - public/2023-05-14 note of the day\|2023-05-14 note of the day]] | February 18, 2024 | +Calendar/Notes of the day - public |
 
