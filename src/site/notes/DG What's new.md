@@ -6,12 +6,10 @@
 Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierten** Notizen meines [[+Atlas/Notes/Terms/Digital Garden\|Digital Garden]]s, absteigend nach Bearbeitungssdatum sortiert. 
 
 
-| New                                                                                               | Modified          | Ort                                 |
-| ------------------------------------------------------------------------------------------------- | ----------------- | ----------------------------------- |
-| [[+Atlas/Notes/Terms/Digital Garden\|Digital Garden]]                                          | October 20, 2024  | +Atlas/Notes/Terms                  |
-| [[DG Home\|DG Home]]                                                                           | October 20, 2024  |                                     |
-| [[DG What's new\|DG What's new]]                                                               | March 03, 2024    |                                     |
-| [[+Calendar/Notes of the day - public/2023-05-14 note of the day\|2023-05-14 note of the day]] | February 18, 2024 | +Calendar/Notes of the day - public |
+| New                                 | Modified         | Ort |
+| ----------------------------------- | ---------------- | --- |
+| [[DG Home\|DG Home]]             | October 20, 2024 |     |
+| [[DG What's new\|DG What's new]] | March 03, 2024   |     |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/DG Home/","tags":["class/index","gardenEntry","gardenEntry"],"noteIcon":"","created":"2023-11-05","updated":"2024-10-20T12:38:58.479+02:00"}
+{"dg-publish":true,"permalink":"/DG Home/","tags":["class/index","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"2023-11-05","updated":"2024-10-20T12:38:58.479+02:00"}
 ---
 
 | [[+Atlas/Über mich\|Über mich]] | [[+Atlas/Über das Projekt\|Über das Projekt]] | [Ich auf Mastodon](https://colearn.social/@gg) |
