@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/DG Home/","tags":["class/index","gardenEntry"],"noteIcon":"","created":"2023-11-05","updated":"2024-10-20T12:31:59.639+02:00"}
+{"dg-publish":true,"permalink":"/DG Home/","tags":["class/index","gardenEntry"],"noteIcon":"","created":"2023-11-05","updated":"2024-10-20T12:38:58.479+02:00"}
 ---
 
 | [[+Atlas/Über mich\|Über mich]] | [[+Atlas/Über das Projekt\|Über das Projekt]] | [Ich auf Mastodon](https://colearn.social/@gg) |
@@ -38,9 +38,9 @@ Und mein veröffentlichter Gedankensalat ist **Mein [[+Atlas/Notes/Terms/Digital
 >  Nur einiges, ganz wenig, ist dazu geeignet, das Licht der Öffentlichkeit zu erblicken. Und das steht hier in **GGa's Knowledge Garden**.
 >
 
-## [[What's new - Public\|What's new - Public]] 
+## [[DG What's new\|DG What's new]] 
 
-Damit wiederkehrende Leser einen Überblick bekommen können über **Was ist neu hier?** gibt es (bzw wird es geben 😉) eine Notiz genau zu dieser Frage: Unter **[[What's new - Public\|What's new - Public]]** findet sich eine Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierten** Notizen meines [[+Atlas/Notes/Terms/Digital Garden\|Digital Garden]]s. Denn gerade weil es ein Garten ist, sieht man nicht immer sofort, was neu hervorsprießt. Es ist nicht wie in einem Blog in historischer Reihenfolge oder wie auf einer gut geordneten Website nach Themen oder anderen Schubladen sortiert. (Obgleich man  dazu auch noch mal nachdenken könnte ... #todo/follow-up)
+Damit wiederkehrende Leser einen Überblick bekommen können über **Was ist neu hier?** gibt es (bzw wird es geben 😉) eine Notiz genau zu dieser Frage: Unter **[[DG What's new\|DG What's new]]** findet sich eine Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierten** Notizen meines [[+Atlas/Notes/Terms/Digital Garden\|Digital Garden]]s. Denn gerade weil es ein Garten ist, sieht man nicht immer sofort, was neu hervorsprießt. Es ist nicht wie in einem Blog in historischer Reihenfolge oder wie auf einer gut geordneten Website nach Themen oder anderen Schubladen sortiert. (Obgleich man  dazu auch noch mal nachdenken könnte ... #todo/follow-up)
 
 ## Content Sheet
 > [!sprout] Mein [[+Atlas/Notes/Terms/Digital Garden\|Digital Garden]] strukturiert sich wie folgt:
