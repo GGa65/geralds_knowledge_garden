@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dg-home/","tags":["class/HOMEPAGE","gardenEntry"],"noteIcon":"","created":"2023-11-05","updated":"2024-10-20T16:13:38.297+02:00"}
+{"dg-publish":true,"permalink":"/dg-home/","tags":["class/HOMEPAGE","gardenEntry"],"noteIcon":"","created":"2023-11-05","updated":"2024-10-20T16:16:25.930+02:00"}
 ---
 
 | [[+Atlas/About me\|About me]] | [[+Atlas/About Knowledge Garden\|About Knowledge Garden]] | [Ich auf Mastodon](https://colearn.social/@gg) |
@@ -12,7 +12,7 @@ ich freue mich, dass Du hierhergefunden hast.
 
 Knowledge-Garden.de ist die Internetrepräsentanz des *öffentlichen Teils* meines digitalen Gartens. Das klingt kompliziert, ist aber nicht. Es ist zwar komplex, aber nicht wirklich kompliziert.
 
-Mein Digitaler Garten ist mein persönliches Wissensmanagement (PKM), welches ich natürlich digital führe.
+Mein Digitaler Garten ist Teil meines persönlichen Wissensmanagement-Systems (PKM-System), welches ich natürlich digital führe.
 
 ## Zur Herkunft der Ideen rund um mein PKM
 
