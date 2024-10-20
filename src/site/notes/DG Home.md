@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/DG Home/","tags":["class/index","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"2023-11-05","updated":"2024-10-20T12:38:58.479+02:00"}
+{"dg-publish":true,"permalink":"/DG Home/","tags":["class/index","gardenEntry"],"noteIcon":"","created":"2023-11-05","updated":"2024-10-20T15:35:58.366+02:00"}
 ---
 
-| [[+Atlas/Über mich\|Über mich]] | [[+Atlas/Über das Projekt\|Über das Projekt]] | [Ich auf Mastodon](https://colearn.social/@gg) |
+| [[+Atlas/About me\|About me]] | [[+Atlas/About Knowledge Garden\|About Knowledge Garden]] | [Ich auf Mastodon](https://colearn.social/@gg) |
 
 # Willkommen auf knowledge-garden.de
 
