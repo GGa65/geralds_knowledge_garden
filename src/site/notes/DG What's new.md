@@ -9,15 +9,17 @@ Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierte
 Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber eben dennoch passieren. 😉 
 
 
-| New                                                                            | Modified         | Ort                      |
-| ------------------------------------------------------------------------------ | ---------------- | ------------------------ |
-| [[+Calendar/DG Gedankensalat-Tagebuch\|DG Gedankensalat-Tagebuch]]          | October 27, 2024 | +Calendar                |
-| [[DG Home\|DG Home]]                                                        | October 27, 2024 |                          |
-| [[DG What's new\|DG What's new]]                                            | October 27, 2024 |                          |
-| [[+Atlas/Notes/Ideas+Notes/Agile Scrum Frameworks\|Agile Scrum Frameworks]] | October 26, 2024 | +Atlas/Notes/Ideas+Notes |
-| [[+Atlas/About me\|About me]]                                               | October 20, 2024 | +Atlas                   |
-| [[+Atlas/Notes/People/Nick Milo\|Nick Milo]]                                | October 20, 2024 | +Atlas/Notes/People      |
-| [[+Atlas/About Knowledge Garden\|About Knowledge Garden]]                   | October 20, 2024 | +Atlas                   |
+| New                                                                                                                      | Modified         | Ort                      |
+| ------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------ |
+| [[+Efforts/Notes/Kriterien der Softwareauswahl für ein PKM-System\|Kriterien der Softwareauswahl für ein PKM-System]] | October 27, 2024 | +Efforts/Notes           |
+| [[+/Mein PKM-Setup - public\|Mein PKM-Setup - public]]                                                                | October 27, 2024 | +                        |
+| [[DG Home\|DG Home]]                                                                                                  | October 27, 2024 |                          |
+| [[+Calendar/DG Gedankensalat-Tagebuch\|DG Gedankensalat-Tagebuch]]                                                    | October 27, 2024 | +Calendar                |
+| [[DG What's new\|DG What's new]]                                                                                      | October 27, 2024 |                          |
+| [[+Atlas/Notes/Ideas+Notes/Agile Scrum Frameworks\|Agile Scrum Frameworks]]                                           | October 26, 2024 | +Atlas/Notes/Ideas+Notes |
+| [[+Atlas/About me\|About me]]                                                                                         | October 20, 2024 | +Atlas                   |
+| [[+Atlas/Notes/People/Nick Milo\|Nick Milo]]                                                                          | October 20, 2024 | +Atlas/Notes/People      |
+| [[+Atlas/About Knowledge Garden\|About Knowledge Garden]]                                                             | October 20, 2024 | +Atlas                   |
 
 { .block-language-dataview}
 

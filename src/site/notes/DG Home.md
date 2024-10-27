@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dg-home/","tags":["class/HOMEPAGE","gardenEntry"],"created":"2023-11-05","updated":"2024-10-27T11:06:55.369+01:00"}
+{"dg-publish":true,"permalink":"/dg-home/","tags":["class/HOMEPAGE","gardenEntry"],"created":"2023-11-05","updated":"2024-10-27T11:26:05.240+01:00"}
 ---
 
 | [[+Atlas/About me\|About me]] | [[+Atlas/About Knowledge Garden\|About Knowledge Garden]] | [Ich auf Mastodon](https://colearn.social/@gg) |
@@ -27,12 +27,9 @@ Nun ist ales klar oder?
 
 > [!error] **Zur Frage der Öffentlichkeit / Nicht-Öffentlichkeit**
 >  Damit sich der Leser vorstellen kann, wonach ich entschieden habe, welche Software ich für mein PKM verwende[^3] und wonach ich entscheide, was aus meinem persönlichen KM-System veröffentlicht wird, sei hier ein Zitat angeführt.
->  
 > 
 > > [!QUOTE] **[[+Atlas/Notes/People/Tiago Forte\|Tiago Forte]] schreibt in "Nutzen Sie ihr zweites Gehirn"**
 > > „Es liegt natürlich immer bei Ihnen, welches Medium Sie für Ihre Notizen wählen, **aber denken Sie daran, dass auch Ihr zweites Gehirn privat ist**. **Sie können bestimmte Notizen teilen**, wenn Sie das wollen, **aber standardmäßig ist alles Niedergeschriebene ausschließlich für Sie selbst bestimmt**.“ 
-> 
->  Was die Software-Entscheidung damit zu hat? Die Antwort auf die simple Frage, wo liegen bei Verwendung einer PKM-Software die Daten, grenzt in meiner persönlichen Bewertung jede reine Cloudlösung, bei der die Inhalte nicht auf meinem lokalen Rechner liegen, aus dem möglichen Lösungsraum aus. 
 >  
 >  Dass vieles von dem, was in einem persönlichen Knowledge Management System niedergeschrieben wird, **nicht** für die Öffentlichkeit bestimmt ist, ist schlicht von vornherein einsichtig. Das ist der von Forte benannte Standard: **Alles ist erst einmal nur für einen selbst**.
 >  Nur einiges, ganz wenig, ist dazu geeignet, das Licht der Öffentlichkeit zu erblicken. Und das steht hier in **GGa's Knowledge Garden**.
@@ -44,12 +41,15 @@ Damit wiederkehrende Leser einen Überblick bekommen können über **Was ist neu
 
 ## Content Sheet
 > [!sprout] Mein [[+Atlas/Notes/Terms/Digital Garden\|Digital Garden]] strukturiert sich wie folgt:
+>     
+>  - to be continued (wie man neudeutsch in der Sprache von IT'lern sagt). Bleibt neugierig und seht später mal wieder vorbei 
+>  - ...
 
-to be continued (wie man neudeutsch in der Sprache von IT'lern sagt). Bleibt neugirig und seht später mal wieder vorbeo
+
 
 
 
 
 [^1]: Der Begriff **Second Brain** geht nach meinem Verständnis auf das von [[+Atlas/Notes/People/Tiago Forte\|Tiago Forte]] veröffentlichte Buch "Build your second brain" bzw. "Nutzen Sie ihr zweites Gehirn" zurück. - [[+Atlas/Notes/Terms/Zweites Gehirn\|Zweites Gehirn]].
-[^2]: Diese Aussage impliziert, dass es daneben einen **nicht veröffentlichten** Gedankensalat gibt. Und ja, das ist genau so 😉! Nur wird man den natürlch hier in der Öffentlichkeit nicht finden.
-[^3]: siehe dazu [[Kriterien der Softwareauswahl für ein PKM-System\|Kriterien der Softwareauswahl für ein PKM-System]] 
+[^2]: Diese Aussage impliziert, dass es daneben einen **nicht veröffentlichten** Gedankensalat gibt. Und ja, das ist genau so 😉! Nur wird man den natürlich hier in der Öffentlichkeit nicht finden.
+[^3]: siehe dazu [[+Efforts/Notes/Kriterien der Softwareauswahl für ein PKM-System\|Kriterien der Softwareauswahl für ein PKM-System]] 
