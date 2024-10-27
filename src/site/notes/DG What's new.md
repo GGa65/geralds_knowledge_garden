@@ -11,10 +11,10 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                      | Modified         | Ort                      |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------ |
+| [[DG Home\|DG Home]]                                                                                                  | October 27, 2024 |                          |
 | [[+Calendar/DG Gedankensalat-Tagebuch\|DG Gedankensalat-Tagebuch]]                                                    | October 27, 2024 | +Calendar                |
 | [[+Efforts/Notes/Kriterien der Softwareauswahl für ein PKM-System\|Kriterien der Softwareauswahl für ein PKM-System]] | October 27, 2024 | +Efforts/Notes           |
 | [[+Efforts/Notes/DG Mein PKM-Setup - public\|DG Mein PKM-Setup - public]]                                             | October 27, 2024 | +Efforts/Notes           |
-| [[DG Home\|DG Home]]                                                                                                  | October 27, 2024 |                          |
 | [[DG What's new\|DG What's new]]                                                                                      | October 27, 2024 |                          |
 | [[+Atlas/Notes/Ideas+Notes/Agile Scrum Frameworks\|Agile Scrum Frameworks]]                                           | October 26, 2024 | +Atlas/Notes/Ideas+Notes |
 | [[+Atlas/About me\|About me]]                                                                                         | October 20, 2024 | +Atlas                   |

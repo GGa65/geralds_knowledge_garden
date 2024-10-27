@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calendar/dg-gedankensalat-tagebuch/","tags":["class/diary"],"created":"2024-10-20","updated":"2024-10-27T13:35:56.674+01:00"}
+{"dg-publish":true,"permalink":"/calendar/dg-gedankensalat-tagebuch/","tags":["class/diary"],"created":"2024-10-20","updated":"2024-10-27T13:41:29.891+01:00"}
 ---
 
 ## Gedankensalat
@@ -11,6 +11,8 @@ Das will ich hier versuchen!
 
 
 - 2024-10-27
+{ #fd44a7}
+
 	- ich zeige mir selbst hier mal die Graph-Ansicht meines PKM-Systems 
 		- ![Pasted image 20241027133534.png](/img/user/+/Pasted%20image%2020241027133534.png)
 	- 
