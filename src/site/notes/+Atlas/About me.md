@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/about-me/","tags":["class/admin"],"updated":"2024-10-20T22:19:46.141+02:00"}
+{"dg-publish":true,"permalink":"/atlas/about-me/","tags":["class/admin"],"updated":"2024-10-27T14:33:26.399+01:00"}
 ---
 
 
 > [!INFO]   **Über mich** oder **About me**
 > 
-> Ich bin Gerald G. und unter dem Handle @gg@colearn.social auf Mastodon zu finden.
+> Ich bin Gerald G. und unter dem Handle @gg@colearn.social auf Mastodon oder @gga65.bsky.social auf Bluesky zu finden.
 > 
 > Ich bin ein weißer Mann und Deutscher, Jahrgang 1965 und erkläre im Vollbesitz meiner Sinne: Dafür kann ich nichts und dazu stehe ich! Ich meine, es ist weder Verdienst Deutscher von Geburt zu sein noch als Nachkomme weißer Menschen ebenfalls weiß zu sein.  
 > 
@@ -24,8 +24,8 @@
 
 > [!tip] Wie man mich erreicht.
 > 
-> Kommentare bitte unter Benennung des zu kommentierenden Beitrags entweder 
+> Kommentare bitte unter Benennung des zu kommentierenden Beitrags (am einfachsten der Perma-Link zum Beitrag) entweder 
 > - [über Mastodon](https://colearn.social/@gg) oder
 > - über den Blauen Himmel [gga65](https://bsky.app/profile/gga65.bsky.social) oder
 > - einfach ganz altmodisch per [e-mail](mailto:gga65@posteo.de) 
-> 
+

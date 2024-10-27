@@ -11,6 +11,8 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                                                                              | Modified         | Ort                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------ |
+| [[+Calendar/+About Calendar\|+About Calendar]]                                                                                                                                                | October 27, 2024 | +Calendar                |
+| [[+Atlas/About me\|About me]]                                                                                                                                                                 | October 27, 2024 | +Atlas                   |
 | [[+Efforts/Notes/2023-02-26 - Die zensierten Kohl-Protokolle – Ein Blog von Muschelschale97 in Themen\|2023-02-26 - Die zensierten Kohl-Protokolle – Ein Blog von Muschelschale97 in Themen]] | October 27, 2024 | +Efforts/Notes           |
 | [[+Atlas/INDIZEES/DG MOC published Efforts\|DG MOC published Efforts]]                                                                                                                        | October 27, 2024 | +Atlas/INDIZEES          |
 | [[+Efforts/+About Efforts\|+About Efforts]]                                                                                                                                                   | October 27, 2024 | +Efforts                 |
@@ -20,7 +22,6 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 | [[+Efforts/Notes/DG Mein PKM-Setup - public\|DG Mein PKM-Setup - public]]                                                                                                                     | October 27, 2024 | +Efforts/Notes           |
 | [[DG What's new\|DG What's new]]                                                                                                                                                              | October 27, 2024 |                          |
 | [[+Atlas/Notes/Ideas+Notes/Agile Scrum Frameworks\|Agile Scrum Frameworks]]                                                                                                                   | October 26, 2024 | +Atlas/Notes/Ideas+Notes |
-| [[+Atlas/About me\|About me]]                                                                                                                                                                 | October 20, 2024 | +Atlas                   |
 | [[+Atlas/Notes/People/Nick Milo\|Nick Milo]]                                                                                                                                                  | October 20, 2024 | +Atlas/Notes/People      |
 | [[+Atlas/About Knowledge Garden\|About Knowledge Garden]]                                                                                                                                     | October 20, 2024 | +Atlas                   |
 
