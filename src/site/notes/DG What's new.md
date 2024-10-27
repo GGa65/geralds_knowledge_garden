@@ -11,8 +11,10 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                      | Modified         | Ort                      |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------ |
-| [[DG Home\|DG Home]]                                                                                                  | October 27, 2024 |                          |
+| [[+Atlas/INDIZEES/DG MOC published Efforts\|DG MOC published Efforts]]                                                | October 27, 2024 | +Atlas/INDIZEES          |
+| [[+Efforts/+About Efforts\|+About Efforts]]                                                                           | October 27, 2024 | +Efforts                 |
 | [[+Calendar/DG Gedankensalat-Tagebuch\|DG Gedankensalat-Tagebuch]]                                                    | October 27, 2024 | +Calendar                |
+| [[DG Home\|DG Home]]                                                                                                  | October 27, 2024 |                          |
 | [[+Efforts/Notes/Kriterien der Softwareauswahl für ein PKM-System\|Kriterien der Softwareauswahl für ein PKM-System]] | October 27, 2024 | +Efforts/Notes           |
 | [[+Efforts/Notes/DG Mein PKM-Setup - public\|DG Mein PKM-Setup - public]]                                             | October 27, 2024 | +Efforts/Notes           |
 | [[DG What's new\|DG What's new]]                                                                                      | October 27, 2024 |                          |

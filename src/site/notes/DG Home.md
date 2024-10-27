@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dg-home/","tags":["class/HOMEPAGE","gardenEntry"],"created":"2023-11-05","updated":"2024-10-27T13:46:16.369+01:00"}
+{"dg-publish":true,"permalink":"/dg-home/","tags":["class/HOMEPAGE","gardenEntry"],"created":"2023-11-05","updated":"2024-10-27T13:47:29.759+01:00"}
 ---
 
 | [[+Atlas/About me\|About me]] | [[+Atlas/About Knowledge Garden\|About Knowledge Garden]] | [Ich auf Mastodon](https://colearn.social/@gg) |
@@ -20,7 +20,7 @@ Im Sinne von [[+Atlas/Notes/People/Nick Milo\|Nick Milo]] und seinem [[10_Zettel
 
 Und mein veröffentlichter Gedankensalat ist **Mein [[+Atlas/Notes/Terms/Digital Garden\|Digital Garden]]**, der den Namen **[Knowledge Garden](https://knowledge-garden.de)** trägt und unter https://knowledge-garden.de im world wide web zu finden ist.
 
-Nun ist ales klar oder?
+Nun ist alles klar oder?
 
 --- 
 ## Anstelle eines Vorworts: (m)eine Präambel
