@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dg-home/","tags":["class/HOMEPAGE","gardenEntry"],"noteIcon":"","created":"2023-11-05","updated":"2024-10-20T16:26:15.765+02:00"}
+{"dg-publish":true,"permalink":"/dg-home/","tags":["class/HOMEPAGE","gardenEntry"],"created":"2023-11-05","updated":"2024-10-27T11:06:55.369+01:00"}
 ---
 
 | [[+Atlas/About me\|About me]] | [[+Atlas/About Knowledge Garden\|About Knowledge Garden]] | [Ich auf Mastodon](https://colearn.social/@gg) |
@@ -26,7 +26,7 @@ Nun ist ales klar oder?
 ## Anstelle eines Vorworts: (m)eine Präambel
 
 > [!error] **Zur Frage der Öffentlichkeit / Nicht-Öffentlichkeit**
->  Damit sich der Leser vorstellen kann, wonach ich entschieden habe, welche Software ich für mein PKM verwende und wonach ich entscheide, was aus meinem persönlichen KM-System veröffentlicht wird, sei hier ein Zitat angeführt.
+>  Damit sich der Leser vorstellen kann, wonach ich entschieden habe, welche Software ich für mein PKM verwende[^3] und wonach ich entscheide, was aus meinem persönlichen KM-System veröffentlicht wird, sei hier ein Zitat angeführt.
 >  
 > 
 > > [!QUOTE] **[[+Atlas/Notes/People/Tiago Forte\|Tiago Forte]] schreibt in "Nutzen Sie ihr zweites Gehirn"**
@@ -52,5 +52,4 @@ to be continued (wie man neudeutsch in der Sprache von IT'lern sagt). Bleibt neu
 
 [^1]: Der Begriff **Second Brain** geht nach meinem Verständnis auf das von [[+Atlas/Notes/People/Tiago Forte\|Tiago Forte]] veröffentlichte Buch "Build your second brain" bzw. "Nutzen Sie ihr zweites Gehirn" zurück. - [[+Atlas/Notes/Terms/Zweites Gehirn\|Zweites Gehirn]].
 [^2]: Diese Aussage impliziert, dass es daneben einen **nicht veröffentlichten** Gedankensalat gibt. Und ja, das ist genau so 😉! Nur wird man den natürlch hier in der Öffentlichkeit nicht finden.
-
-
+[^3]: siehe dazu [[Kriterien der Softwareauswahl für ein PKM-System\|Kriterien der Softwareauswahl für ein PKM-System]] 

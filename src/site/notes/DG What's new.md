@@ -11,8 +11,9 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                            | Modified         | Ort                      |
 | ------------------------------------------------------------------------------ | ---------------- | ------------------------ |
-| [[DG What's new\|DG What's new]]                                            | October 27, 2024 |                          |
+| [[+Calendar/DG Gedankensalat-Tagebuch\|DG Gedankensalat-Tagebuch]]          | October 27, 2024 | +Calendar                |
 | [[DG Home\|DG Home]]                                                        | October 27, 2024 |                          |
+| [[DG What's new\|DG What's new]]                                            | October 27, 2024 |                          |
 | [[+Atlas/Notes/Ideas+Notes/Agile Scrum Frameworks\|Agile Scrum Frameworks]] | October 26, 2024 | +Atlas/Notes/Ideas+Notes |
 | [[+Atlas/About me\|About me]]                                               | October 20, 2024 | +Atlas                   |
 | [[+Atlas/Notes/People/Nick Milo\|Nick Milo]]                                | October 20, 2024 | +Atlas/Notes/People      |
