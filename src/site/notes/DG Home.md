@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dg-home/","tags":["class/HOMEPAGE","gardenEntry"],"created":"2023-11-05","updated":"2024-10-27T13:43:36.811+01:00"}
+{"dg-publish":true,"permalink":"/dg-home/","tags":["class/HOMEPAGE","gardenEntry"],"created":"2023-11-05","updated":"2024-10-27T13:46:16.369+01:00"}
 ---
 
 | [[+Atlas/About me\|About me]] | [[+Atlas/About Knowledge Garden\|About Knowledge Garden]] | [Ich auf Mastodon](https://colearn.social/@gg) |
@@ -34,7 +34,7 @@ Nun ist ales klar oder?
 >  Dass vieles von dem, was in einem persönlichen Knowledge Management System niedergeschrieben wird, **nicht** für die Öffentlichkeit bestimmt ist, ist schlicht von vornherein einsichtig. Das ist der von Forte benannte Standard: **Alles ist erst einmal nur für einen selbst**.
 >  Nur einiges, ganz wenig, ist dazu geeignet, das Licht der Öffentlichkeit zu erblicken. Und das steht hier in **GGa's Knowledge Garden**.
 >
-> - *Hinweis*: Um einen Eindruck davon zubekommen, wieviel sich in meinem PKM befindet und wie wenig davon hier öffentlich ist, vergleiche man bitte einmal die Graph-Darstellung hier online rechts mit dem Snapshot im [[+Calendar/DG Gedankensalat-Tagebuch#^fd44a7\|DG Gedankensalat-Tagebuch#^fd44a7]] mit Stand 2024-10-27  😉 ☝️
+> - *Hinweis*: Um einen Eindruck davon zubekommen, wieviel sich in meinem PKM befindet und wie wenig davon hier öffentlich ist, vergleiche man bitte einmal die Graph-Darstellung hier online rechts mit dem Snapshot im [[+Calendar/DG Gedankensalat-Tagebuch#^4ca8ac\|DG Gedankensalat-Tagebuch#^4ca8ac]] mit Stand 2024-10-27  😉 ☝️
 > 
 
 ## [[DG What's new\|DG What's new]] 
