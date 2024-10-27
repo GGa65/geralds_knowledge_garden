@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dg-home/","tags":["class/HOMEPAGE","gardenEntry","gardenEntry"],"created":"2023-11-05","updated":"2024-10-27T11:26:05.240+01:00"}
+{"dg-publish":true,"permalink":"/dg-home/","tags":["class/HOMEPAGE","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-11-05","updated":"2024-10-27T11:26:05.240+01:00"}
 ---
 
 | [[+Atlas/About me\|About me]] | [[+Atlas/About Knowledge Garden\|About Knowledge Garden]] | [Ich auf Mastodon](https://colearn.social/@gg) |

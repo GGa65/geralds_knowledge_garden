@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calendar/dg-gedankensalat-tagebuch/","tags":["class/diary"],"created":"2024-10-20","updated":"2024-10-27T11:18:49.809+01:00"}
+{"dg-publish":true,"permalink":"/calendar/dg-gedankensalat-tagebuch/","tags":["class/diary"],"created":"2024-10-20","updated":"2024-10-27T13:35:56.674+01:00"}
 ---
 
 ## Gedankensalat
@@ -10,7 +10,10 @@ Nicht alles, was chronologisch passiert,  aber doch die losgelösten, nicht im P
 Das will ich hier versuchen!
 
 
-- 
+- 2024-10-27
+	- ich zeige mir selbst hier mal die Graph-Ansicht meines PKM-Systems 
+		- ![Pasted image 20241027133534.png](/img/user/+/Pasted%20image%2020241027133534.png)
+	- 
 - 2024-10-20
 	- ich komme auf die verrückte Idee, nicht kuratierte Gedanken an dieser Stelle chronologisch im PKM-System zu sammeln, und diese auch noch zu publizieren. Crazy! 
 	- Wenn sich jetzt auch in  BW ein BSW gründet, was wird das für Auswirkungen auf die kommende Landtagswahl in BW haben 
