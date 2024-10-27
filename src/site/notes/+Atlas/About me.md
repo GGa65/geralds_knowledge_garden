@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/about-me/","tags":["class/admin"],"noteIcon":"","updated":"2024-10-20T15:49:14.723+02:00"}
+{"dg-publish":true,"permalink":"/atlas/about-me/","tags":["class/admin"],"noteIcon":"","updated":"2024-10-20T22:19:46.141+02:00"}
 ---
 
 
 > [!INFO]   **Über mich** oder **About me**
 > 
-> Ich bin Gerald G. und unter dem ?? @gg@colearn.social auf Mastodon zu finden.
+> Ich bin Gerald G. und unter dem Handle @gg@colearn.social auf Mastodon zu finden.
 > 
 > Ich bin ein weißer Mann und Deutscher, Jahrgang 1965 und erkläre im Vollbesitz meiner Sinne: Dafür kann ich nichts und dazu stehe ich! Ich meine, es ist weder Verdienst Deutscher von Geburt zu sein noch als Nachkomme weißer Menschen ebenfalls weiß zu sein.  
 > 

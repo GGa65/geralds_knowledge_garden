@@ -6,13 +6,14 @@
 Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierten** Notizen meines [[+Atlas/Notes/Terms/Digital Garden\|Digital Garden]]s, absteigend nach Bearbeitungssdatum sortiert. 
 
 
-| New                                                          | Modified         | Ort                 |
-| ------------------------------------------------------------ | ---------------- | ------------------- |
-| [[DG Home\|DG Home]]                                      | October 20, 2024 |                     |
-| [[+Atlas/Notes/People/Nick Milo\|Nick Milo]]              | October 20, 2024 | +Atlas/Notes/People |
-| [[DG What's new\|DG What's new]]                          | October 20, 2024 |                     |
-| [[+Atlas/About me\|About me]]                             | October 20, 2024 | +Atlas              |
-| [[+Atlas/About Knowledge Garden\|About Knowledge Garden]] | October 20, 2024 | +Atlas              |
+| New                                                                            | Modified         | Ort                      |
+| ------------------------------------------------------------------------------ | ---------------- | ------------------------ |
+| [[+Atlas/Notes/Ideas+Notes/Agile Scrum Frameworks\|Agile Scrum Frameworks]] | October 26, 2024 | +Atlas/Notes/Ideas+Notes |
+| [[+Atlas/About me\|About me]]                                               | October 20, 2024 | +Atlas                   |
+| [[DG Home\|DG Home]]                                                        | October 20, 2024 |                          |
+| [[+Atlas/Notes/People/Nick Milo\|Nick Milo]]                                | October 20, 2024 | +Atlas/Notes/People      |
+| [[DG What's new\|DG What's new]]                                            | October 20, 2024 |                          |
+| [[+Atlas/About Knowledge Garden\|About Knowledge Garden]]                   | October 20, 2024 | +Atlas                   |
 
 { .block-language-dataview}
 
