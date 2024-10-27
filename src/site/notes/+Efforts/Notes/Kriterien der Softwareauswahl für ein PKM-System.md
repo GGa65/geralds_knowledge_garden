@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/notes/kriterien-der-softwareauswahl-fuer-ein-pkm-system/","tags":["class/note","on/PKM"],"updated":"2024-10-27T13:02:25.693+01:00"}
+{"dg-publish":true,"permalink":"/efforts/notes/kriterien-der-softwareauswahl-fuer-ein-pkm-system/","tags":["class/note","on/PKM"],"updated":"2024-10-27T13:11:11.953+01:00"}
 ---
 
 ### Ziel und Abgrenzung dieses Artikels
@@ -8,12 +8,12 @@ Hier will ich versuchen zu erläutern, welche Kriterien mich bei der Auswahl der
 Worum es dabei nicht geht, ist die Frage, was ein PKM-System überhaupt ist, und auch nicht um die Frage, was **mein** PKM-System ist, wie mein PKM-System aufgebaut ist und warum ich mich zur Führung eines PKM-Systems entschieden habe.
 
 ### Ausgangslage
-Meine Beschäftigung mit neuen Formen des Lernens hatte mich im Herbst 2022 in ein Experiment geführt: Ich nah an einer unternehmens-übergreifenden Lernreise teil: An einem Learning Circle zum Thema "Digitale Zusammenarbeit" - [Hier](https://community.sap.com/t5/sap-for-utilities-blogs/learning-circle-experience-digitale-zusammenarbeit/ba-p/13566620) habe ich darüber geschrieben.
+Meine Beschäftigung mit neuen Formen des Lernens hatte mich im Herbst 2022 in ein Experiment geführt: Ich nahm an einer unternehmens-übergreifenden Lernreise teil: An einem Learning Circle zum Thema "Digitale Zusammenarbeit" - [Hier](https://community.sap.com/t5/sap-for-utilities-blogs/learning-circle-experience-digitale-zusammenarbeit/ba-p/13566620) habe ich darüber geschrieben.
 Ein für mich wertvolles (Meta-)Resultat dieser Erfahrung war das Kennenlernen von im weitesten Sinne Gleichgesinnten und von Konzepten und Quellen für das eigenverantwortliche und selbst-organisierte Lernen mit Peers.
 
-Eine der neuen sich mir als neu darstellenden Quellen ist [das LernOS von Cogneon](https://lernos.org/de/). Unter dem Motto "Keep Calm an Learn On" werden zunächst durch eine sich selbst organisierende Community sogenannte [Leitfäden](https://lernos.org/de/1-guides/) ersonnen die dann auf der Internetpräsenz veröffentlicht werden.  
+Eine der sich mir als neu darstellenden Quellen ist [das LernOS von Cogneon](https://lernos.org/de/). Unter dem Motto "Keep Calm an Learn On" werden zunächst durch eine sich selbst organisierende Community sogenannte [Leitfäden](https://lernos.org/de/1-guides/) ersonnen die dann auf der Internetpräsenz veröffentlicht werden.  
 
-Einer dieser Leitfäden ist der [Leitfaden zum Thema Zettelkasten](https://lernos.org/de/guides/zettelkasten/), der - ich möchte fast sagen - mich gefunden hat. Im Thema Zettelkasten und dem Durchlaufen eines entsprechenden Learning Circle im Frühjahr 2023 ist der Startpunkt verborgen für meine persönliche *strukturierte* Beschäftigung[^1] mit dem Thema PKM und den dafür notwendigen Skills und Werkzeugen.   
+Einer dieser Leitfäden ist der [Leitfaden zum Thema Zettelkasten](https://lernos.org/de/guides/zettelkasten/), der - ich möchte fast sagen - mich gefunden hat. Im Thema Zettelkasten und dem Durchlaufen eines entsprechenden Learning Circle im Frühjahr 2023 ist der Startpunkt verborgen für meine persönliche *strukturierte Beschäftigung*[^1] mit dem Thema PKM und den dafür notwendigen Skills und Werkzeugen.   
 
 ### Fragen zur Softwareauswahl, die sich (mir) stellen
 Zunächst: 
@@ -49,6 +49,8 @@ Welche Anforderungen stelle ich also an mein PKM-System? Welche konkreten Fragen
 - ... und viele weitere Fragen sind möglich. 
  
 Die Liste kann individuell sehr viel länger werden.
+
+### Weiterführende Leseempfehlung
 [[+/Mein PKM-Setup - public\|Mein PKM-Setup - public]] 
 
 
