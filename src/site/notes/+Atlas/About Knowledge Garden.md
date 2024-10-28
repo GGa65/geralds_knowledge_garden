@@ -13,7 +13,7 @@ Es ist insofern der Versuch, sich persönlich mit effizienten Techniken der Ver�
 
 Es ist darüber hinaus der Versuch, sich in einem längeren Selbstversuch der Frage zu nähern, inwieweit neben Wordpress[^2] andere Techniken in den persönlichen Dauergebrauch übernommen werden können.   
 
-Man kann auch argumentieren, mein **knowledge garden** ist der **öffentliche Teil** meines **Kollektaneen-Buch**es, wie es von [[+Atlas/Notes/People/Tiago Forte\|Tiago Forte]] in seinem Buch [[How to build your Second Brain\|How to build your Second Brain]] beschrieben ist.
+Man kann auch argumentieren, mein **knowledge garden** ist der **öffentliche Teil** meines **Kollektaneen-Buch**es, wie es von [[+References/People/Tiago Forte\|Tiago Forte]] in seinem Buch [[How to build your Second Brain\|How to build your Second Brain]] beschrieben ist.
 
 Wer ich bin, findet sich unter [[+Atlas/About me\|About me]].
 

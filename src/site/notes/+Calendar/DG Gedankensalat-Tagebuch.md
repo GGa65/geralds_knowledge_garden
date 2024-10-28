@@ -4,7 +4,7 @@
 
 ## Gedankensalat
 
-Wenn man sich dem Gärtnern in einem [[+Atlas/Notes/Terms/Digital Garden\|Digital Garden]] hingibt, liegt es unter Umständen nahe, sich auch dem chronologischen Aufschreiben seiner Gedanken zu widmen.
+Wenn man sich dem Gärtnern in einem [[+References/Terms/Digital Garden\|Digital Garden]] hingibt, liegt es unter Umständen nahe, sich auch dem chronologischen Aufschreiben seiner Gedanken zu widmen.
 Nicht alles, was chronologisch passiert,  aber doch die losgelösten, nicht im PKM-System kuratierten Gedankenschnipsel ... Gedankensalat eben.
 
 Das will ich hier versuchen!

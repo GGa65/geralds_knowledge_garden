@@ -5,7 +5,7 @@
 
 > [!radar] ### Über "Efforts"
 > 
-> Ich gebe es zu, ich folge hier dem Gedankengang von [[+Atlas/Notes/People/Nick Milo\|Nick Milo]]s Konzept über die **Differenzierung** zwischen **Projekten** und **Efforts**.
+> Ich gebe es zu, ich folge hier dem Gedankengang von [[+References/People/Nick Milo\|Nick Milo]]s Konzept über die **Differenzierung** zwischen **Projekten** und **Efforts**.
 > 
 > Sein Argument ist:
 > - Projects are rigid and narrowly defined (*top-down*). 

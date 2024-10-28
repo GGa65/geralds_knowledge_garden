@@ -8,7 +8,7 @@ Alles hat einen Bezug zur Zeit oder bezieht sich auf oder gehört zu einem Zeitp
 Und doch sind nicht alle Notizen im Kontext der Zeit zu verwalten. (siehe auch, in Abgrenzung hierzu, [[+Efforts/+About Efforts\|+About Efforts]] und [[+Atlas/+About Atlas\|+About Atlas]])
 
 > [!calendar] Der Ordner "Calendar" ...
-> ... **vereint alles, was** - nach [[+Atlas/Notes/People/Nick Milo\|Nick Milo]] - unter **"time-stamped"**-Notizen subsummiert werden und damit **im Kontext von Zeit verwaltet werden kann**.  
+> ... **vereint alles, was** - nach [[+References/People/Nick Milo\|Nick Milo]] - unter **"time-stamped"**-Notizen subsummiert werden und damit **im Kontext von Zeit verwaltet werden kann**.  
 
 Dazu gehören:
 - **Daily Notes** 
