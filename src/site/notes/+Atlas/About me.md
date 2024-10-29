@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/about-me/","tags":["class/admin"],"updated":"2024-10-27T14:33:26.399+01:00"}
+{"dg-publish":true,"permalink":"/atlas/about-me/","tags":["class/admin"]}
 ---
 
 

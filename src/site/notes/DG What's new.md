@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dg-what-s-new/","tags":["class/index"],"updated":"2024-10-27T10:47:03.072+01:00"}
+{"dg-publish":true,"permalink":"/dg-what-s-new/","tags":["class/index"]}
 ---
 
 ## What's New (die neuesten 30 public Notes)

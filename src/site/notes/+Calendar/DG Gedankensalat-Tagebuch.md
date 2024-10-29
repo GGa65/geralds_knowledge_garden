@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calendar/dg-gedankensalat-tagebuch/","tags":["class/diary"],"created":"2024-10-20","updated":"2024-10-27T13:49:41.471+01:00"}
+{"dg-publish":true,"permalink":"/calendar/dg-gedankensalat-tagebuch/","tags":["class/diary"]}
 ---
 
 ## Gedankensalat
