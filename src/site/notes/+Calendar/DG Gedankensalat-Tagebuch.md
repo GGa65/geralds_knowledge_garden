@@ -14,7 +14,7 @@ Das will ich hier versuchen!
 	- ich zeige mir selbst hier mal die Graph-Ansicht meines PKM-Systems 
 { #4ca8ac}
 
-		- ![Pasted image 20241027133534.png](/img/user/+/Pasted%20image%2020241027133534.png)
+		- ![Pasted image 20241027133534.png](/img/user/+References/Images/Pasted%20image%2020241027133534.png)
 	- 
 - 2024-10-20
 	- ich komme auf die verrückte Idee, nicht kuratierte Gedanken an dieser Stelle chronologisch im PKM-System zu sammeln, und diese auch noch zu publizieren. Crazy! 

@@ -8,7 +8,7 @@
 
 **ChatGPT** hat mir am 2023-05-11 verraten, wer Nick Milo ist:
 
-- Nick Milo ist ein amerikanischer **Produktivitätstrainer** und der **Schöpfer der "Linking Your Thinking"-Methode** (siehe [[10_Zettel/LYT approach\|LYT approach]], die darauf abzielt, komplexe Informationen durch die Verwendung von Mind Maps und anderen visuellen Techniken zu organisieren.
+- Nick Milo ist ein amerikanischer **Produktivitätstrainer** und der **Schöpfer der "Linking Your Thinking"-Methode** (siehe [[+/LYT approach\|LYT approach]], die darauf abzielt, komplexe Informationen durch die Verwendung von Mind Maps und anderen visuellen Techniken zu organisieren.
 - ... keine genauen Informationen über seinen Lebensweg: aber ich habe in Erinnerung, dass er ein ehemaliger Polizist und Manager war, bevor er sich dem Bereich der Produktivität und des Lernens widmete. 
 - Er hat auch einen **Master-Abschluss** in Organisationsentwicklung und verfügt über **mehr als 20 Jahre Erfahrung in der Erwachsenenbildung**.
 - Nick Milo ist der Gründer von "[Linking Your Thinking](https://www.linkingyourthinking.com/)", einem Unternehmen, das sich auf die Bereitstellung von Produkten und Dienstleistungen konzentriert, die Menschen helfen, ihre kreativen Fähigkeiten zu verbessern und ihre Ziele zu erreichen. 
@@ -34,16 +34,16 @@ Der letzte Spiegelstrich bekommt von mir das Attribut "#attribut/rolling_eyes" v
 ---
 ## Nennungen im PKM-System
 `Im Dataview Code bei FROM [[this file name]] den FileNamen dieses Files eintragen` 
-| Notiz                                                   | Ort                 | Erstellt    |
-| ------------------------------------------------------- | ------------------- | ----------- |
-| [[+Atlas/+About Atlas\|+About Atlas]]                | +Atlas              | 2024-03-04  |
-| [[+Calendar/+About Calendar\|+About Calendar]]       | +Calendar           | 2024-02-17  |
-| [[+Efforts/+About Efforts\|+About Efforts]]          | +Efforts            | 2024-02-17  |
-| [[+References/+About References\|+About References]] | +References         | 2024-05-25  |
-| [[+References/Terms/ACE\|ACE]]                       | +References/Terms   | 2024-02-19  |
-| [[DG Home\|DG Home]]                                 |                     | 2024-10-20  |
-| [[Admin/00 VAULT Doku/Konzept Tags\|Konzept Tags]]   | Admin/00 VAULT Doku | 2023-04-19  |
-| [[10_Zettel/LYT approach\|LYT approach]]             | 10_Zettel           | 2023-04-26  |
-| [[+Atlas/Notes/PARA\|PARA]]                          | +Atlas/Notes        | 2024-02-05  |
+| Notiz                                                   | Ort               | Erstellt    |
+| ------------------------------------------------------- | ----------------- | ----------- |
+| [[+Atlas/+About Atlas\|+About Atlas]]                | +Atlas            | 2024-03-04  |
+| [[+Calendar/+About Calendar\|+About Calendar]]       | +Calendar         | 2024-02-17  |
+| [[+Efforts/+About Efforts\|+About Efforts]]          | +Efforts          | 2024-02-17  |
+| [[+References/+About References\|+About References]] | +References       | 2024-05-25  |
+| [[+References/Terms/ACE\|ACE]]                       | +References/Terms | 2024-02-19  |
+| [[DG Home\|DG Home]]                                 |                   | 2024-10-20  |
+| [[+/Konzept Tags\|Konzept Tags]]                     | +                 | 2023-04-19  |
+| [[+/LYT approach\|LYT approach]]                     | +                 | 2023-04-26  |
+| [[+Atlas/Notes/PARA\|PARA]]                          | +Atlas/Notes      | 2024-02-05  |
 
 { .block-language-dataview}

@@ -16,7 +16,7 @@ Mein Digitaler Garten ist Teil meines persönlichen Wissensmanagement-Systems (P
 
 ## Zur Herkunft der Ideen rund um mein PKM
 
-Im Sinne von [[+References/People/Nick Milo\|Nick Milo]] und seinem [[10_Zettel/LYT approach\|LYT approach]] ist diese Notiz der zentrale Knoten im Geflecht des sogenannten **Second Brain**[^1] (oder auch [[+References/Terms/Zweites Gehirn\|Zweites Gehirn]]), es ist die *HOMEPAGE* des Projektes *Knowledge-Garden.de*. Die Notiz [[DG Home\|DG Home]] ist demnach der **zentrale Einstiegspunkt** in meinen **veröffentlichten** Gedankensalat[^2]. 
+Im Sinne von [[+References/People/Nick Milo\|Nick Milo]] und seinem [[+/LYT approach\|LYT approach]] ist diese Notiz der zentrale Knoten im Geflecht des sogenannten **Second Brain**[^1] (oder auch [[+References/Terms/Zweites Gehirn\|Zweites Gehirn]]), es ist die *HOMEPAGE* des Projektes *Knowledge-Garden.de*. Die Notiz [[DG Home\|DG Home]] ist demnach der **zentrale Einstiegspunkt** in meinen **veröffentlichten** Gedankensalat[^2]. 
 
 Und mein veröffentlichter Gedankensalat ist **Mein [[+References/Terms/Digital Garden\|Digital Garden]]**, der den Namen **[Knowledge Garden](https://knowledge-garden.de)** trägt und unter https://knowledge-garden.de im world wide web zu finden ist.
 
@@ -39,7 +39,7 @@ Nun ist alles klar oder?
 
 ## [[DG What's new\|DG What's new]] 
 
-Damit wiederkehrende Leser einen Überblick bekommen können über **Was ist neu hier?** gibt es (bzw wird es geben 😉) eine Notiz genau zu dieser Frage: Unter **[[DG What's new\|DG What's new]]** findet sich eine Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierten** Notizen meines [[+References/Terms/Digital Garden\|Digital Garden]]s. Denn gerade weil es ein Garten ist, sieht man nicht immer sofort, was neu hervorsprießt. Es ist nicht wie in einem Blog in historischer Reihenfolge oder wie auf einer gut geordneten Website nach Themen oder anderen Schubladen sortiert. (Obgleich man  dazu auch noch mal nachdenken könnte ... #todo/follow-up)
+Damit wiederkehrende Leser einen Überblick bekommen können über **Was ist neu hier?** gibt es (bzw wird es geben 😉) eine Notiz genau zu dieser Frage: Unter **[[DG What's new\|DG What's new]]** findet sich eine Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierten** Notizen meines [[+References/Terms/Digital Garden\|Digital Garden]]s. Denn gerade weil es ein Garten ist, sieht man nicht immer sofort, was neu hervorsprießt. Es ist nicht wie in einem Blog in historischer Reihenfolge oder wie auf einer gut geordneten Website nach Themen oder anderen Schubladen sortiert. (Obgleich man  dazu auch noch mal nachdenken könnte ... #actions/follow-up)
 
 ## Content Sheet
 > [!sprout] Mein [[+References/Terms/Digital Garden\|Digital Garden]] strukturiert sich wie folgt:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/agile-scrum-frameworks/","tags":["class/note","on/methodology","todo/follow-up"]}
+{"dg-publish":true,"permalink":"/atlas/notes/agile-scrum-frameworks/","tags":["class/note","on/methodology","actions/follow-up"]}
 ---
 
 
