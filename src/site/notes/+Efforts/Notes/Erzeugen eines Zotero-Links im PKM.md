@@ -28,7 +28,7 @@ Ich möchte den Link zum Zotero Eintrag nachdem Pattern `{firstAUTHOR.LASTNAME} 
 
 ##### Befehl zum Setzen des Links
 Für das Werk "The Product Book" ergibt sich dann bei Ausführung des Befehls "Zotero Link: Insert" der Link[^3] und ich bin in der Lage im Täglichen Log zum Beispiel folgendes zu notieren:
-- LOGGING:: Ich habe heute ein weiteres Kapitel im Buch [Anon (2017) - The Product Book](zotero://select/library/items/DVLFJ4W9) gelesen, und frage mich ernsthaft, was in diesem Buch ... (das verrate ich hier nicht 😉) ...
+- LOGGING:: Ich habe heute ein weiteres Kapitel im Buch [Anon (2017) - The Product Book](zotero://select/library/items/DVLFJ4W9)[^4] gelesen, und frage mich ernsthaft, was in diesem Buch ... (das verrate ich hier nicht 😉) ...
 
 ### Fazit
 Es sollte klar geworden sein, wie ein reiner Link zu einem Zotero-Eintrag in einem auf Obsidian basierenden PKM-System (**an beliebiger Stelle im PKM-System**) gesetzt werden kann. Man benötigt lediglich (neben Zotero) die Obsidian Community Plugins "[Zotero Bridge](https://github.com/vanakat/zotero-bridge)" & "[Zotero Link](https://github.com/vanakat/zotero-link)".
@@ -41,3 +41,5 @@ Es sollte klar geworden sein, wie ein reiner Link zu einem Zotero-Eintrag in ein
 [^2]: ich habe im Bild die Bezeichnung meiner Bibliothek ausgeblendet.
 
 [^3]: Ich habe mir übrigens für schnelleres (mausfreies) Arbeiten im PKM das Tastenkürzel `ALT + Z` auf den Befehl "Zotero Link: Insert" gelegt.
+
+[^4]: Dass die meisten Leser von https://knowledge-garden mit dem hier publizierten Link ins vollkommen Leere greifen und jene, bei denen Zotero installiert ist, nichts finden, sollte niemanden verwundern. Denn natürlich greift der Link auf die *lokale* Anwendung Zotero zu und nicht auf jene Zotero-Anwendung des Autors dieser Notiz. Falls jemand etwas findet, in seinem eigenen Zotero, dann liegt es am zufällig dort ebenfalls vorhandenen Datenbankeintrag "DVLFJ4W9", der aber natürlich nicht von "The Product Book" belegt sein dürfte. 🤣🤣🤣🤣
