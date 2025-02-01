@@ -27,7 +27,7 @@ Ich möchte den Link zum Zotero Eintrag nachdem Pattern `{firstAUTHOR.LASTNAME} 
 - {{ firstAuthor.lastName }} ({{ date.year }}) - {{ title }}
 
 ##### Befehl zum Setzen des Links
-Für das Werk "The Produkt Book" ergibt sich dann bei Ausführung des Befehls "Zotero Link: Insert" der Link[^3] und ich bin in der Lage im Täglichen Log zum Beispiel folgendes zu notieren:
+Für das Werk "The Product Book" ergibt sich dann bei Ausführung des Befehls "Zotero Link: Insert" der Link[^3] und ich bin in der Lage im Täglichen Log zum Beispiel folgendes zu notieren:
 - LOGGING:: Ich habe heute ein weiteres Kapitel im Buch [Anon (2017) - The Product Book](zotero://select/library/items/DVLFJ4W9) gelesen, und frage mich ernsthaft, was in diesem Buch ... (das verrate ich hier nicht 😉) ...
 
 ### Fazit
