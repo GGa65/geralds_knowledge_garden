@@ -3,7 +3,7 @@
 ---
 
 
-## SMART: A classic approach in goal setting
+## SMART: The classic approach in goal setting
 
 Das Ganze geht zurück auf [[George T. Doran\|George T. Doran]] in the *November 1981 issue of Management Review*. 
 
@@ -36,7 +36,7 @@ Eingedeutscht müsste man also **SMERT** sagen
 - Über die manchmal auftretende **Nicht-Anwendbarkeit** der Methode: [SMART goals are not so smart: make a PACT instead](https://nesslabs.com/smart-goals-pact)  
 
 ### Fazit
-Man kann SMARTe Zielsetzung manchman besser mit einer Zielsetzung nach [[+/PACT\|PACT]] erreichen.
+Man kann SMARTe Zielsetzung manchman besser mit einer Zielsetzung nach [[+References/Terms/PACT\|PACT]] erreichen.
  
 
 
