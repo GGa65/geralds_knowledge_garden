@@ -10,6 +10,8 @@ Nicht alles, was chronologisch passiert,  aber doch die losgelösten, nicht im P
 Das will ich hier versuchen!
 
 ## Gedankensalat Zeitleiste (absteigend)
+- 2025-03-27
+	- ![Pasted image 20250327102923.png](/img/user/+/Pasted%20image%2020250327102923.png)
 - 2024-10-27
 	- ich zeige mir selbst hier mal die Graph-Ansicht meines PKM-Systems 
 { #4ca8ac}
@@ -18,10 +20,6 @@ Das will ich hier versuchen!
 	- 
 - 2024-10-20
 	- ich komme auf die verrückte Idee, nicht kuratierte Gedanken an dieser Stelle chronologisch im PKM-System zu sammeln, und diese auch noch zu publizieren. Crazy! 
-	- Wenn sich jetzt auch in  BW ein BSW gründet, was wird das für Auswirkungen auf die kommende Landtagswahl in BW haben 
-		- https://www.zeit.de/politik/deutschland/2024-10/buendnis-sahra-wagenknecht-beden-wuerttemberg
-	- Tipp von ADB (= [[Anke Domscheit-Berg\|Anke Domscheit-Berg]]):
-		- https://bundesrechtsanwaltskammer.podigee.io/170-kurz_knackig_30 
 	- "Es gibt genau eine Person, die am besten weiß, was gut für für dich ist. Diese Person bist Du." 
 		- https://bsky.app/profile/meerestochter.bsky.social/post/3l6x3wrs5ep23 (um den Link lesen zu können, muss man bei BSKY eingeloggt sein)
 	- Ich liebe ja solche Posts in social media 🤣
