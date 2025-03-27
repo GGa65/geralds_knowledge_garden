@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/sleeping/wie-man-kuehlschrank-tuerscharniere-tauscht/","tags":["class/projectNote","class/how-to"]}
+{"dg-publish":true,"permalink":"/efforts/sleeping/wie-man-kuehlschrank-tuerscharniere-tauscht/","tags":["class/how-to","class/efforts"]}
 ---
 
 
