@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/about-efforts/","tags":["class/admin","on/PKM"]}
+{"dg-publish":true,"permalink":"/efforts/about-efforts/","tags":["class/admin","thema/PKM"]}
 ---
 
 

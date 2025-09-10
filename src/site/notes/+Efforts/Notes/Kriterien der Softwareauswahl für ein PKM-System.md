@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/notes/kriterien-der-softwareauswahl-fuer-ein-pkm-system/","tags":["class/note","on/PKM"]}
+{"dg-publish":true,"permalink":"/efforts/notes/kriterien-der-softwareauswahl-fuer-ein-pkm-system/","tags":["class/note","thema/PKM"]}
 ---
 
 ### Ziel und Abgrenzung dieses Artikels

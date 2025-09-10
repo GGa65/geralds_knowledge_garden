@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calendar/about-calendar/","tags":["class/admin","on/PKM"]}
+{"dg-publish":true,"permalink":"/calendar/about-calendar/","tags":["class/admin","thema/PKM"]}
 ---
 
 All unsere Erlebnisse, Erfolge, Misserfolge, Ideen, Gedanken hängen an einem *universellen Konzept*, dass wir **Zeit** nennen. Das Konzept der Zeit lässt alles miteinander zusammenhängen, Ideen können basierend auf anderen Ideen entstehen, aber nur wenn die eine Idee vor der anderen entstand und sie im Moment des Entstehend der neuen Idee bekannt war. Aufeinander basieren können ideen nur unter dieser Voraussetzung.
