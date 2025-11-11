@@ -11,5 +11,9 @@ Es ermöglicht mir, in dem Moment, in dem ich eine neue Notiz erzeuge, das für 
 
 ### Einstellungen
 - die sind ohne jeglichen Schnickschnack im **Auslieferungszustand**
-- ![Pasted image 20250902173452.png|700](/img/user/+/Pasted%20image%2020250902173452.png)
+
+---
+![Pasted image 20250902173452.png|600](/img/user/+/Pasted%20image%2020250902173452.png)
+  
+---
 

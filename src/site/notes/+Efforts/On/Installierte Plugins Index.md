@@ -6,7 +6,8 @@
 == UNDER CONSTRUCTION ==
 
 ###### [[+Atlas/Notes/Plugin Auto Template Trigger\|Plugin Auto Template Trigger]]
-###### [[Plugin Better Word Count\|Plugin Better Word Count]]
+###### Plugin Better Word Count
+Ein rein statistisches Plugin - hat aber letztlich keine Relevanz gezeigt, weshalb ich es am [[+Calendar/Daily/2025-09-22\|2025-09-22]] deaktiviert habe.
 ###### [[Plugin Book Search\|Plugin Book Search]]
 ###### [[Plugin Calendar\|Plugin Calendar]]
 ###### [[Plugin Callout Manager\|Plugin Callout Manager]]
