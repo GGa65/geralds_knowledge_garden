@@ -11,7 +11,7 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                                                                              | Modified   | Ort                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------------ |
-| [[+/Gedanken über Abschlagsplanverlängerungen\|Gedanken über Abschlagsplanverlängerungen]]                                                                                                    | 2025-11-11 | +                  |
+| [[+Efforts/Notes/Gedanken über Abschlagsplanverlängerungen\|Gedanken über Abschlagsplanverlängerungen]]                                                                                       | 2025-11-11 | +Efforts/Notes     |
 | [[+References/Quotes/Clarity versus detail\|Clarity versus detail]]                                                                                                                           | 2025-11-08 | +References/Quotes |
 | [[+References/Quotes/Information collection is not wisdom\|Information collection is not wisdom]]                                                                                             | 2025-11-08 | +References/Quotes |
 | [[+Efforts/Notes/2023-02-26 - Die zensierten Kohl-Protokolle – Ein Blog von Muschelschale97 in Themen\|2023-02-26 - Die zensierten Kohl-Protokolle – Ein Blog von Muschelschale97 in Themen]] | 2025-09-22 | +Efforts/Notes     |
