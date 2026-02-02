@@ -94,7 +94,7 @@ Mit einer schnellen (selbst definierbaren) Tastenkombination das aktuelle Datum 
 
 ##### Purpose
 Stellt mir eine Statuszeile zur Verfügung die aktuelle Kennzahlen liefert:
-![Statuszeile mit Plugin Vault Statistics.png](/img/user/+/Statuszeile%20mit%20Plugin%20Vault%20Statistics.png)
+![Statuszeile mit Plugin Vault Statistics.png](/img/user/+References/Images/Statuszeile%20mit%20Plugin%20Vault%20Statistics.png)
 
 
 </div></div>
