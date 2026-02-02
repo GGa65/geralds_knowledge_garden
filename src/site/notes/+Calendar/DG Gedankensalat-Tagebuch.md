@@ -10,6 +10,8 @@ Nicht alles, was chronologisch passiert,  aber doch die losgelösten, nicht im P
 Das will ich hier versuchen!
 
 ## Gedankensalat Zeitleiste (absteigend)
+- 2026-02-02
+	- ich habe Anfang 2026 einen Entschluss gefasst, der in [[+About (2026)\|+About (2026)]] in Worte gefasst ist 
 - 2025-03-27
 	- ![Pasted image 20250327102923.png](/img/user/+/Pasted%20image%2020250327102923.png)
 - 2024-10-27

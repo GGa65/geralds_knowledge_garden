@@ -11,6 +11,7 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                                                                              | Modified   | Ort                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------------ |
+| [[+Calendar/DG Gedankensalat-Tagebuch\|DG Gedankensalat-Tagebuch]]                                                                                                                            | 2026-02-02 | +Calendar          |
 | [[DG Home\|DG Home]]                                                                                                                                                                          | 2026-02-02 |                    |
 | [[+About (2026)\|+About (2026)]]                                                                                                                                                              | 2026-02-02 |                    |
 | [[+Calendar/+About Calendar\|+About Calendar]]                                                                                                                                                | 2026-02-02 | +Calendar          |
@@ -34,7 +35,6 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 | [[+References/People/Nick Milo\|Nick Milo]]                                                                                                                                                   | 2025-04-12 | +References/People |
 | [[+Efforts/Sleeping/Wie man Kühlschrank-Türscharniere tauscht\|Wie man Kühlschrank-Türscharniere tauscht]]                                                                                    | 2025-04-12 | +Efforts/Sleeping  |
 | [[+Efforts/Notes/Erzeugen eines Zotero-Links im PKM\|Erzeugen eines Zotero-Links im PKM]]                                                                                                     | 2025-04-12 | +Efforts/Notes     |
-| [[+Calendar/DG Gedankensalat-Tagebuch\|DG Gedankensalat-Tagebuch]]                                                                                                                            | 2025-04-12 | +Calendar          |
 | [[+Calendar/2025/2025 Gerald wandert - public\|2025 Gerald wandert - public]]                                                                                                                 | 2025-04-12 | +Calendar/2025     |
 | [[+Atlas/INDIZEES/DG MOC published Efforts\|DG MOC published Efforts]]                                                                                                                        | 2025-04-12 | +Atlas/INDIZEES    |
 | [[+Atlas/About me\|About me]]                                                                                                                                                                 | 2025-04-12 | +Atlas             |
