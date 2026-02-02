@@ -11,8 +11,8 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                                                                              | Modified   | Ort                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------------ |
-| [[+Efforts/On/Installierte Plugins Index\|Installierte Plugins Index]]                                                                                                                        | 2026-02-02 | +Efforts/On        |
 | [[+Atlas/Notes/Plugin ICS\|Plugin ICS]]                                                                                                                                                       | 2026-02-02 | +Atlas/Notes       |
+| [[+Efforts/On/Installierte Plugins Index\|Installierte Plugins Index]]                                                                                                                        | 2026-02-02 | +Efforts/On        |
 | [[+Calendar/DG Gedankensalat-Tagebuch\|DG Gedankensalat-Tagebuch]]                                                                                                                            | 2026-02-02 | +Calendar          |
 | [[DG Home\|DG Home]]                                                                                                                                                                          | 2026-02-02 |                    |
 | [[+About (2026)\|+About (2026)]]                                                                                                                                                              | 2026-02-02 |                    |
