@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/references/quotes/information-collection-is-not-wisdom/","tags":["🗨️Quote"]}
 ---
 
+- Collecting information is not the same as growing wisdom 
 
 > [!KEATON] Quote 
 > "Collecting information is not the same as growing wisdom"

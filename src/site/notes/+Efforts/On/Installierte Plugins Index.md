@@ -16,7 +16,7 @@ Ein rein statistisches Plugin - hat aber letztlich keine Relevanz gezeigt, wesha
 ###### [[Plugin Dangling Links\|Plugin Dangling Links]]
 ###### [[Plugin Dataview\|Plugin Dataview]]
 ###### [[Plugin Dictionary\|Plugin Dictionary]]
-###### [[Plugin Digital Garden\|Plugin Digital Garden]]
+###### [[+/Plugin Digital Garden#Purpose\|Plugin Digital Garden#Purpose]]
 ###### [[Plugin Enhancing Export\|Plugin Enhancing Export]]
 ###### [[Plugin Excalidraw\|Plugin Excalidraw]]
 ###### [[Plugin Flexible Pomodoro For Obsidian\|Plugin Flexible Pomodoro For Obsidian]]

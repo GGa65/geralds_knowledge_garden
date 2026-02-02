@@ -11,17 +11,19 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                                                                              | Modified   | Ort                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------------ |
+| [[DG Home\|DG Home]]                                                                                                                                                                          | 2026-02-02 |                    |
+| [[+About (2026)\|+About (2026)]]                                                                                                                                                              | 2026-02-02 |                    |
+| [[+Calendar/+About Calendar\|+About Calendar]]                                                                                                                                                | 2026-02-02 | +Calendar          |
+| [[+References/Quotes/Information collection is not wisdom\|Information collection is not wisdom]]                                                                                             | 2025-12-06 | +References/Quotes |
+| [[+References/Quotes/Clarity versus detail\|Clarity versus detail]]                                                                                                                           | 2025-12-06 | +References/Quotes |
+| [[+Efforts/On/Installierte Plugins Index\|Installierte Plugins Index]]                                                                                                                        | 2025-11-25 | +Efforts/On        |
 | [[+Efforts/Notes/Gedanken über Abschlagsplanverlängerungen\|Gedanken über Abschlagsplanverlängerungen]]                                                                                       | 2025-11-11 | +Efforts/Notes     |
-| [[+References/Quotes/Clarity versus detail\|Clarity versus detail]]                                                                                                                           | 2025-11-08 | +References/Quotes |
-| [[+References/Quotes/Information collection is not wisdom\|Information collection is not wisdom]]                                                                                             | 2025-11-08 | +References/Quotes |
 | [[+Efforts/Notes/2023-02-26 - Die zensierten Kohl-Protokolle – Ein Blog von Muschelschale97 in Themen\|2023-02-26 - Die zensierten Kohl-Protokolle – Ein Blog von Muschelschale97 in Themen]] | 2025-09-22 | +Efforts/Notes     |
 | [[+Atlas/Notes/Plugin ICS\|Plugin ICS]]                                                                                                                                                       | 2025-09-22 | +Atlas/Notes       |
 | [[+Atlas/Notes/Plugin Auto Template Trigger\|Plugin Auto Template Trigger]]                                                                                                                   | 2025-09-22 | +Atlas/Notes       |
-| [[+Efforts/On/Installierte Plugins Index\|Installierte Plugins Index]]                                                                                                                        | 2025-09-22 | +Efforts/On        |
 | [[+Efforts/Notes/Kriterien der Softwareauswahl für ein PKM-System\|Kriterien der Softwareauswahl für ein PKM-System]]                                                                         | 2025-09-01 | +Efforts/Notes     |
 | [[+Efforts/Notes/DG Mein PKM-Setup - public\|DG Mein PKM-Setup - public]]                                                                                                                     | 2025-09-01 | +Efforts/Notes     |
 | [[+Efforts/+About Efforts\|+About Efforts]]                                                                                                                                                   | 2025-09-01 | +Efforts           |
-| [[+Calendar/+About Calendar\|+About Calendar]]                                                                                                                                                | 2025-09-01 | +Calendar          |
 | [[+Atlas/Notes/Agile Scrum Frameworks\|Agile Scrum Frameworks]]                                                                                                                               | 2025-09-01 | +Atlas/Notes       |
 | [[+References/Terms/Ende der Geschichte\|Ende der Geschichte]]                                                                                                                                | 2025-06-06 | +References/Terms  |
 | [[+References/Terms/Geschäftsfunktion\|Geschäftsfunktion]]                                                                                                                                    | 2025-06-06 | +References/Terms  |
@@ -39,8 +41,6 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 | [[+Atlas/About Knowledge Garden\|About Knowledge Garden]]                                                                                                                                     | 2025-04-12 | +Atlas             |
 | [[+Atlas/About Decisions\|About Decisions]]                                                                                                                                                   | 2025-04-12 | +Atlas             |
 | [[+References/Terms/Thymos\|Thymos]]                                                                                                                                                          | 2025-04-02 | +References/Terms  |
-| [[+Atlas/INDIZEES/MOC How-To\|MOC How-To]]                                                                                                                                                    | 2025-01-28 | +Atlas/INDIZEES    |
-| [[DG Home\|DG Home]]                                                                                                                                                                          | 2025-01-25 |                    |
 
 { .block-language-dataview}
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/dg-home/","tags":["class/HOMEPAGE","gardenEntry"]}
 ---
 
-| [[+Atlas/About me\|About me]] | [[+Atlas/About Knowledge Garden\|About Knowledge Garden]] | [Ich auf Mastodon](https://colearn.social/@gg) |
+| [[+Atlas/About me\|About me]] | [[+Atlas/About Knowledge Garden\|About Knowledge Garden]] | [Ich auf Mastodon](https://colearn.social/@gg) | [[+About (2026)\|+About (2026)]] 
 
 # Willkommen auf knowledge-garden.de
 
