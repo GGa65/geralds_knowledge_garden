@@ -4,12 +4,12 @@
 
 `Zielfolder: +Atlas/Notes`
 
-### Purpose
+##### Purpose
 Ich möchte eine einfache Möglichkeit haben, meine **Termine des Tages, die in verschiedenen Kalendern gepflegt sind,** als Liste **in den Daily Notes unterzubringen.** Siehe Beispiel am Ende dieser Notiz. 
 
 Es substituiert damit in meinem PKM System alle Plugins, die nur auf genau einen Kalender zugreifen können.
 
-### Einstellungen
+##### Einstellungen
 ![Pasted image 20250906102927.png](/img/user/+/Pasted%20image%2020250906102927.png)
 - es werden im Plugin Kalender "angelegt", in dem auf den ICS-Link des geteilten Original-Kalenders verweist. Dabei wird dem konnektierten Link ein Obsidian-interner Kalendername vergeben.
 
