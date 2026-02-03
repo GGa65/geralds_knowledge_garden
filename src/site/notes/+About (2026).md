@@ -16,7 +16,7 @@ Die Verwaltung meines Freeelancertums bedarf einer Notizenwelt, die die von mir 
 
 Meine persönliche PKM Sicht auf interessante Konzepte, Ideen, Themen, die sich in meinem Kopf sammeln und festgehalten werden wollen um darüber nachzudenken und ggf. hin und wieder darüber zu schreiben, dürfen und sollen von den vielen Details des Freelancer-Alltags nicht überwuchert werden und sind deshalb - so meine Entscheidung - getrennt davon zu erhalten.
 
-"Erhalten" ist dabei das korrekte Verb. Erhalten bedeutet, ich bleibe mit der persönlichen Sicht im Werkzeug Obsidian und auf diese Wiese auch in meinem [[+References/Terms/Digital Garden\|Digital Garden]], der sich mit seinem öffentlichen Teil hier auf [knowledge-garden.de](https://knowledge-garden.de) befindet.
+"Erhalten" ist dabei das korrekte Verb. Erhalten bedeutet, ich bleibe mit der persönlichen Sicht im Werkzeug Obsidian und auf diese Weise auch in meinem [[+References/Terms/Digital Garden\|Digital Garden]], der sich mit seinem öffentlichen Teil hier auf [knowledge-garden.de](https://knowledge-garden.de) befindet.
 
 Da das Freelancertum eine beratende Tätigkeit darstellt sind Veröffentlichungen darüber ohnehin unmöglich. Es besteht also genau dafür auch gar keine Notwendigkeit, im bestehenden Setup mit Obsidian zu bleiben. 
 
