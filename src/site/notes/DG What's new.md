@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/dg-what-s-new/","tags":["class/index"]}
 ---
 
+Time-Stamp last modified: 2026-02-13T00:00:00.000+01:00 // 2026-02-13T16:26:11.613+01:00 
+
 ## What's New (die neuesten 30 public Notes)
 Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierten** Notizen meines [[+References/Terms/Digital Garden\|Digital Garden]]s, absteigend nach Bearbeitungssdatum sortiert. 
 
@@ -11,6 +13,7 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                                                                              | Modified   | Ort                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------------ |
+| [[DG What's new\|DG What's new]]                                                                                                                                                              | 2026-02-13 |                    |
 | [[+Atlas/INDIZEES/MOC Blogging Task-Listen\|MOC Blogging Task-Listen]]                                                                                                                        | 2026-02-13 | +Atlas/INDIZEES    |
 | [[+Atlas/INDIZEES/DG Beispiel Decision-Log\|DG Beispiel Decision-Log]]                                                                                                                        | 2026-02-13 | +Atlas/INDIZEES    |
 | [[+Atlas/Notes/Plugin Vault Statistics\|Plugin Vault Statistics]]                                                                                                                             | 2026-02-13 | +Atlas/Notes       |
@@ -37,7 +40,6 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 | [[+References/Terms/Geschäftsfunktion\|Geschäftsfunktion]]                                                                                                                                    | 2025-06-06 | +References/Terms  |
 | [[+References/Terms/SMART\|SMART]]                                                                                                                                                            | 2025-06-06 | +References/Terms  |
 | [[+References/Terms/PACT\|PACT]]                                                                                                                                                              | 2025-06-06 | +References/Terms  |
-| [[DG What's new\|DG What's new]]                                                                                                                                                              | 2025-04-12 |                    |
 | [[+References/Terms/E2E-Prozess\|E2E-Prozess]]                                                                                                                                                | 2025-04-12 | +References/Terms  |
 | [[+References/People/Nick Milo\|Nick Milo]]                                                                                                                                                   | 2025-04-12 | +References/People |
 | [[+Efforts/Sleeping/Wie man Kühlschrank-Türscharniere tauscht\|Wie man Kühlschrank-Türscharniere tauscht]]                                                                                    | 2025-04-12 | +Efforts/Sleeping  |
