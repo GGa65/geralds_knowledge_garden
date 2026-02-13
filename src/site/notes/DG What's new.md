@@ -13,8 +13,8 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                                                                              | Modified   | Ort                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------------ |
-| [[+Efforts/Learnings/Book DEF\|Book DEF]]                                                                                                                                                     | 2026-02-13 | +Efforts/Learnings |
 | [[+Atlas/INDIZEES/MOC Blogging Task-Listen mit Aktivitäts-Fokus\|MOC Blogging Task-Listen mit Aktivitäts-Fokus]]                                                                              | 2026-02-13 | +Atlas/INDIZEES    |
+| [[+Efforts/Learnings/Book DEF\|Book DEF]]                                                                                                                                                     | 2026-02-13 | +Efforts/Learnings |
 | [[+Efforts/Notes/Aufgaben-Automation und Management für BloggerInnen 2\|Aufgaben-Automation und Management für BloggerInnen 2]]                                                               | 2026-02-13 | +Efforts/Notes     |
 | [[+Efforts/Learnings/Book UVW\|Book UVW]]                                                                                                                                                     | 2026-02-13 | +Efforts/Learnings |
 | [[+Atlas/INDIZEES/MOC Blogging Task-Listen\|MOC Blogging Task-Listen]]                                                                                                                        | 2026-02-13 | +Atlas/INDIZEES    |
