@@ -14,7 +14,7 @@
 ## Zur Erläuterung
 Das Coding für das Decision Log generiert die oben gezeigte Tabelle.
 Es sieht wie folgt aus:
-![Pasted image 20241030093626.png](/img/user/+References/Images/Pasted%20image%2020241030093626.png)
+![Coding für das Decision Log.png](/img/user/+/Coding%20f%C3%BCr%20das%20Decision%20Log.png)
 
 ### Varianzen
 | Made                         | Details                                                                                                                                                                                                                                                                                                                                                                                                                           | Source                                                                                                                                                   |
