@@ -16,11 +16,11 @@
 - 2025-01-07
 	- die Wandervögel beschließen wegen der schlechten Wetter-Aussichten für den 08. Januar, die Wanderung nicht an diesem Tag durchzuführen
 	- Ich erstelle eine Whats-App-Community
-		- Einladungslink https://chat.whatsapp.com/GnX13Gm9zD979Atsot9mGv 
-	- darüberhinaus haben wir dank des Discord-Users [[Dudelmax\|Dudelmax]] einen Thread  **"GeraldG's Wandereinladungen"** im Kanal *freizeitaktivitäten* des Discord Servers **Silverstar Social Club (SSC)**
+		- Einladungslink  
+	- darüberhinaus haben wir dank des Discord-Users xyz einen Thread  **"GeraldG's Wandereinladungen"** im Kanal *freizeitaktivitäten* des Discord Servers **"Name des Servers"**
 - 2024-12-23
 	- Gerald G. plant für den 2025-01-08 eine Winterwanderung um nach dem FutterStress der Feiertage mal wieder raus an die frische Luft zu kommen.
-		- https://calendar.app.google/wTkHGCmS2EPd6U8N6
+		- <Kalenderlink>
 	- Mal sehen, ob ich allein sein werde oder ob jemand mitkommt.
 	- 
 

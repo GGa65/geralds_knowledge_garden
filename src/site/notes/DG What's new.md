@@ -11,6 +11,7 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                                                                              | Modified   | Ort                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------------ |
+| [[+Calendar/2025/2025 Gerald wandert - public\|2025 Gerald wandert - public]]                                                                                                                 | 2026-02-13 | +Calendar/2025     |
 | [[+Atlas/INDIZEES/MOC Blogging Task-Listen\|MOC Blogging Task-Listen]]                                                                                                                        | 2026-02-13 | +Atlas/INDIZEES    |
 | [[+Efforts/Learnings/Buch ABC\|Buch ABC]]                                                                                                                                                     | 2026-02-13 | +Efforts/Learnings |
 | [[+Efforts/Learnings/Buch XYZ\|Buch XYZ]]                                                                                                                                                     | 2026-02-13 | +Efforts/Learnings |
@@ -39,7 +40,6 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 | [[+References/People/Nick Milo\|Nick Milo]]                                                                                                                                                   | 2025-04-12 | +References/People |
 | [[+Efforts/Sleeping/Wie man Kühlschrank-Türscharniere tauscht\|Wie man Kühlschrank-Türscharniere tauscht]]                                                                                    | 2025-04-12 | +Efforts/Sleeping  |
 | [[+Efforts/Notes/Erzeugen eines Zotero-Links im PKM\|Erzeugen eines Zotero-Links im PKM]]                                                                                                     | 2025-04-12 | +Efforts/Notes     |
-| [[+Calendar/2025/2025 Gerald wandert - public\|2025 Gerald wandert - public]]                                                                                                                 | 2025-04-12 | +Calendar/2025     |
 | [[+Atlas/INDIZEES/DG MOC published Efforts\|DG MOC published Efforts]]                                                                                                                        | 2025-04-12 | +Atlas/INDIZEES    |
 
 { .block-language-dataview}
