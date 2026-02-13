@@ -46,12 +46,3 @@ group by path
 
 
 
-```tasks
-not done
-where tag = #activitytag1
-path includes Learnings 
-group by path
-```
-
-
-
