@@ -11,6 +11,10 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                                                                              | Modified   | Ort                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------------ |
+| [[+Efforts/Learnings/Buch ABC\|Buch ABC]]                                                                                                                                                     | 2026-02-13 | +Efforts/Learnings |
+| [[+Efforts/Learnings/Buch XYZ\|Buch XYZ]]                                                                                                                                                     | 2026-02-13 | +Efforts/Learnings |
+| [[+Efforts/Notes/Aufgaben-Automation und Management für BloggerInnen\|Aufgaben-Automation und Management für BloggerInnen]]                                                                   | 2026-02-13 | +Efforts/Notes     |
+| [[+Atlas/INDIZEES/MOC Blogging Task-Listen\|MOC Blogging Task-Listen]]                                                                                                                        | 2026-02-13 | +Atlas/INDIZEES    |
 | [[+About (2026)\|+About (2026)]]                                                                                                                                                              | 2026-02-03 |                    |
 | [[+Atlas/Notes/Plugin ICS\|Plugin ICS]]                                                                                                                                                       | 2026-02-02 | +Atlas/Notes       |
 | [[+Efforts/On/Installierte Plugins Index\|Installierte Plugins Index]]                                                                                                                        | 2026-02-02 | +Efforts/On        |
@@ -37,10 +41,6 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 | [[+Efforts/Notes/Erzeugen eines Zotero-Links im PKM\|Erzeugen eines Zotero-Links im PKM]]                                                                                                     | 2025-04-12 | +Efforts/Notes     |
 | [[+Calendar/2025/2025 Gerald wandert - public\|2025 Gerald wandert - public]]                                                                                                                 | 2025-04-12 | +Calendar/2025     |
 | [[+Atlas/INDIZEES/DG MOC published Efforts\|DG MOC published Efforts]]                                                                                                                        | 2025-04-12 | +Atlas/INDIZEES    |
-| [[+Atlas/About me\|About me]]                                                                                                                                                                 | 2025-04-12 | +Atlas             |
-| [[+Atlas/About Knowledge Garden\|About Knowledge Garden]]                                                                                                                                     | 2025-04-12 | +Atlas             |
-| [[+Atlas/About Decisions\|About Decisions]]                                                                                                                                                   | 2025-04-12 | +Atlas             |
-| [[+References/Terms/Thymos\|Thymos]]                                                                                                                                                          | 2025-04-02 | +References/Terms  |
 
 { .block-language-dataview}
 
