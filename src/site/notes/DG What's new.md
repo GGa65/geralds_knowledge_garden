@@ -13,8 +13,8 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                                                                              | Modified   | Ort                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------------ |
-| [[DG What's new\|DG What's new]]                                                                                                                                                              | 2026-02-13 |                    |
 | [[+Atlas/INDIZEES/MOC Blogging Task-Listen\|MOC Blogging Task-Listen]]                                                                                                                        | 2026-02-13 | +Atlas/INDIZEES    |
+| [[DG What's new\|DG What's new]]                                                                                                                                                              | 2026-02-13 |                    |
 | [[+Atlas/INDIZEES/DG Beispiel Decision-Log\|DG Beispiel Decision-Log]]                                                                                                                        | 2026-02-13 | +Atlas/INDIZEES    |
 | [[+Atlas/Notes/Plugin Vault Statistics\|Plugin Vault Statistics]]                                                                                                                             | 2026-02-13 | +Atlas/Notes       |
 | [[+Calendar/2025/2025 Gerald wandert - public\|2025 Gerald wandert - public]]                                                                                                                 | 2026-02-13 | +Calendar/2025     |
