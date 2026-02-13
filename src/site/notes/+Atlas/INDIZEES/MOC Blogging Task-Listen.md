@@ -43,3 +43,15 @@ path includes Learnings
 group by path
 ```
 ![Blogging Tasks nach Pfad.png](/img/user/+References/Images/Blogging%20Tasks%20nach%20Pfad.png)
+
+
+
+```tasks
+not done
+where tag = #activitytag1
+path includes Learnings 
+group by path
+```
+
+
+
