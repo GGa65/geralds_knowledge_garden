@@ -22,7 +22,7 @@ path includes Learnings
 not done
 path includes Learnings
 ```
-
+![Blogging Tasks.png](/img/user/+References/Images/Blogging%20Tasks.png)
 
 # Blogging Task Listen nach Pfad gruppiert
 
@@ -42,4 +42,4 @@ not done
 path includes Learnings 
 group by path
 ```
-
+![Blogging Tasks nach Pfad.png](/img/user/+References/Images/Blogging%20Tasks%20nach%20Pfad.png)

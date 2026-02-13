@@ -11,10 +11,10 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                                                                              | Modified   | Ort                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------------ |
+| [[+Atlas/INDIZEES/MOC Blogging Task-Listen\|MOC Blogging Task-Listen]]                                                                                                                        | 2026-02-13 | +Atlas/INDIZEES    |
 | [[+Efforts/Learnings/Buch ABC\|Buch ABC]]                                                                                                                                                     | 2026-02-13 | +Efforts/Learnings |
 | [[+Efforts/Learnings/Buch XYZ\|Buch XYZ]]                                                                                                                                                     | 2026-02-13 | +Efforts/Learnings |
 | [[+Efforts/Notes/Aufgaben-Automation und Management für BloggerInnen\|Aufgaben-Automation und Management für BloggerInnen]]                                                                   | 2026-02-13 | +Efforts/Notes     |
-| [[+Atlas/INDIZEES/MOC Blogging Task-Listen\|MOC Blogging Task-Listen]]                                                                                                                        | 2026-02-13 | +Atlas/INDIZEES    |
 | [[+About (2026)\|+About (2026)]]                                                                                                                                                              | 2026-02-03 |                    |
 | [[+Atlas/Notes/Plugin ICS\|Plugin ICS]]                                                                                                                                                       | 2026-02-02 | +Atlas/Notes       |
 | [[+Efforts/On/Installierte Plugins Index\|Installierte Plugins Index]]                                                                                                                        | 2026-02-02 | +Efforts/On        |
