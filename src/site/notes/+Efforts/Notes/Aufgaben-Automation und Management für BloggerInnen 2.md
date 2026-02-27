@@ -38,9 +38,6 @@ Verwalte diese Aufgaben auf einen Blick mittels [Obsidian](https://obsidian.md) 
 	- Und man kann sich das Ergebnis hier anschauen: [[+Atlas/INDIZEES/MOC Blogging Task-Listen mit Aktivitäts-Fokus\|MOC Blogging Task-Listen mit Aktivitäts-Fokus]]
 
 
+---
 > [!COMPASS] Mehr Orientierung?
 > Frage gerne nach per E-Mail, in dem Du das Formular https://letterbird.co/gerald-g ausfüllst und auf diese Seite hier Bezug nimmst.  
-
-
-
-

@@ -27,3 +27,6 @@
 
 { .block-language-dataview}
 
+---
+> [!COMPASS] Mehr Orientierung?
+> Kontaktiere mich gern über das Formular https://letterbird.co/gerald-g und nimm dabei auf diese Seite hier Bezug.  

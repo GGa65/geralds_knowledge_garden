@@ -11,3 +11,8 @@ Hinweis:
 - **Hier in diesem File wurde die Property A1_Activity auf True gesetzt" 
   ![Pasted image 20260213194345.png](/img/user/+/Pasted%20image%2020260213194345.png)
 - 
+
+
+---
+> [!COMPASS] Mehr Orientierung?
+> Kontaktiere mich gern über das Formular https://letterbird.co/gerald-g und nimm dabei auf diese Seite hier Bezug.  

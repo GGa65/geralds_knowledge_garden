@@ -50,10 +50,6 @@ Verwalte diese Aufgaben auf einen Blick mittels [Obsidian](https://obsidian.md)
 	- in unserem Fall ist die zentrale Stelle der Ordner "+Atlas/INDIZEES"
 	- Und man kann sich das Ergebnis hier anschauen: [[+Atlas/INDIZEES/MOC Blogging Task-Listen\|MOC Blogging Task-Listen]]
 
-
+---
 > [!COMPASS] Mehr Orientierung?
 > Frage gerne nach per E-Mail, in dem Du das Formular https://letterbird.co/gerald-g ausfüllst und auf diese Seite hier Bezug nimmst.  
-
-
-
-
