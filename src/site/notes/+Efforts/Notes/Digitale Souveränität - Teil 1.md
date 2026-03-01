@@ -22,7 +22,7 @@ Die **Voraussetzung** für ein mit Zotero[^1] integriertes Arbeiten in TextMaker
 ### Test unter MacOS (macOS Tahoe - Version 26.3)
 Vom ersten Test unter unserem eher aus der Reihe fallenden Betriebssystem waren wir insofern überrascht, als die Zusammenarbeit zwischen der Textverarbeitung bei der Zitation und beim Erstellen des Literaturverzeichnisses (Bibliographie) einfach funktioniert. 
 
-Natürlich müssen sowohl die Textverbeitung als auch Zotero geöffnet sein. Aber außer dem vorangehend genannten Plugin auf Zotero-Seite war nichts zu tun. Verwunderlich.
+Natürlich müssen sowohl die Textvearbeitung als auch Zotero geöffnet sein. Aber außer dem vorangehend genannten Plugin auf Zotero-Seite war nichts zu tun. Verwunderlich.
 
 Man schreibt seinen Text und nutzt im Menü ➜ *Verweise* im ➜ *Bereich "Zotero"* den ➜ *Befehl "Zitat einfügen oder bearbeiten"* und befindet sich im aus MS Word gewohnten Flow. 
 Hat man seinen Text fertig, legt an gewünschter Stelle im Dokument über Menü ➜ *Verweise* im ➜ *Bereich "Zotero"* den ➜ *Befehl "Bibliographie einfügen oder Bearbeiten*. That's it!
