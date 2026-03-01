@@ -15,15 +15,15 @@
 
 ## Blick auf Aktivität 2
 `Dataview auf Files mit A1_Activity = false`
-- [[+Efforts/Learnings/Book DEF\|Book DEF]]
 - [[+Efforts/Learnings/Book UVW\|Book UVW]]
+- [[+Efforts/Learnings/Book DEF\|Book DEF]]
 
 { .block-language-dataview}
 
 ## Blick auf Aktivität 3
 `Dataview auf Files mit A1_Activity = false`
-- [[+Efforts/Learnings/Book DEF\|Book DEF]]
 - [[+Efforts/Learnings/Book UVW\|Book UVW]]
+- [[+Efforts/Learnings/Book DEF\|Book DEF]]
 
 { .block-language-dataview}
 

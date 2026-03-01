@@ -13,7 +13,7 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                                                                              | Modified   | Ort                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------------ |
-| [[+/Digitale Souveränität - Teil 1\|Digitale Souveränität - Teil 1]]                                                                                                                          | 2026-03-01 | +                  |
+| [[+Efforts/Notes/Digitale Souveränität - Teil 1\|Digitale Souveränität - Teil 1]]                                                                                                             | 2026-03-01 | +Efforts/Notes     |
 | [[+Efforts/Learnings/Book UVW\|Book UVW]]                                                                                                                                                     | 2026-02-27 | +Efforts/Learnings |
 | [[+Efforts/Learnings/Book DEF\|Book DEF]]                                                                                                                                                     | 2026-02-27 | +Efforts/Learnings |
 | [[+Atlas/INDIZEES/MOC Blogging Task-Listen mit Aktivitäts-Fokus\|MOC Blogging Task-Listen mit Aktivitäts-Fokus]]                                                                              | 2026-02-27 | +Atlas/INDIZEES    |
