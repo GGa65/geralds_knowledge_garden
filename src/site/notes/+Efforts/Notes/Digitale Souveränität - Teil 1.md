@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/efforts/notes/digitale-souveraenitaet-teil-1/","tags":["class/outcome"]}
 ---
 
-by Gerald G. |  2026-03-01T00:00:00.000+01:00
+by Gerald G. |  1. März 2026
 # Persönliche Entflechtung von Microsoft
 ## Wovon wir weg wollen: MS Word! 
 Wenn man sich - unter der Überschrift "Digitale Souveränität" von MS Word verabschieden möchte, stellen sich auf den ersten Blick keine Hindernisse in den Weg. Einfach eine andere Textverarbeitung aussuchen, herunterladen, installieren und fertig - so scheint es.
