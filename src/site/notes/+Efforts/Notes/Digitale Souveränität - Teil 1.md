@@ -25,12 +25,21 @@ Vom ersten Test unter unserem eher aus der Reihe fallenden Betriebssystem waren 
 Natürlich müssen sowohl die Textverarbeitung als auch Zotero geöffnet sein. Aber außer dem vorangehend genannten Plugin auf Zotero-Seite war nichts zu tun. Verwunderlich.
 
 Man schreibt seinen Text und nutzt im Menü ➜ *Verweise* im ➜ *Bereich "Zotero"* den ➜ *Befehl "Zitat einfügen oder bearbeiten"* und befindet sich im aus MS Word gewohnten Flow. 
-Hat man seinen Text fertig, legt an gewünschter Stelle im Dokument über Menü ➜ *Verweise* im ➜ *Bereich "Zotero"* den ➜ *Befehl "Bibliographie einfügen oder Bearbeiten*. That's it!
+Hat man seinen Text fertig, legt man an gewünschter Stelle im Dokument über Menü ➜ *Verweise* im ➜ *Bereich "Zotero"* den ➜ *Befehl "Bibliographie einfügen oder Bearbeiten* das komplette Literaturverzeichnis an. That's it!
 
 
 ### Test unter Win11
-**... to be cont'd ...**
-Das müssen wir auf einer anderen Hardware durchspielen. Dazu kommen wir heute nicht mehr, es wird nachgeholt. Versprochen!
+Mittlerweile konnte ich obigen Anwendungsfall mit TaxtMaker NX unter Win11 ebenfalls testen. Auch hier muss Zotero geöffnet sein.
+Dann - und das ist für mich ebenfall erst einmal positiv überraschend - funktioniert das Zitieren samt Literaturverzeichniserstellung.
+
+Man schreibt seinen Text und nutzt im Menü ➜ *Verweise* im ➜ *Bereich "Zotero"* den ➜ *Befehl "Zitat einfügen oder bearbeiten"* und befindet sich im aus MS Word gewohnten Flow. 
+Hat man seinen Text fertig, legt man an gewünschter Stelle im Dokument über Menü ➜ *Verweise* im ➜ *Bereich "Zotero"* den ➜ *Befehl "Bibliographie einfügen oder Bearbeiten* das komplette Literaturverzeichnis an. That's it!
+
+Das es so einfach funktioniert, muss also an TextMaker NX liegen. 😉
+
+## Fazit
+Dem Wechsel von MS Word zu TextMaker NX steht aus der Sicht meines Hauptanwendungsfalls nichts im Weg.
+Die unerwartete funktionale Geschmeidigkeit in unserem Anwendungsfall lässt hoffen, dass es auch in anderen Use Cases problemfrei möglich ist TextMaker NX zu verwenden, ohne einen irgendwie gewohnten Komfort zu verlieren.
 
 
 

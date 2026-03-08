@@ -2,25 +2,25 @@
 {"dg-publish":true,"permalink":"/dg-what-s-new/","tags":["class/index"]}
 ---
 
-Time-Stamp last modified: 2026-02-13T17:39:23.494+01:00  
+Time-Stamp last modified: 2026-03-07T14:36:47.913+01:00  
 
 ## What's New (die neuesten 30 public Notes)
 Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierten** Notizen meines [[+References/Terms/Digital Garden\|Digital Garden]]s, absteigend nach Bearbeitungssdatum sortiert. 
 
-**Wichtig zu verstehen:** Es kann durchaus sein, der Tabelle unten Links auf Notizen verweisen, die in meinem Backend-System als zu publizieren gekennzeichnet sind (un deshalb in der Übersicht auftauchen), die aber  online noch nicht durch den Prozess gelaufen sind und daher online eben noch nicht verfügbar sind. 
+**Wichtig zu verstehen:** Es kann durchaus sein, der Tabelle unten Links auf Notizen verweisen, die in meinem Backend-System als zu publizieren gekennzeichnet sind (und deshalb in der Übersicht auftauchen), die aber  online noch nicht durch den Prozess gelaufen sind und daher online eben noch nicht verfügbar sind. 
 Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber eben dennoch passieren. 😉 
 
 
 | New                                                                                                                                                                                              | Modified   | Ort                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------------ |
-| [[+Efforts/Notes/Digitale Souveränität - Teil 1\|Digitale Souveränität - Teil 1]]                                                                                                             | 2026-03-01 | +Efforts/Notes     |
+| [[+Efforts/Notes/Digitale Souveränität - Teil 1\|Digitale Souveränität - Teil 1]]                                                                                                             | 2026-03-08 | +Efforts/Notes     |
+| [[DG What's new\|DG What's new]]                                                                                                                                                              | 2026-03-07 |                    |
 | [[+Efforts/Learnings/Book UVW\|Book UVW]]                                                                                                                                                     | 2026-02-27 | +Efforts/Learnings |
 | [[+Efforts/Learnings/Book DEF\|Book DEF]]                                                                                                                                                     | 2026-02-27 | +Efforts/Learnings |
 | [[+Atlas/INDIZEES/MOC Blogging Task-Listen mit Aktivitäts-Fokus\|MOC Blogging Task-Listen mit Aktivitäts-Fokus]]                                                                              | 2026-02-27 | +Atlas/INDIZEES    |
 | [[+Atlas/INDIZEES/MOC Blogging Task-Listen\|MOC Blogging Task-Listen]]                                                                                                                        | 2026-02-27 | +Atlas/INDIZEES    |
 | [[+Efforts/Notes/Aufgaben-Automation und Management für BloggerInnen\|Aufgaben-Automation und Management für BloggerInnen]]                                                                   | 2026-02-27 | +Efforts/Notes     |
 | [[+Efforts/Notes/Aufgaben-Automation und Management für BloggerInnen 2\|Aufgaben-Automation und Management für BloggerInnen 2]]                                                               | 2026-02-27 | +Efforts/Notes     |
-| [[DG What's new\|DG What's new]]                                                                                                                                                              | 2026-02-13 |                    |
 | [[+Efforts/Learnings/Buch ABC\|Buch ABC]]                                                                                                                                                     | 2026-02-13 | +Efforts/Learnings |
 | [[+Atlas/INDIZEES/DG Beispiel Decision-Log\|DG Beispiel Decision-Log]]                                                                                                                        | 2026-02-13 | +Atlas/INDIZEES    |
 | [[+Atlas/Notes/Plugin Vault Statistics\|Plugin Vault Statistics]]                                                                                                                             | 2026-02-13 | +Atlas/Notes       |
