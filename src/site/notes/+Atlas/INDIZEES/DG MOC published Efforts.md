@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/indizees/dg-moc-published-efforts/","tags":["class/index"]}
+{"dg-publish":true,"permalink":"/atlas/indizees/dg-moc-published-efforts/","tags":["class/index"],"dg-note-properties":{"tags":["class/index"],"created":"2024-10-27","up":["[[DG Home]]"]}}
 ---
 
 #### Publizierte Efforts 

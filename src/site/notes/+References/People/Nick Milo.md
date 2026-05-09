@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/people/nick-milo/","tags":["class/people"]}
+{"dg-publish":true,"permalink":"/references/people/nick-milo/","tags":["class/people"],"dg-note-properties":{"tags":["class/people"],"type":["Blogger, Unternehmer"],"date":"2023-05-11","project":null,"topic":["Person"],"known-in-real":"no","main-type":"Person","up":null,"related":["[[+/LYT approach\|LYT approach]]","[[Linking your Thinking]]"],"surname":"Milo"}}
 ---
 
 ## Über Nick Milo 

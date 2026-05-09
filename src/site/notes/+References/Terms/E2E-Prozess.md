@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/terms/e2-e-prozess/","tags":["class/termNote"]}
+{"dg-publish":true,"permalink":"/references/terms/e2-e-prozess/","tags":["class/termNote"],"dg-note-properties":{"tags":["class/termNote"],"created":"2025-03-27","up":null,"related":null,"gg-pkm-class":["000 Informations- und Wissensmanagement","010 Informationssysteme und Software","110 Management und Leadership","310 Wirtschaftswissenschaften"],"url":"https://learning.sap.com/courses/introducing-sap-s-core-business-processes-sap-for-industries-and-the-sap-partner-network/understanding-sap-s-end-to-end-business-processes"}}
 ---
 
 

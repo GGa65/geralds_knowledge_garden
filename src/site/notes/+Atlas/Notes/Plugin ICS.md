@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/plugin-ics/","tags":["class/admin","thema/own-system-documentation","note-lifecycle/settled🧱"]}
+{"dg-publish":true,"permalink":"/atlas/notes/plugin-ics/","tags":["class/admin","thema/own-system-documentation","note-lifecycle/settled🧱"],"dg-note-properties":{"tags":["class/admin","thema/own-system-documentation","note-lifecycle/settled🧱"],"created":"2025-09-06","url":null,"up":null,"related":["[[PKM Dokumentation]]"],"template":null}}
 ---
 
 `Zielfolder: +Atlas/Notes`

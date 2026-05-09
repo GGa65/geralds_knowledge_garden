@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/notes/erzeugen-eines-zotero-links-im-pkm/","tags":["class/note","class/outcome"]}
+{"dg-publish":true,"permalink":"/efforts/notes/erzeugen-eines-zotero-links-im-pkm/","tags":["class/note","class/outcome"],"dg-note-properties":{"tags":["class/note","class/outcome"],"created":"2025-02-01","up":["[[Wie ich Zotero mit Obsidian verwende]]"],"related":null,"gg-pkm-class":["000 Informations- und Wissensmanagement","009a PKM","040 Methoden, Arbeitsweisen"]}}
 ---
 
 

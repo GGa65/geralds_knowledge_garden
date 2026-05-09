@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/learnings/buch-xyz/"}
+{"dg-publish":true,"permalink":"/efforts/learnings/buch-xyz/","dg-note-properties":{"TASK_TYPE":null}}
 ---
 
 Dieses File zeigt im Kontext mit [[+Efforts/Notes/Aufgaben-Automation und Management für BloggerInnen\|Aufgaben-Automation und Management für BloggerInnen]] eine exemplarische Aufgabenliste zum "Buch XYZ"

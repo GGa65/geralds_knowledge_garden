@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/indizees/moc-blogging-task-listen-mit-aktivitaets-fokus/","tags":["class/index"]}
+{"dg-publish":true,"permalink":"/atlas/indizees/moc-blogging-task-listen-mit-aktivitaets-fokus/","tags":["class/index"],"dg-note-properties":{"tags":["class/index"],"created":"2026-02-13","indexStatus":null,"Zielfolder":["+Atlas/Indizees"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/plugin-vault-statistics/","tags":["class/admin","note-lifecycle/boat🚤","thema/own-system-documentation"]}
+{"dg-publish":true,"permalink":"/atlas/notes/plugin-vault-statistics/","tags":["class/admin","note-lifecycle/boat🚤","thema/own-system-documentation"],"dg-note-properties":{"tags":["class/admin","note-lifecycle/boat🚤","thema/own-system-documentation"],"created":"2026-02-02","url":null,"up":null,"related":["[[PKM Dokumentation]]"],"template":"[[GGa Dokumentation Template]]","Zielfolder":"+Atlas/Notes"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/terms/ende-der-geschichte/","tags":["class/termNote"]}
+{"dg-publish":true,"permalink":"/references/terms/ende-der-geschichte/","tags":["class/termNote"],"dg-note-properties":{"tags":["class/termNote"],"created":"2025-03-31","related":["[[Historischer Materialismus]]","[[Das Ende der Geschichte - Francis Fukuyama]]"],"aliases":["Das Ende der Geschichte"],"wissensgebiet":["[[definition]]"]}}
 ---
 
 

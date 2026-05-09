@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-2026/","tags":["class/note"]}
+{"dg-publish":true,"permalink":"/about-2026/","tags":["class/note"],"dg-note-properties":{"tags":["class/note"],"created":"2026-02-02","up":["[[DG Home\|DG Home]]"],"related":null,"template":"[[GGa Note Template]]","Zielfolder":["+Atlas/Notes"]}}
 ---
 
 --> gehe zu [[DG Home\|DG Home]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/terms/pact/","tags":["class/termNote"]}
+{"dg-publish":true,"permalink":"/references/terms/pact/","tags":["class/termNote"],"dg-note-properties":{"tags":["class/termNote"],"created":"2023-04-02","links":["https://nesslabs.com/smart-goals-pact"],"wissensgebiet":["[[akronym]]"]}}
 ---
 
 
