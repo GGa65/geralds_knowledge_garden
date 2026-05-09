@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/about-2026/","tags":["class/note"],"created":"2026-02-02T20:25:26.556+01:00","updated":"2026-02-03T16:57:19.204+01:00","dg-note-properties":{"tags":["class/note"],"created":"2026-02-02","up":["[[DG Home\|DG Home]]"],"related":null,"template":"[[GGa Note Template]]","Zielfolder":["+Atlas/Notes"]}}
+{"dg-publish":true,"permalink":"/about-2026/","tags":["class/note"],"created":"2026-02-02T20:25:26.556+01:00","updated":"2026-05-09T18:02:00.806+02:00","dg-note-properties":{"tags":["class/note"],"created":"2026-02-02","publish":true,"up":["[[DG Home]]"],"related":null,"template":"[[GGa Note Template]]","Zielfolder":["+Atlas/Notes"]}}
 ---
 
---> gehe zu [[DG Home\|DG Home]]
-
----
-# +About (2026)
 by Gerald G. am 2026-02-02
 
+--- 
+
+# +About (2026)
 Das Jahr 2026 hat vor einem Monat begonnen und ich habe einen Entschluss gefasst, mein PKM-Setup anzupassen.
 
 Ich verlasse mit Beginn des Jahres 2026 die allumfassende Perspektive, alles in einem PKM-System zu verwalten, und starte den Gang in eine Welt, in der ich zwischen Business und Persönlich differenzieren werde.
@@ -21,7 +20,9 @@ Meine persönliche PKM Sicht auf interessante Konzepte, Ideen, Themen, die sich 
 Da das Freelancertum eine beratende Tätigkeit darstellt sind Veröffentlichungen darüber ohnehin unmöglich. Es besteht also genau dafür auch gar keine Notwendigkeit, im bestehenden Setup mit Obsidian zu bleiben. 
 
 ## Addon: wen es interessiert ...
-Ein junges deutsches Start-Up liefert mir eine App, die meine Anforderungen an das "Aufschreiben gegen mein Vergessen" in meiner Teilzeit-Beschäftigung perfekt ermöglicht: [Capacities.io](https://capacities.io/). Ich kann per App oder im Web auf meine Inhalte zugreifen. Ganz wie ich will. Und all das Kleinteilige hier mit dem Blick auf historische Kommunikation, eine Art Protokllierung von was haben wir wann besprochen und wie vereinbart, wird dort ermöglicht.
+Ein junges deutsches Start-Up liefert mir eine App, die meine Anforderungen an das "Aufschreiben gegen mein Vergessen" in meiner Teilzeit-Beschäftigung perfekt ermöglicht: [Capacities.io](https://capacities.io/). Ich kann per App oder im Web auf meine Inhalte zugreifen. Ganz wie ich will. 
+
+Und all das Kleinteilige mit dem Blick auf historische Kommunikation, eine Art Protokllierung von "was haben wir wann besprochen und wie vereinbart", wird dort ermöglicht.
 
 
 

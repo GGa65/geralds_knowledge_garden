@@ -1,18 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/dg-what-s-new/","tags":["class/index"],"created":"2024-01-05T18:30:44.557+01:00","updated":"2026-05-09T15:01:23.952+02:00","dg-note-properties":{"tags":["class/index"],"up":["[[DG Home]]"],"updated":"2024-01-06"}}
+{"dg-publish":true,"permalink":"/dg-what-s-new/","tags":["class/index"],"created":"2024-01-05T18:30:44.557+01:00","updated":"2026-05-09T15:08:26.738+02:00","dg-note-properties":{"tags":["class/index"],"up":["[[DG Home]]"],"updated":"2024-01-06"}}
 ---
 
-Time-Stamp last modified: 2026-05-09T15:01:23.952+02:00  
 
 ## What's New (die neuesten 30 public Notes)
-Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierten** Notizen meines [[+References/Terms/Digital Garden\|Digital Garden]]s, absteigend nach Bearbeitungssdatum sortiert. 
+Aufstellung der letzten 30 **modifizierten** oder gänzlich **neuen** Notizen meines [[+References/Terms/Digital Garden\|Digital Garden]]s, absteigend nach Bearbeitungssdatum sortiert. 
 
 **Wichtig zu verstehen:** Es kann durchaus sein, der Tabelle unten Links auf Notizen verweisen, die in meinem Backend-System als zu publizieren gekennzeichnet sind (und deshalb in der Übersicht auftauchen), die aber  online noch nicht durch den Prozess gelaufen sind und daher online eben noch nicht verfügbar sind. 
+
 Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber eben dennoch passieren. 😉 
 
 
 | New                                                                                                                                | Modified   | Ort                 |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------- |
+| [[+Atlas/INDIZEES/MoC geralds-zettelkasten\|MoC geralds-zettelkasten]]                                                          | 2026-05-09 | +Atlas/INDIZEES     |
+| [[+About (2026)\|+About (2026)]]                                                                                                | 2026-05-09 |                     |
+| [[DG Home\|DG Home]]                                                                                                            | 2026-05-09 |                     |
 | [[DG What's new\|DG What's new]]                                                                                                | 2026-05-09 |                     |
 | [[+Atlas/About me\|About me]]                                                                                                   | 2026-05-09 | +Atlas              |
 | [[+References/Quotes/Statement zur Nutzung von KI - ZfK\|Statement zur Nutzung von KI - ZfK]]                                   | 2026-05-09 | +References/Quotes  |
@@ -36,13 +39,10 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 | [[+Atlas/Notes/Plugin Vault Statistics\|Plugin Vault Statistics]]                                                               | 2026-02-13 | +Atlas/Notes        |
 | [[+Calendar/2025/2025 Gerald wandert - public\|2025 Gerald wandert - public]]                                                   | 2026-02-13 | +Calendar/2025      |
 | [[+Efforts/Learnings/Buch XYZ\|Buch XYZ]]                                                                                       | 2026-02-13 | +Efforts/Learnings  |
-| [[+About (2026)\|+About (2026)]]                                                                                                | 2026-02-03 |                     |
 | [[+Atlas/Notes/Plugin ICS\|Plugin ICS]]                                                                                         | 2026-02-02 | +Atlas/Notes        |
 | [[+Efforts/On/Installierte Plugins Index\|Installierte Plugins Index]]                                                          | 2026-02-02 | +Efforts/On         |
 | [[+Calendar/DG Gedankensalat-Tagebuch\|DG Gedankensalat-Tagebuch]]                                                              | 2026-02-02 | +Calendar           |
-| [[DG Home\|DG Home]]                                                                                                            | 2026-02-02 |                     |
 | [[+Calendar/+About Calendar\|+About Calendar]]                                                                                  | 2026-02-02 | +Calendar           |
-| [[+References/Quotes/Information collection is not wisdom\|Information collection is not wisdom]]                               | 2025-12-06 | +References/Quotes  |
 
 { .block-language-dataview}
 ---

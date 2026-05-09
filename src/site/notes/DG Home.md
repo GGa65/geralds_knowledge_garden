@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dg-home/","tags":["class/HOMEPAGE","gardenEntry"],"created":"2024-10-20T12:12:40.162+02:00","updated":"2026-02-02T20:52:19.618+01:00","dg-note-properties":{"tags":["class/HOMEPAGE","gardenEntry"],"date created":"2023-11-05T10:40:00","created":"2023-11-05","related":null}}
+{"dg-publish":true,"permalink":"/dg-home/","tags":["class/HOMEPAGE","#obsidian/public","gardenEntry"],"created":"2024-10-20T12:12:40.162+02:00","updated":"2026-05-09T17:40:14.473+02:00","dg-note-properties":{"tags":["class/HOMEPAGE","#obsidian/public","gardenEntry"],"publish":false,"date created":"2023-11-05T10:40:00","created":"2023-11-05","related":null}}
 ---
 
 | [[+Atlas/About me\|About me]] | [[+Atlas/About Knowledge Garden\|About Knowledge Garden]] | [Ich auf Mastodon](https://colearn.social/@gg) | [[+About (2026)\|+About (2026)]] 
