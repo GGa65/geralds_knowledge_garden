@@ -13,7 +13,7 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                | Modified   | Ort                 |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------- |
-| [[+Atlas/INDIZEES/MoC geralds-zettelkasten\|MoC geralds-zettelkasten]]                                                          | 2026-05-09 | +Atlas/INDIZEES     |
+| [[+Atlas/INDIZEES/MoC Publiziertes\|MoC Publiziertes]]                                                                          | 2026-05-09 | +Atlas/INDIZEES     |
 | [[+About (2026)\|+About (2026)]]                                                                                                | 2026-05-09 |                     |
 | [[DG Home\|DG Home]]                                                                                                            | 2026-05-09 |                     |
 | [[DG What's new\|DG What's new]]                                                                                                | 2026-05-09 |                     |
