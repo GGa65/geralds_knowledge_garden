@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/notes/aufgaben-automation-und-management-fuer-blogger-innen/","tags":["class/outcome"],"dg-note-properties":{"tags":["class/outcome"],"created":"2026-02-13","date published":"2026-02-13","url":null,"description":null,"channel":["[[Blog - Lebenslaenglich-Lernen.de]]"],"template":"[[GGa Outcome-Template]]","Zielfolder":"+Effort/Notes"}}
+{"dg-publish":true,"permalink":"/efforts/notes/aufgaben-automation-und-management-fuer-blogger-innen/","tags":["class/outcome"],"created":"2026-02-13T11:46:51.132+01:00","updated":"2026-02-27T13:26:56.119+01:00","dg-note-properties":{"tags":["class/outcome"],"created":"2026-02-13","date published":"2026-02-13","url":null,"description":null,"channel":["[[Blog - Lebenslaenglich-Lernen.de]]"],"template":"[[GGa Outcome-Template]]","Zielfolder":"+Effort/Notes"}}
 ---
 
 

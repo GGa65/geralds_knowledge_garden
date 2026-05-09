@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/about-me/","tags":["class/admin"],"dg-note-properties":{"tags":["class/admin"],"date created":"2023-11-05T16:17:00","up":["[[DG Home]]"],"X":["[[+Atlas/About Knowledge Garden\|About Knowledge Garden]]"]}}
+{"dg-publish":true,"permalink":"/atlas/about-me/","tags":["class/admin"],"created":"2023-11-05T16:16:13.477+01:00","updated":"2026-05-09T14:57:57.941+02:00","dg-note-properties":{"tags":["class/admin"],"date created":"2023-11-05T16:17:00","up":["[[DG Home]]"],"X":["[[+Atlas/About Knowledge Garden\|About Knowledge Garden]]"]}}
 ---
 
 
@@ -27,5 +27,5 @@
 > Kontaktiert mich einfach
 > - [über Mastodon](https://colearn.social/@gg) oder
 > - über den Blauen Himmel [gga65](https://bsky.app/profile/gga65.bsky.social) oder
-> - einfach ganz altmodisch per [e-mail](mailto:gga65@posteo.de). 
+> - einfach ganz altmodisch per E-Mail über das Formular [https://letterbird.co/gerald-g](https://letterbird.co/gerald-g). 
 

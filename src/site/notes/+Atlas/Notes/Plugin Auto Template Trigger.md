@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/plugin-auto-template-trigger/","tags":["class/admin","note-lifecycle/settled🧱","thema/own-system-documentation"],"dg-note-properties":{"tags":["class/admin","note-lifecycle/settled🧱","thema/own-system-documentation"],"created":"2025-09-02","url":"https://github.com/numeroflip/obsidian-auto-template-trigger","up":["[[Installierte Plugins Index]]"],"related":null}}
+{"dg-publish":true,"permalink":"/atlas/notes/plugin-auto-template-trigger/","tags":["class/admin","note-lifecycle/settled🧱","thema/own-system-documentation"],"created":"2025-09-02T14:45:02.792+02:00","updated":"2025-09-22T19:49:28.795+02:00","dg-note-properties":{"tags":["class/admin","note-lifecycle/settled🧱","thema/own-system-documentation"],"created":"2025-09-02","url":"https://github.com/numeroflip/obsidian-auto-template-trigger","up":["[[Installierte Plugins Index]]"],"related":null}}
 ---
 
 `Zielfolder: +Atlas/Notes`

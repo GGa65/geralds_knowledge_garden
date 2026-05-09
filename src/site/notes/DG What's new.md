@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dg-what-s-new/","tags":["class/index"],"dg-note-properties":{"tags":["class/index"],"up":["[[DG Home]]"],"updated":"2024-01-06"}}
+{"dg-publish":true,"permalink":"/dg-what-s-new/","tags":["class/index"],"created":"2024-01-05T18:30:44.557+01:00","updated":"2026-03-07T14:36:47.913+01:00","dg-note-properties":{"tags":["class/index"],"up":["[[DG Home]]"],"updated":"2024-01-06"}}
 ---
 
 Time-Stamp last modified: 2026-03-07T14:36:47.913+01:00  
@@ -13,6 +13,7 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                | Modified   | Ort                 |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------- |
+| [[+Atlas/About me\|About me]]                                                                                                   | 2026-05-09 | +Atlas              |
 | [[+References/Quotes/Statement zur Nutzung von KI - ZfK\|Statement zur Nutzung von KI - ZfK]]                                   | 2026-05-09 | +References/Quotes  |
 | [[+References/Sources/The Biggest Problem with Remote Work\|The Biggest Problem with Remote Work]]                              | 2026-04-10 | +References/Sources |
 | [[+References/Terms/osmotisches Lernen\|osmotisches Lernen]]                                                                    | 2026-04-10 | +References/Terms   |
@@ -42,7 +43,6 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 | [[DG Home\|DG Home]]                                                                                                            | 2026-02-02 |                     |
 | [[+Calendar/+About Calendar\|+About Calendar]]                                                                                  | 2026-02-02 | +Calendar           |
 | [[+References/Quotes/Information collection is not wisdom\|Information collection is not wisdom]]                               | 2025-12-06 | +References/Quotes  |
-| [[+References/Quotes/Clarity versus detail\|Clarity versus detail]]                                                             | 2025-12-06 | +References/Quotes  |
 
 { .block-language-dataview}
 
