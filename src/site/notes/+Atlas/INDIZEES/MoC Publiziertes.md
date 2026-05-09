@@ -1,11 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/indizees/mo-c-publiziertes/","tags":["class/index"],"created":"2026-05-09T17:05:43.731+02:00","updated":"2026-05-09T18:19:49.873+02:00","dg-note-properties":{"tags":["class/index"],"created":"2026-05-09","publish":true,"indexStatus":null,"Zielfolder":["+Atlas/Indizees"]}}
+{"dg-publish":true,"permalink":"/atlas/indizees/mo-c-publiziertes/","tags":["class/index"],"created":"2026-05-09T17:05:43.731+02:00","updated":"2026-05-09T18:29:53.481+02:00","dg-note-properties":{"tags":["class/index"],"created":"2026-05-09","publish":true,"indexStatus":null,"Zielfolder":["+Atlas/Indizees"]}}
 ---
 
 
 > [!info] Was wird hier gezeigt?
-> Sämtliche Files, bei den die für die in den Properties `publish: true` gesetzt ist, werden mittels des Obsidian-Publish Service nach [geralds-zettelkasten](https://publish.obsidian.md/zettelkastengga) publiziert. 
+> Sämtliche Files, bei den die für die in den Properties `publish: true` gesetzt ist, werden mittels des 
+> - Obsidian-Publish Service nach [geralds-zettelkasten](https://publish.obsidian.md/zettelkastengga)
+> - Plugins **Digital Garden** nach [Knowledge Garden](https://knowledge-garden.de/)
+> publiziert. 
 > Welche Files aus meinem Zettelkasten das sind, zeigt diese (automatisierte) "Map-of-Content" (MoC) - manche PKM-Enthusiasten sprechen von Index statt von MoC.
+> Das Interessante ist jedoch das unterschiedliche Ergebnis der Veröffentlichung.
 
 
 | Note                                                                                                                                                                                             | PUBLISH | DG-PUBLISH |
@@ -66,6 +70,8 @@
 | [[+References/Terms/Workism\|Workism]]                                                                                                                                                        | \-      | true       |
 
 { .block-language-dataview}
+
+Ergebnis auf [Knowledge Garden](https://knowledge-garden.de/atlas/indizees/mo-c-publiziertes/) ist tatsächlich der Inhalt, Ergebnis auf [geralds-zettelkasten](https://publish.obsidian.md/zettelkastengga/%2BAtlas/INDIZEES/MoC+geralds-zettelkasten) ist die Rohfassung der Datei mit dem dargestellten Code der Automation statt dem Ergebnis dieser.
 
 ---
 > [!question] Du hast Fragen zum Beitrag oder zur Site?
