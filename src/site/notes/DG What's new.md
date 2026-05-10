@@ -13,6 +13,7 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                    | Modified   | Ort                 |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------- |
+| [[+Atlas/Notes/Live-Test Obsidian Publish\|Live-Test Obsidian Publish]]                                                             | 2026-05-10 | +Atlas/Notes        |
 | [[+Atlas/Notes/Warum Dateinamen ein besonderes Zeichen am Anfang tragen\|Warum Dateinamen ein besonderes Zeichen am Anfang tragen]] | 2026-05-10 | +Atlas/Notes        |
 | [[+About (2026)\|+About (2026)]]                                                                                                    | 2026-05-10 |                     |
 | [[+Atlas/INDIZEES/MoC Publiziertes\|MoC Publiziertes]]                                                                              | 2026-05-09 | +Atlas/INDIZEES     |
@@ -42,7 +43,6 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 | [[+Efforts/Learnings/Buch XYZ\|Buch XYZ]]                                                                                           | 2026-02-13 | +Efforts/Learnings  |
 | [[+Atlas/Notes/Plugin ICS\|Plugin ICS]]                                                                                             | 2026-02-02 | +Atlas/Notes        |
 | [[+Efforts/On/Installierte Plugins Index\|Installierte Plugins Index]]                                                              | 2026-02-02 | +Efforts/On         |
-| [[+Calendar/DG Gedankensalat-Tagebuch\|DG Gedankensalat-Tagebuch]]                                                                  | 2026-02-02 | +Calendar           |
 
 { .block-language-dataview}
 ---

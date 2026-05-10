@@ -48,6 +48,7 @@
 | [[+Efforts/On/Installierte Plugins Index\|Installierte Plugins Index]]                                                                                                                        | \-      | true       |
 | [[+Efforts/Notes/Kriterien der Softwareauswahl für ein PKM-System\|Kriterien der Softwareauswahl für ein PKM-System]]                                                                         | \-      | true       |
 | [[+Atlas/Notes/Kritik an Workism\|Kritik an Workism]]                                                                                                                                         | \-      | true       |
+| [[+Atlas/Notes/Live-Test Obsidian Publish\|Live-Test Obsidian Publish]]                                                                                                                       | true    | true       |
 | [[+Atlas/INDIZEES/MOC Blogging Task-Listen\|MOC Blogging Task-Listen]]                                                                                                                        | \-      | true       |
 | [[+Atlas/INDIZEES/MOC Blogging Task-Listen mit Aktivitäts-Fokus\|MOC Blogging Task-Listen mit Aktivitäts-Fokus]]                                                                              | \-      | true       |
 | [[+Atlas/INDIZEES/MOC How-To\|MOC How-To]]                                                                                                                                                    | \-      | true       |

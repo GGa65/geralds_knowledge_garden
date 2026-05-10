@@ -17,7 +17,7 @@ Meine persönliche PKM Sicht auf interessante Konzepte, Ideen, Themen, die sich 
 
 ## Persönliches PKM
 "Erhalten" ist dabei das korrekte Verb. Erhalten bedeutet, ich bleibe mit der persönlichen Sicht im Werkzeug Obsidian und auf diese Weise auch in meinem [[+References/Terms/Digital Garden\|Digital Garden]], der sich mit seinem öffentlichen Teil auf [knowledge-garden.de](https://knowledge-garden.de) befindet.
-- *Update Mai 2026*: Daneben habe ich mich entschlossen, den Publish-Service von Obsidian wenigstens temporär auszuprobieren und gewissermaßen einem Live-Test zu unterziehen. Über diesen Live-Test schreibe ich unter [[Live-Test Obsidian Publish\|Live-Test Obsidian Publish]] und veröffentliche dazu aber abseits des  [knowledge-garden.de](https://knowledge-garden.de) auf der Obsidian-Publishing-Infrastruktur unter [Gerald's Zettelkasten](https://publish.obsidian.md/zettelkastengga/Willkommen!)
+- *Update Mai 2026*: Daneben habe ich mich entschlossen, den Publish-Service von Obsidian wenigstens temporär auszuprobieren und gewissermaßen einem Live-Test zu unterziehen. Über diesen Live-Test schreibe ich unter [[+Atlas/Notes/Live-Test Obsidian Publish\|Live-Test Obsidian Publish]] und veröffentliche dazu aber abseits des  [knowledge-garden.de](https://knowledge-garden.de) auf der Obsidian-Publishing-Infrastruktur unter [Gerald's Zettelkasten](https://publish.obsidian.md/zettelkastengga/Willkommen!)
 
 ## Geschäftliches PKM
 Da das Freelancertum eine beratende Tätigkeit darstellt, sind Veröffentlichungen darüber ohnehin unmöglich. Es besteht also genau dafür auch gar keine Notwendigkeit, im bestehenden Setup mit Obsidian zu bleiben. 
