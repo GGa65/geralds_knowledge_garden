@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/indizees/mo-c-publiziertes/","tags":["class/index"],"created":"2026-05-09T17:05:43.731+02:00","updated":"2026-05-09T18:29:53.481+02:00","dg-note-properties":{"tags":["class/index"],"created":"2026-05-09","publish":true,"indexStatus":null,"Zielfolder":["+Atlas/Indizees"]}}
+{"dg-publish":true,"permalink":"/atlas/indizees/mo-c-publiziertes/","tags":["class/index"],"created":"2026-05-09T17:05:43.731+02:00","updated":"2026-05-09T18:34:13.519+02:00","dg-note-properties":{"tags":["class/index"],"created":"2026-05-09","publish":true,"indexStatus":null,"Zielfolder":["+Atlas/Indizees"]}}
 ---
 
 
@@ -64,6 +64,7 @@
 | [[+References/Sources/The Biggest Problem with Remote Work\|The Biggest Problem with Remote Work]]                                                                                            | \-      | true       |
 | [[+References/Sources/The Religion of Workism\|The Religion of Workism]]                                                                                                                      | \-      | true       |
 | [[+References/Terms/Thymos\|Thymos]]                                                                                                                                                          | \-      | true       |
+| [[+Atlas/Notes/Warum Dateinamen ein besonderes Zeichen am Anfang tragen\|Warum Dateinamen ein besonderes Zeichen am Anfang tragen]]                                                           | true    | true       |
 | [[+References/Sources/What Is the Office For\|What Is the Office For]]                                                                                                                        | \-      | true       |
 | [[+Efforts/Sleeping/Wie man Kühlschrank-Türscharniere tauscht\|Wie man Kühlschrank-Türscharniere tauscht]]                                                                                    | \-      | true       |
 | [[Willkommen!\|Willkommen!]]                                                                                                                                                                  | true    | false      |
@@ -72,6 +73,8 @@
 { .block-language-dataview}
 
 Ergebnis auf [Knowledge Garden](https://knowledge-garden.de/atlas/indizees/mo-c-publiziertes/) ist tatsächlich der Inhalt, Ergebnis auf [geralds-zettelkasten](https://publish.obsidian.md/zettelkastengga/%2BAtlas/INDIZEES/MoC+geralds-zettelkasten) ist die Rohfassung der Datei mit dem dargestellten Code der Automation statt dem Ergebnis dieser.
+
+
 
 ---
 > [!question] Du hast Fragen zum Beitrag oder zur Site?
