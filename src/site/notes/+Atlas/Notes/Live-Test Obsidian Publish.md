@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/live-test-obsidian-publish/","tags":["class/note"],"created":"2026-05-10T11:38:03.065+02:00","updated":"2026-05-10T12:03:30.725+02:00","dg-note-properties":{"tags":["class/note"],"created":"2026-05-10","publish":true,"up":null,"related":null,"template":"[[GGa Note Template]]","Zielfolder":["+Atlas/Notes"]}}
+{"dg-publish":true,"permalink":"/atlas/notes/live-test-obsidian-publish/","tags":["class/note"],"created":"2026-05-10T11:38:03.065+02:00","updated":"2026-05-10T17:30:57.811+02:00","dg-note-properties":{"tags":["class/note"],"created":"2026-05-10","publish":true,"up":null,"related":null,"template":"[[GGa Note Template]]","Zielfolder":["+Atlas/Notes"]}}
 ---
 
 # Meine Live-Test-Instanz
@@ -31,6 +31,13 @@ Wer mit Templates für verschiedene Notiz-Typen arbeitet, sollte in den Template
 
 --
 May 2026
+
+--
+
+## 3. Eigene Domain
+ich versuche mich Punkt für Punkt an die Anleitung zu halten.
+Aber die Weiterleitung funktioniert nicht.
+
 
 ---
 > [!question] Du hast Fragen zum Beitrag oder zur Site?
