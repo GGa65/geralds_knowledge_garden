@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dg-home/","tags":["class/HOMEPAGE","#obsidian/public","gardenEntry"],"created":"2024-10-20T12:12:40.162+02:00","updated":"2026-05-09T17:40:14.473+02:00","dg-note-properties":{"tags":["class/HOMEPAGE","#obsidian/public","gardenEntry"],"publish":false,"date created":"2023-11-05T10:40:00","created":"2023-11-05","related":null}}
+{"dg-publish":true,"permalink":"/dg-home/","tags":["class/HOMEPAGE","#obsidian/public","gardenEntry"],"created":"2024-10-20T12:12:40.162+02:00","updated":"2026-05-11T11:02:28.585+02:00","dg-note-properties":{"tags":["class/HOMEPAGE","#obsidian/public","gardenEntry"],"publish":false,"date created":"2023-11-05T10:40:00","created":"2023-11-05","related":null}}
 ---
 
 | [[+Atlas/About me\|About me]] | [[+Atlas/About Knowledge Garden\|About Knowledge Garden]] | [Ich auf Mastodon](https://colearn.social/@gg) | [[+About (2026)\|+About (2026)]] 
@@ -8,7 +8,45 @@
 
 Herzlich willkommen, 
 
-ich freue mich, dass Du hierhergefunden hast. Mehr über mich findest Du hier: [[+Atlas/About me\|About me]].
+ich freue mich, dass Du hierhergefunden hast. 
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/atlas/about-me/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+> [!INFO]   **Über mich** oder **About me**
+> 
+> Ich bin Gerald G. und unter dem Handle [@gg@colearn.social](https://colearn.social/@gg) auf Mastodon oder [@gga65.bsky.social](https://bsky.app/profile/gga65.bsky.social) auf "bluesky" zu finden.
+> 
+> Ich bin ein weißer Mann und Deutscher, Jahrgang 1965 und erkläre im Vollbesitz meiner Sinne: Dafür kann ich nichts und dazu stehe ich! Ich meine, es ist weder Verdienst Deutscher von Geburt zu sein noch als Nachkomme weißer Menschen ebenfalls weiß zu sein.  
+> 
+> Ich bin verheiratet und Vater zweier ganz wunderbar geratenen Töchter. Dafür kann ich was, und die Beiden sind das Beste, was mir je passiert ist.
+> 
+> Ich verstehe Menschen als das, was sie sind: Menschen, die für Ihre Herkunft nichts können, die aber von Geburt an ausgestattet sind mit denselben universellen Menschenrechten; Menschen, die einzigartig sind, was gut so ist, weil es das Leben bunt macht.
+> 
+> Ich versuche nach dem Kant'schen Prinzip zu leben, was ich nicht will das mir man tu, füg ich keinem andern zu. Ich will Harmonie bei aller Unterschiedlichkeit, Frieden bei aller Verschiedenheit, Fröhlichkeit bei aller berechtigter Schwermut. 
+> 
+> Ich kann nicht aus meiner Haut, und will doch nicht bleiben, wie ich gerade bin.
+> 
+> Ich liebe Musik, Bücher, Bier, schottischen Whisky und gutes Essen (was man mir leider auch ansieht). 
+>  
+> Zur Frage, was hier unter https://knowledge-garden.de abgeht, schaut in die Notiz "[[+Atlas/About Knowledge Garden\|About Knowledge Garden]]".
+> 
+
+> [!tip] Wie man mich erreicht.
+> 
+> Kontaktiert mich einfach
+> - [über Mastodon](https://colearn.social/@gg) oder
+> - über den Blauen Himmel [gga65](https://bsky.app/profile/gga65.bsky.social) oder
+> - einfach ganz altmodisch per E-Mail über das Formular [https://letterbird.co/gerald-g](https://letterbird.co/gerald-g). 
+
+
+
+</div></div>
+
 
 *Knowledge-Garden.de* ist die Internetrepräsentanz des *öffentlichen Teils* meines digitalen Gartens. Das klingt kompliziert, ist aber nicht. Es ist zwar komplex, aber nicht wirklich kompliziert.
 
@@ -40,13 +78,6 @@ Nun ist alles klar oder?
 ## [[DG What's new\|DG What's new]] 
 
 Damit wiederkehrende Leser einen Überblick bekommen können über **Was ist neu hier?** gibt es (bzw wird es geben 😉) eine Notiz genau zu dieser Frage: Unter **[[DG What's new\|DG What's new]]** findet sich eine Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierten** Notizen meines [[+References/Terms/Digital Garden\|Digital Garden]]s. Denn gerade weil es ein Garten ist, sieht man nicht immer sofort, was neu hervorsprießt. Es ist nicht wie in einem Blog in historischer Reihenfolge oder wie auf einer gut geordneten Website nach Themen oder anderen Schubladen sortiert. (Obgleich man  dazu auch noch mal nachdenken könnte ... #actions/follow-up)
-
-## Content Sheet
-> [!sprout] Mein [[+References/Terms/Digital Garden\|Digital Garden]] strukturiert sich wie folgt:
->     
->  - to be continued (wie man neudeutsch in der Sprache von IT'lern sagt). Bleibt neugierig und seht später mal wieder vorbei 
->  - ...
-
 
 
 

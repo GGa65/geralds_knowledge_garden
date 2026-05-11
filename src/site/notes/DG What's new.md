@@ -13,11 +13,11 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                    | Modified   | Ort                 |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------- |
+| [[DG Home\|DG Home]]                                                                                                                | 2026-05-11 |                     |
 | [[+Atlas/Notes/Live-Test Obsidian Publish\|Live-Test Obsidian Publish]]                                                             | 2026-05-10 | +Atlas/Notes        |
 | [[+Atlas/Notes/Warum Dateinamen ein besonderes Zeichen am Anfang tragen\|Warum Dateinamen ein besonderes Zeichen am Anfang tragen]] | 2026-05-10 | +Atlas/Notes        |
 | [[+About (2026)\|+About (2026)]]                                                                                                    | 2026-05-10 |                     |
 | [[+Atlas/INDIZEES/MoC Publiziertes\|MoC Publiziertes]]                                                                              | 2026-05-09 | +Atlas/INDIZEES     |
-| [[DG Home\|DG Home]]                                                                                                                | 2026-05-09 |                     |
 | [[DG What's new\|DG What's new]]                                                                                                    | 2026-05-09 |                     |
 | [[+Atlas/About me\|About me]]                                                                                                       | 2026-05-09 | +Atlas              |
 | [[+References/Quotes/Statement zur Nutzung von KI - ZfK\|Statement zur Nutzung von KI - ZfK]]                                       | 2026-05-09 | +References/Quotes  |
