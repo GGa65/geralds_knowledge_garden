@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/dg-home/","tags":["class/HOMEPAGE","#obsidian/public","gardenEntry"],"created":"2024-10-20T12:12:40.162+02:00","updated":"2026-05-11T11:02:28.585+02:00","dg-note-properties":{"tags":["class/HOMEPAGE","#obsidian/public","gardenEntry"],"publish":false,"date created":"2023-11-05T10:40:00","created":"2023-11-05","related":null}}
+{"dg-publish":true,"permalink":"/dg-home/","tags":["class/HOMEPAGE","#obsidian/public","gardenEntry"],"created":"2024-10-20T12:12:40.162+02:00","updated":"2026-05-11T15:00:05.236+02:00","dg-note-properties":{"tags":["class/HOMEPAGE","#obsidian/public","gardenEntry"],"publish":false,"date created":"2023-11-05T10:40:00","created":"2023-11-05","related":null}}
 ---
 
-| [[+Atlas/About me\|About me]] | [[+Atlas/About Knowledge Garden\|About Knowledge Garden]] | [Ich auf Mastodon](https://colearn.social/@gg) | [[+About (2026)\|+About (2026)]] 
+| [[+Atlas/About me\|About me]] | [[+Atlas/About Knowledge Garden + Zettelkästchen\|About Knowledge Garden + Zettelkästchen]] | [Ich auf Mastodon](https://colearn.social/@gg) | [[+About (2026)\|+About (2026)]] 
 
 # Willkommen auf knowledge-garden.de
 
@@ -33,7 +33,7 @@ ich freue mich, dass Du hierhergefunden hast.
 > 
 > Ich liebe Musik, Bücher, Bier, schottischen Whisky und gutes Essen (was man mir leider auch ansieht). 
 >  
-> Zur Frage, was hier unter https://knowledge-garden.de abgeht, schaut in die Notiz "[[+Atlas/About Knowledge Garden\|About Knowledge Garden]]".
+> Zur Frage, was hier unter https://knowledge-garden.de abgeht, schaut in die Notiz "[[+Atlas/About Knowledge Garden + Zettelkästchen\|About Knowledge Garden + Zettelkästchen]]".
 > 
 
 > [!tip] Wie man mich erreicht.
@@ -50,7 +50,7 @@ ich freue mich, dass Du hierhergefunden hast.
 
 *Knowledge-Garden.de* ist die Internetrepräsentanz des *öffentlichen Teils* meines digitalen Gartens. Das klingt kompliziert, ist aber nicht. Es ist zwar komplex, aber nicht wirklich kompliziert.
 
-Mein Digitaler Garten ist Teil meines persönlichen Wissensmanagement-Systems (PKM-System), welches ich natürlich digital führe. Mehr zum Projekt *Knowledge-Garden.de* findest Du hier: [[+Atlas/About Knowledge Garden\|About Knowledge Garden]].
+Mein Digitaler Garten ist Teil meines persönlichen Wissensmanagement-Systems (PKM-System), welches ich natürlich digital führe. Mehr zum Projekt *Knowledge-Garden.de* findest Du hier: [[+Atlas/About Knowledge Garden + Zettelkästchen\|About Knowledge Garden + Zettelkästchen]].
 
 ## Zur Herkunft der Ideen rund um mein PKM
 

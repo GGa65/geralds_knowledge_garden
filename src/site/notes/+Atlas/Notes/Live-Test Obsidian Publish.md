@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/live-test-obsidian-publish/","tags":["class/note"],"created":"2026-05-10T11:38:03.065+02:00","updated":"2026-05-10T17:30:57.811+02:00","dg-note-properties":{"tags":["class/note"],"created":"2026-05-10","publish":true,"up":null,"related":null,"template":"[[GGa Note Template]]","Zielfolder":["+Atlas/Notes"]}}
+{"dg-publish":true,"permalink":"/atlas/notes/live-test-obsidian-publish/","tags":["class/note"],"created":"2026-05-10T11:38:03.065+02:00","updated":"2026-05-11T14:46:04.428+02:00","dg-note-properties":{"tags":["class/note"],"created":"2026-05-10","publish":true,"up":null,"related":null,"template":"[[GGa Note Template]]","Zielfolder":["+Atlas/Notes"]}}
 ---
 
 # Meine Live-Test-Instanz
 Die veröffentlichte Instanz meines Obsidian-Publish-Tests findet ihr unter 
-https://publish.obsidian.md/zettelkastengga.
+https://publish.obsidian.md/zettelkaestchen
+
 
 Ich muss das hier aufschreiben, weil diese Notiz parallel ebenfalls unter [Knowledge-garden.de](https://knowledge-garden.de) publiziert wird.
 
@@ -36,7 +37,11 @@ May 2026
 
 ## 3. Eigene Domain
 ich versuche mich Punkt für Punkt an die Anleitung zu halten.
-Aber die Weiterleitung funktioniert nicht.
+- cloudflare Account
+- alles schritt für schritt wie beschrieben
+Aber die Weiterleitung funktioniert nicht. Ich werden laut Fehlermeldung zu oft weitergeleitet.
+
+Insofern stelle ich die Versuche ein, mich mit meiner eigenen Domain zu verbinden.
 
 
 ---

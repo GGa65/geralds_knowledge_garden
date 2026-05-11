@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/about-me/","tags":["class/admin"],"created":"2023-11-05T16:16:13.477+01:00","updated":"2026-05-09T14:57:57.941+02:00","dg-note-properties":{"tags":["class/admin"],"date created":"2023-11-05T16:17:00","up":["[[DG Home]]"],"X":["[[+Atlas/About Knowledge Garden\|About Knowledge Garden]]"]}}
+{"dg-publish":true,"permalink":"/atlas/about-me/","tags":["class/admin"],"created":"2023-11-05T16:16:13.477+01:00","updated":"2026-05-11T15:00:05.232+02:00","dg-note-properties":{"tags":["class/admin"],"date created":"2023-11-05T16:17:00","publish":true,"up":["[[DG Home]]","[[Willkommen!]]"],"X":["[[+Atlas/About Knowledge Garden + Zettelkästchen\|About Knowledge Garden + Zettelkästchen]]"]}}
 ---
 
 
@@ -19,7 +19,7 @@
 > 
 > Ich liebe Musik, Bücher, Bier, schottischen Whisky und gutes Essen (was man mir leider auch ansieht). 
 >  
-> Zur Frage, was hier unter https://knowledge-garden.de abgeht, schaut in die Notiz "[[+Atlas/About Knowledge Garden\|About Knowledge Garden]]".
+> Zur Frage, was hier unter https://knowledge-garden.de abgeht, schaut in die Notiz "[[+Atlas/About Knowledge Garden + Zettelkästchen\|About Knowledge Garden + Zettelkästchen]]".
 > 
 
 > [!tip] Wie man mich erreicht.

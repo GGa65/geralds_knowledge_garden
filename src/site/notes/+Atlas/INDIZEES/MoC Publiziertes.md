@@ -20,8 +20,8 @@
 | [[+Efforts/Notes/2023-02-26 - Die zensierten Kohl-Protokolle – Ein Blog von Muschelschale97 in Themen\|2023-02-26 - Die zensierten Kohl-Protokolle – Ein Blog von Muschelschale97 in Themen]] | \-      | true       |
 | [[+Calendar/2025/2025 Gerald wandert - public\|2025 Gerald wandert - public]]                                                                                                                 | \-      | true       |
 | [[+Atlas/About Decisions\|About Decisions]]                                                                                                                                                   | \-      | true       |
-| [[+Atlas/About Knowledge Garden\|About Knowledge Garden]]                                                                                                                                     | \-      | true       |
-| [[+Atlas/About me\|About me]]                                                                                                                                                                 | \-      | true       |
+| [[+Atlas/About Knowledge Garden + Zettelkästchen\|About Knowledge Garden + Zettelkästchen]]                                                                                                   | true    | true       |
+| [[+Atlas/About me\|About me]]                                                                                                                                                                 | true    | true       |
 | [[+Atlas/Notes/Agile Scrum Frameworks\|Agile Scrum Frameworks]]                                                                                                                               | \-      | true       |
 | [[+References/Quotes/Arbeit ist Währung\|Arbeit ist Währung]]                                                                                                                                 | \-      | true       |
 | [[+Efforts/Notes/Aufgaben-Automation und Management für BloggerInnen\|Aufgaben-Automation und Management für BloggerInnen]]                                                                   | \-      | true       |
@@ -49,6 +49,7 @@
 | [[+Efforts/Notes/Kriterien der Softwareauswahl für ein PKM-System\|Kriterien der Softwareauswahl für ein PKM-System]]                                                                         | \-      | true       |
 | [[+Atlas/Notes/Kritik an Workism\|Kritik an Workism]]                                                                                                                                         | \-      | true       |
 | [[+Atlas/Notes/Live-Test Obsidian Publish\|Live-Test Obsidian Publish]]                                                                                                                       | true    | true       |
+| [[+Atlas/INDIZEES/MoC - public Terms\|MoC - public Terms]]                                                                                                                                    | true    | true       |
 | [[+Atlas/INDIZEES/MOC Blogging Task-Listen\|MOC Blogging Task-Listen]]                                                                                                                        | \-      | true       |
 | [[+Atlas/INDIZEES/MOC Blogging Task-Listen mit Aktivitäts-Fokus\|MOC Blogging Task-Listen mit Aktivitäts-Fokus]]                                                                              | \-      | true       |
 | [[+Atlas/INDIZEES/MOC How-To\|MOC How-To]]                                                                                                                                                    | \-      | true       |

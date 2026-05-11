@@ -13,13 +13,15 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                    | Modified   | Ort                 |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------- |
+| [[+Atlas/About Knowledge Garden + Zettelkästchen\|About Knowledge Garden + Zettelkästchen]]                                         | 2026-05-11 | +Atlas              |
 | [[DG Home\|DG Home]]                                                                                                                | 2026-05-11 |                     |
-| [[+Atlas/Notes/Live-Test Obsidian Publish\|Live-Test Obsidian Publish]]                                                             | 2026-05-10 | +Atlas/Notes        |
+| [[+Atlas/About me\|About me]]                                                                                                       | 2026-05-11 | +Atlas              |
+| [[+Atlas/Notes/Live-Test Obsidian Publish\|Live-Test Obsidian Publish]]                                                             | 2026-05-11 | +Atlas/Notes        |
+| [[+Atlas/INDIZEES/MoC - public Terms\|MoC - public Terms]]                                                                          | 2026-05-11 | +Atlas/INDIZEES     |
 | [[+Atlas/Notes/Warum Dateinamen ein besonderes Zeichen am Anfang tragen\|Warum Dateinamen ein besonderes Zeichen am Anfang tragen]] | 2026-05-10 | +Atlas/Notes        |
 | [[+About (2026)\|+About (2026)]]                                                                                                    | 2026-05-10 |                     |
 | [[+Atlas/INDIZEES/MoC Publiziertes\|MoC Publiziertes]]                                                                              | 2026-05-09 | +Atlas/INDIZEES     |
 | [[DG What's new\|DG What's new]]                                                                                                    | 2026-05-09 |                     |
-| [[+Atlas/About me\|About me]]                                                                                                       | 2026-05-09 | +Atlas              |
 | [[+References/Quotes/Statement zur Nutzung von KI - ZfK\|Statement zur Nutzung von KI - ZfK]]                                       | 2026-05-09 | +References/Quotes  |
 | [[+References/Sources/The Biggest Problem with Remote Work\|The Biggest Problem with Remote Work]]                                  | 2026-04-10 | +References/Sources |
 | [[+References/Terms/osmotisches Lernen\|osmotisches Lernen]]                                                                        | 2026-04-10 | +References/Terms   |
@@ -41,8 +43,6 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 | [[+Atlas/Notes/Plugin Vault Statistics\|Plugin Vault Statistics]]                                                                   | 2026-02-13 | +Atlas/Notes        |
 | [[+Calendar/2025/2025 Gerald wandert - public\|2025 Gerald wandert - public]]                                                       | 2026-02-13 | +Calendar/2025      |
 | [[+Efforts/Learnings/Buch XYZ\|Buch XYZ]]                                                                                           | 2026-02-13 | +Efforts/Learnings  |
-| [[+Atlas/Notes/Plugin ICS\|Plugin ICS]]                                                                                             | 2026-02-02 | +Atlas/Notes        |
-| [[+Efforts/On/Installierte Plugins Index\|Installierte Plugins Index]]                                                              | 2026-02-02 | +Efforts/On         |
 
 { .block-language-dataview}
 ---
