@@ -19,6 +19,7 @@
 | [[+Efforts/+About Efforts\|+About Efforts]]                                                                                                                                                   | \-      | true       |
 | [[+Efforts/Notes/2023-02-26 - Die zensierten Kohl-Protokolle – Ein Blog von Muschelschale97 in Themen\|2023-02-26 - Die zensierten Kohl-Protokolle – Ein Blog von Muschelschale97 in Themen]] | \-      | true       |
 | [[+Calendar/2025/2025 Gerald wandert - public\|2025 Gerald wandert - public]]                                                                                                                 | \-      | true       |
+| [[+References/Sources/A Critical Leaders AI Checklist\|A Critical Leaders AI Checklist]]                                                                                                      | true    | true       |
 | [[+Atlas/About Decisions\|About Decisions]]                                                                                                                                                   | \-      | true       |
 | [[+Atlas/About Knowledge Garden + Zettelkästchen\|About Knowledge Garden + Zettelkästchen]]                                                                                                   | true    | true       |
 | [[+Atlas/About me\|About me]]                                                                                                                                                                 | true    | true       |
