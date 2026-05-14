@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dg-what-s-new/","tags":["class/index"],"created":"2024-01-05T18:30:44.557+01:00","updated":"2026-05-09T15:08:26.738+02:00","dg-note-properties":{"tags":["class/index"],"up":["[[DG Home]]"],"updated":"2024-01-06"}}
+{"dg-publish":true,"permalink":"/dg-what-s-new/","tags":["class/index"]}
 ---
 
 
@@ -13,36 +13,36 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                    | Modified   | Ort                 |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------- |
-| [[+References/Sources/A Critical Leaders AI Checklist\|A Critical Leaders AI Checklist]]                                            | 2026-05-12 | +References/Sources |
-| [[+Atlas/About Knowledge Garden + Zettelkästchen\|About Knowledge Garden + Zettelkästchen]]                                         | 2026-05-11 | +Atlas              |
+| [[+References/Terms/Sycophancy\|Sycophancy]]                                                                                        | 2026-05-14 | +References/Terms   |
+| [[+References/Terms/Rumination\|Rumination]]                                                                                        | 2026-05-14 | +References/Terms   |
+| [[+References/Quotes/Des Product Owners Tragödie\|Des Product Owners Tragödie]]                                                     | 2026-05-14 | +References/Quotes  |
+| [[+References/Sources/A Critical Leaders AI Checklist\|A Critical Leaders AI Checklist]]                                            | 2026-05-14 | +References/Sources |
+| [[+Atlas/About Knowledge Garden + Zettelkästchen\|About Knowledge Garden + Zettelkästchen]]                                         | 2026-05-14 | +Atlas              |
+| [[+Atlas/Notes/Live-Test Obsidian Publish\|Live-Test Obsidian Publish]]                                                             | 2026-05-14 | +Atlas/Notes        |
+| [[+Atlas/Notes/Warum Dateinamen ein besonderes Zeichen am Anfang tragen\|Warum Dateinamen ein besonderes Zeichen am Anfang tragen]] | 2026-05-14 | +Atlas/Notes        |
+| [[+Atlas/INDIZEES/MoC Publiziertes\|MoC Publiziertes]]                                                                              | 2026-05-14 | +Atlas/INDIZEES     |
+| [[+References/Quotes/Statement zur Nutzung von KI - ZfK\|Statement zur Nutzung von KI - ZfK]]                                       | 2026-05-14 | +References/Quotes  |
+| [[+References/Sources/The Biggest Problem with Remote Work\|The Biggest Problem with Remote Work]]                                  | 2026-05-14 | +References/Sources |
+| [[+References/Terms/osmotisches Lernen\|osmotisches Lernen]]                                                                        | 2026-05-14 | +References/Terms   |
+| [[+References/Sources/The Religion of Workism\|The Religion of Workism]]                                                            | 2026-05-14 | +References/Sources |
+| [[+References/Sources/What Is the Office For\|What Is the Office For]]                                                              | 2026-05-14 | +References/Sources |
+| [[+References/Quotes/Arbeit ist Währung\|Arbeit ist Währung]]                                                                       | 2026-05-14 | +References/Quotes  |
+| [[+References/Terms/Workism\|Workism]]                                                                                              | 2026-05-14 | +References/Terms   |
+| [[+Atlas/Notes/Kritik an Workism\|Kritik an Workism]]                                                                               | 2026-05-14 | +Atlas/Notes        |
 | [[DG Home\|DG Home]]                                                                                                                | 2026-05-11 |                     |
 | [[+Atlas/About me\|About me]]                                                                                                       | 2026-05-11 | +Atlas              |
-| [[+Atlas/Notes/Live-Test Obsidian Publish\|Live-Test Obsidian Publish]]                                                             | 2026-05-11 | +Atlas/Notes        |
 | [[+Atlas/INDIZEES/MoC - public Terms\|MoC - public Terms]]                                                                          | 2026-05-11 | +Atlas/INDIZEES     |
-| [[+Atlas/Notes/Warum Dateinamen ein besonderes Zeichen am Anfang tragen\|Warum Dateinamen ein besonderes Zeichen am Anfang tragen]] | 2026-05-10 | +Atlas/Notes        |
 | [[+About (2026)\|+About (2026)]]                                                                                                    | 2026-05-10 |                     |
-| [[+Atlas/INDIZEES/MoC Publiziertes\|MoC Publiziertes]]                                                                              | 2026-05-09 | +Atlas/INDIZEES     |
 | [[DG What's new\|DG What's new]]                                                                                                    | 2026-05-09 |                     |
-| [[+References/Quotes/Statement zur Nutzung von KI - ZfK\|Statement zur Nutzung von KI - ZfK]]                                       | 2026-05-09 | +References/Quotes  |
-| [[+References/Sources/The Biggest Problem with Remote Work\|The Biggest Problem with Remote Work]]                                  | 2026-04-10 | +References/Sources |
-| [[+References/Terms/osmotisches Lernen\|osmotisches Lernen]]                                                                        | 2026-04-10 | +References/Terms   |
-| [[+References/Sources/The Religion of Workism\|The Religion of Workism]]                                                            | 2026-03-29 | +References/Sources |
-| [[+References/Sources/What Is the Office For\|What Is the Office For]]                                                              | 2026-03-28 | +References/Sources |
 | [[+References/Terms/Serendipity\|Serendipity]]                                                                                      | 2026-03-28 | +References/Terms   |
-| [[+References/Quotes/Arbeit ist Währung\|Arbeit ist Währung]]                                                                       | 2026-03-28 | +References/Quotes  |
-| [[+References/Terms/Workism\|Workism]]                                                                                              | 2026-03-25 | +References/Terms   |
-| [[+Atlas/Notes/Kritik an Workism\|Kritik an Workism]]                                                                               | 2026-03-25 | +Atlas/Notes        |
-| [[+Efforts/Notes/Digitale Souveränität - Teil 1\|Digitale Souveränität - Teil 1]]                                                   | 2026-03-08 | +Efforts/Notes      |
+| [[+Efforts/Notes/Digitale Souveränität - Teil 1\|Digitale Souveränität - Teil 1]]                                                   | 2026-03-12 | +Efforts/Notes      |
 | [[+Efforts/Learnings/Book UVW\|Book UVW]]                                                                                           | 2026-02-27 | +Efforts/Learnings  |
 | [[+Efforts/Learnings/Book DEF\|Book DEF]]                                                                                           | 2026-02-27 | +Efforts/Learnings  |
 | [[+Atlas/INDIZEES/MOC Blogging Task-Listen mit Aktivitäts-Fokus\|MOC Blogging Task-Listen mit Aktivitäts-Fokus]]                    | 2026-02-27 | +Atlas/INDIZEES     |
 | [[+Atlas/INDIZEES/MOC Blogging Task-Listen\|MOC Blogging Task-Listen]]                                                              | 2026-02-27 | +Atlas/INDIZEES     |
 | [[+Efforts/Notes/Aufgaben-Automation und Management für BloggerInnen\|Aufgaben-Automation und Management für BloggerInnen]]         | 2026-02-27 | +Efforts/Notes      |
 | [[+Efforts/Notes/Aufgaben-Automation und Management für BloggerInnen 2\|Aufgaben-Automation und Management für BloggerInnen 2]]     | 2026-02-27 | +Efforts/Notes      |
-| [[+Efforts/Learnings/Buch ABC\|Buch ABC]]                                                                                           | 2026-02-13 | +Efforts/Learnings  |
-| [[+Atlas/INDIZEES/DG Beispiel Decision-Log\|DG Beispiel Decision-Log]]                                                              | 2026-02-13 | +Atlas/INDIZEES     |
-| [[+Atlas/Notes/Plugin Vault Statistics\|Plugin Vault Statistics]]                                                                   | 2026-02-13 | +Atlas/Notes        |
-| [[+Calendar/2025/2025 Gerald wandert - public\|2025 Gerald wandert - public]]                                                       | 2026-02-13 | +Calendar/2025      |
+| [[+Efforts/Learnings/Buch ABC\|Buch ABC]]                                                                                           | 2026-02-24 | +Efforts/Learnings  |
 
 { .block-language-dataview}
 ---

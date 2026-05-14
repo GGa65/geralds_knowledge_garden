@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/indizees/moc-blogging-task-listen-mit-aktivitaets-fokus/","tags":["class/index"],"created":"2026-02-13T19:40:57.000+01:00","updated":"2026-02-27T13:28:11.820+01:00","dg-note-properties":{"tags":["class/index"],"created":"2026-02-13","indexStatus":null,"Zielfolder":["+Atlas/Indizees"]}}
+{"dg-publish":true,"permalink":"/atlas/indizees/moc-blogging-task-listen-mit-aktivitaets-fokus/","tags":["class/index"]}
 ---
 
 
@@ -15,15 +15,15 @@
 
 ## Blick auf Aktivität 2
 `Dataview auf Files mit A1_Activity = false`
-- [[+Efforts/Learnings/Book DEF\|Book DEF]]
 - [[+Efforts/Learnings/Book UVW\|Book UVW]]
+- [[+Efforts/Learnings/Book DEF\|Book DEF]]
 
 { .block-language-dataview}
 
 ## Blick auf Aktivität 3
 `Dataview auf Files mit A1_Activity = false`
-- [[+Efforts/Learnings/Book DEF\|Book DEF]]
 - [[+Efforts/Learnings/Book UVW\|Book UVW]]
+- [[+Efforts/Learnings/Book DEF\|Book DEF]]
 
 { .block-language-dataview}
 

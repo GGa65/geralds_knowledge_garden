@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/terms/serendipity/","tags":["class/termNote","actions/follow-up"],"created":"2024-12-17T16:26:50.140+01:00","updated":"2026-03-28T16:20:52.056+01:00","dg-note-properties":{"tags":["class/termNote","actions/follow-up"],"created":"2024-12-17","wissensgebiet":["[[definition]]"]}}
+{"dg-publish":true,"permalink":"/references/terms/serendipity/","tags":["class/termNote","actions/follow-up"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/sources/the-biggest-problem-with-remote-work/","tags":["class/annotationNote"],"created":"2026-03-28T17:29:05.381+01:00","updated":"2026-04-10T08:45:59.919+02:00","dg-note-properties":{"tags":["class/annotationNote"],"created":"2026-03-28","gg-pkm-class":["100 Philosophie und Ethik","300 Sozialwissenschaften","310 Wirtschaftswissenschaften","110 Management und Leadership"],"up":["[[On Work - Money, Meaning, Identity]]"],"related":["[[The Religion of Workism]]","[[What Is the Office For]]"]}}
+{"dg-publish":true,"permalink":"/references/sources/the-biggest-problem-with-remote-work/","tags":["class/annotationNote"]}
 ---
 
 

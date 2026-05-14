@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/plugin-auto-template-trigger/","tags":["class/admin","note-lifecycle/settled🧱","thema/own-system-documentation"],"created":"2025-09-02T14:45:02.792+02:00","updated":"2025-09-22T19:49:28.795+02:00","dg-note-properties":{"tags":["class/admin","note-lifecycle/settled🧱","thema/own-system-documentation"],"created":"2025-09-02","url":"https://github.com/numeroflip/obsidian-auto-template-trigger","up":["[[Installierte Plugins Index]]"],"related":null}}
+{"dg-publish":true,"permalink":"/atlas/notes/plugin-auto-template-trigger/","tags":["class/admin","note-lifecycle/settled🧱","thema/own-system-documentation"]}
 ---
 
 `Zielfolder: +Atlas/Notes`
@@ -13,7 +13,7 @@ Es ermöglicht mir, in dem Moment, in dem ich eine neue Notiz erzeuge, das für 
 - die sind ohne jeglichen Schnickschnack im **Auslieferungszustand**
 
 ---
-![Pasted image 20250902173452.png\|600](/img/user/+/Pasted%20image%2020250902173452.png)
+![Pasted image 20250902173452.png|600](/img/user/+/Pasted%20image%2020250902173452.png)
   
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/sleeping/wie-man-kuehlschrank-tuerscharniere-tauscht/","tags":["class/how-to","class/efforts"],"created":"2025-01-09T10:05:23.037+01:00","updated":"2025-04-12T15:49:11.534+02:00","dg-note-properties":{"tags":["class/how-to","class/efforts"],"created":"2025-01-09","up":["[[MOC How-To]]"],"related":null}}
+{"dg-publish":true,"permalink":"/efforts/sleeping/wie-man-kuehlschrank-tuerscharniere-tauscht/","tags":["class/how-to","class/efforts"]}
 ---
 
 

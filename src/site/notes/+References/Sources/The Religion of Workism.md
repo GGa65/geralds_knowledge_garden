@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/sources/the-religion-of-workism/","tags":["class/annotationNote"],"created":"2026-03-25T15:57:08.503+01:00","updated":"2026-03-29T18:27:13.980+02:00","dg-note-properties":{"tags":["class/annotationNote"],"created":"2026-03-25","gg-pkm-class":["100 Philosophie und Ethik","300 Sozialwissenschaften","310 Wirtschaftswissenschaften","110 Management und Leadership"],"up":["[[+References/Sources/On Work - Money, Meaning, Identity\|On Work - Money, Meaning, Identity]]"],"related":["[[Workism]]","[[+Atlas/Notes/Historische Entwicklung der Arbeit\|Historische Entwicklung der Arbeit]]","[[What Is the Office For]]","[[What Is the Office For]]"]}}
+{"dg-publish":true,"permalink":"/references/sources/the-religion-of-workism/","tags":["class/annotationNote"]}
 ---
 
 # The Religion of Workism (Februar 2019)

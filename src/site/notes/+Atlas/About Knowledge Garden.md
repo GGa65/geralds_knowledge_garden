@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/about-knowledge-garden-zettelkaestchen/","tags":["class/admin"]}
+{"dg-publish":true,"permalink":"/atlas/about-knowledge-garden/","tags":["class/admin"]}
 ---
 
 ## **Über das Projekt [Knowledge Garden](https://knowledge-garden.de)**
@@ -15,17 +15,15 @@ Es ist darüber hinaus der Versuch, sich in einem längeren Selbstversuch der Fr
 
 Man kann auch argumentieren, mein **knowledge garden** ist der **öffentliche Teil** meines **Kollektaneen-Buch**es, wie es von [[+References/People/Tiago Forte\|Tiago Forte]] in seinem Buch [[How to build your Second Brain\|How to build your Second Brain]] beschrieben ist.
 
-## Über das Projekt [Zettelkästchen](https://publish.obsidian.md/zettelkaestchen/)
-Das Projekt **Zettelkästchen** ist die zweite Form des direkten Publizierens aus meinem persönichen PKM-System heraus ... und das beschreibe ich hier: [[+Atlas/Notes/Live-Test Obsidian Publish\|Live-Test Obsidian Publish]].
-
----
 Wer ich bin, findet sich unter [[+Atlas/About me\|About me]].
 
-> [!question] Du hast Fragen zum Beitrag oder zur Site?
-> Kontaktiere mich gerne über das Formular https://letterbird.co/gerald-g und nimm dabei auf diese Seite hier Bezug! Trau Dich!
+> [!tip] Wie man mich erreicht.
 > 
-
-
+> Kommentare bitte unter Benennung des zu kommentierenden Beitrags entweder 
+> - [über Mastodon](https://colearn.social/@gg) oder
+> - über den Blauen Himmel [gga65](https://bsky.app/profile/gga65.bsky.social) oder
+> - einfach ganz altmodisch per [e-mail](mailto:gga65@posteo.de) 
+> 
 
 [^1]: Das eigene PKM System meint hier eine **Lokale Obsidian-Installation** (siehe [Obsidian - Sharpen your thinking](https://obsidian.md/)) mit vielerlei Plugins, **die täglich in Benutzung ist**.
 [^2]: Neben Wordpress? Ja, ich betreibe - auch / noch - noch ein einige Blogs auf der Basis von Wordpress.

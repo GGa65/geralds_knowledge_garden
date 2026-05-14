@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/terms/thymos/","tags":["class/termNote"],"created":"2025-03-31T10:58:04.126+02:00","updated":"2025-04-02T14:27:43.047+02:00","dg-note-properties":{"tags":["class/termNote"],"aliases":["Bedürfnis nach Anerkennung","Kampf um Anerkennung","Streben nach Anerkennung","Bedürfnis nach Anerkennung als treibende Kraft der Geschichte"],"created":"2025-03-31","related":null,"url":"https://de.wikipedia.org/wiki/Thymos"}}
+{"dg-publish":true,"permalink":"/references/terms/thymos/","tags":["class/termNote"]}
 ---
 
 

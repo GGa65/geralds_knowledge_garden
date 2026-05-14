@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/indizees/moc-how-to/","tags":["class/index"],"created":"2025-01-09T10:10:04.003+01:00","updated":"2025-01-28T12:53:54.354+01:00","dg-note-properties":{"tags":["class/index"],"created":"2025-01-09"}}
+{"dg-publish":true,"permalink":"/atlas/indizees/moc-how-to/","tags":["class/index"]}
 ---
 
 

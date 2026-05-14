@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/notes/digitale-souveraenitaet-teil-1/","tags":["class/outcome"],"created":"2026-03-01T17:47:39.594+01:00","updated":"2026-03-08T15:58:54.082+01:00","dg-note-properties":{"tags":["class/outcome"],"created":"2026-03-01","date published":"2026-03-01","url":null,"description":"Digitale Souveränität mit Office-Software: hier Textverarbeitung","channel":["[[Blog - Lebenslaenglich-Lernen.de]]"],"template":"[[GGa Outcome-Template]]","Zielfolder":"+Effort/Notes"}}
+{"dg-publish":true,"permalink":"/efforts/notes/digitale-souveraenitaet-teil-1/","tags":["class/outcome"]}
 ---
 
 by Gerald G. |  1. März 2026

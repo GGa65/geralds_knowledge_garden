@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/about-decisions/","tags":["class/note"],"created":"2024-10-29T17:01:24.645+01:00","updated":"2025-04-12T15:49:06.852+02:00","dg-note-properties":{"tags":["class/note"],"created":"2024-10-29","up":null,"related":null}}
+{"dg-publish":true,"permalink":"/atlas/about-decisions/","tags":["class/note"]}
 ---
 
 

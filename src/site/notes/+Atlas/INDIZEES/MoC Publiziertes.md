@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/indizees/mo-c-publiziertes/","tags":["class/index"],"created":"2026-05-09T17:05:43.731+02:00","updated":"2026-05-09T18:34:13.519+02:00","dg-note-properties":{"tags":["class/index"],"created":"2026-05-09","publish":true,"indexStatus":null,"Zielfolder":["+Atlas/Indizees"]}}
+{"dg-publish":true,"permalink":"/atlas/indizees/mo-c-publiziertes/","tags":["class/index"]}
 ---
 
 
@@ -21,6 +21,7 @@
 | [[+Calendar/2025/2025 Gerald wandert - public\|2025 Gerald wandert - public]]                                                                                                                 | \-      | true       |
 | [[+References/Sources/A Critical Leaders AI Checklist\|A Critical Leaders AI Checklist]]                                                                                                      | true    | true       |
 | [[+Atlas/About Decisions\|About Decisions]]                                                                                                                                                   | \-      | true       |
+| [[+Atlas/About Knowledge Garden\|About Knowledge Garden]]                                                                                                                                     | \-      | true       |
 | [[+Atlas/About Knowledge Garden + Zettelkästchen\|About Knowledge Garden + Zettelkästchen]]                                                                                                   | true    | true       |
 | [[+Atlas/About me\|About me]]                                                                                                                                                                 | true    | true       |
 | [[+Atlas/Notes/Agile Scrum Frameworks\|Agile Scrum Frameworks]]                                                                                                                               | \-      | true       |
@@ -32,6 +33,7 @@
 | [[+Efforts/Learnings/Buch ABC\|Buch ABC]]                                                                                                                                                     | \-      | true       |
 | [[+Efforts/Learnings/Buch XYZ\|Buch XYZ]]                                                                                                                                                     | \-      | true       |
 | [[+References/Quotes/Clarity versus detail\|Clarity versus detail]]                                                                                                                           | \-      | true       |
+| [[+References/Quotes/Des Product Owners Tragödie\|Des Product Owners Tragödie]]                                                                                                               | true    | true       |
 | [[+Atlas/INDIZEES/DG Beispiel Decision-Log\|DG Beispiel Decision-Log]]                                                                                                                        | \-      | true       |
 | [[+Calendar/Notes of the day - public/DG Beispiel für ein Meeting mit Entscheidung\|DG Beispiel für ein Meeting mit Entscheidung]]                                                            | \-      | true       |
 | [[+Calendar/DG Gedankensalat-Tagebuch\|DG Gedankensalat-Tagebuch]]                                                                                                                            | \-      | true       |
@@ -61,9 +63,11 @@
 | [[+Atlas/Notes/Plugin Auto Template Trigger\|Plugin Auto Template Trigger]]                                                                                                                   | \-      | true       |
 | [[+Atlas/Notes/Plugin ICS\|Plugin ICS]]                                                                                                                                                       | \-      | true       |
 | [[+Atlas/Notes/Plugin Vault Statistics\|Plugin Vault Statistics]]                                                                                                                             | \-      | true       |
+| [[+References/Terms/Rumination\|Rumination]]                                                                                                                                                  | true    | true       |
 | [[+References/Terms/Serendipity\|Serendipity]]                                                                                                                                                | \-      | true       |
 | [[+References/Terms/SMART\|SMART]]                                                                                                                                                            | \-      | true       |
 | [[+References/Quotes/Statement zur Nutzung von KI - ZfK\|Statement zur Nutzung von KI - ZfK]]                                                                                                 | \-      | true       |
+| [[+References/Terms/Sycophancy\|Sycophancy]]                                                                                                                                                  | true    | true       |
 | [[+References/Sources/The Biggest Problem with Remote Work\|The Biggest Problem with Remote Work]]                                                                                            | \-      | true       |
 | [[+References/Sources/The Religion of Workism\|The Religion of Workism]]                                                                                                                      | \-      | true       |
 | [[+References/Terms/Thymos\|Thymos]]                                                                                                                                                          | \-      | true       |

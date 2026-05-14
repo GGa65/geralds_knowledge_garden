@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/references/sources/a-critical-leaders-ai-checklist/","tags":["class/sourceNote","🛏️Embedding"],"created":"2026-05-12T09:34:02.708+02:00","updated":"2026-05-12T09:43:45.905+02:00","dg-note-properties":{"tags":["class/sourceNote","🛏️Embedding"],"created":"2026-05-12","publish":true,"related":null,"template":"[[GGa Embedded Doc Template]]","Zielfolder":["+References/Sources"]}}
+{"dg-publish":true,"permalink":"/references/sources/a-critical-leaders-ai-checklist/","tags":["class/sourceNote","🛏️Embedding"]}
 ---
 
 > [!radar] Hintergrund
-> - Netzfundstück, basierend auf [[+References/Sources/Clippings/A Generative AI checklist for corporate leaders\|A Generative AI checklist for corporate leaders]]
-> - irgendwie inspirierend und daher wertvoll und wert, es zu speichern
+> - Netzfundstück, [Quelle](https://deeplywrong.substack.com/p/a-generative-ai-checklist-for-corporate) 
+> - irgendwie inspirierend und daher **wertvoll** und **wert, es zu speichern**
 > - mindestens um über AI (oder KI) kritisch reflektierend nachdenken zu können
-> - man muss sich der aus den Netzfundstücken hervorscheinenden Kritik ja nicht anschließen, man muss sich aber genau diesen Fragen stellen, wenn man als Führungskraft durch die Welt läuft und unreflektiert jede Form von KI als Heilsbringer für die Probleme der Menschheit begrüßt.
+> - man muss sich der im Netzfundstück erkennbaren Kritik ja nicht anschließen, man muss sich aber genau diesen Fragen stellen, wenn man als Führungskraft durch die Welt läuft und möglicherweise unreflektiert jede Form von KI als Heilsbringer für die Probleme der Menschheit begrüßt.
 
 
 ### eingebettetes Dokument
