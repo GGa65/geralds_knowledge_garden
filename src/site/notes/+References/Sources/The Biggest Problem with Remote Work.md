@@ -23,7 +23,7 @@ Thompson identifiziert drei spezifische Bereiche, in denen reine Remote-Arbeit s
 
 ### A. Schlechter für neue Mitarbeiter (Onboarding)
 * **Das Problem:** Unerfahrene Mitarbeiter oder Neueinsteiger fühlen sich in vollständig remote arbeitenden Unternehmen (virtuellen Firmen) oft isoliert. Sie loggen sich in einen „Group Chat“ ein, nicht in eine Kultur.
-* **Verlust des impliziten Lernens:** Im Büro lernen die Neuen durch „[[+References/Terms/osmotisches Lernen\|osmotisches Lernen]]“ – sie hören zu, wie der Kollegen telefonieren, sehen, wie Kollegen Probleme lösen, oder fangen zufällige Gespräche am Schreibtisch des Chefs auf.
+* **Verlust des impliziten Lernens:** Im Büro lernen die Neuen durch „[[+Efforts/Notes/osmotisches Lernen - Ein Begriff taucht plötzlich auf.\|osmotisches Lernen - Ein Begriff taucht plötzlich auf.]]“ – sie hören zu, wie der Kollegen telefonieren, sehen, wie Kollegen Probleme lösen, oder fangen zufällige Gespräche am Schreibtisch des Chefs auf.
 * **Zitat:** Petersen & Warzel („Out of Office“) werden zitiert: Small Talk und das Beobachten von Pfaden („pathways“) sind wertvoller als jedes Handbuch. Remote fehlt dieser Kontext.
 
 ### B. Schlechter für den Aufbau neuer Teams

@@ -17,7 +17,3 @@
 > 
 > (https://de.wikipedia.org/wiki/Thymos) 
 
-
-
-
-

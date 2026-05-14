@@ -11,5 +11,3 @@
 > 
 > - Thompson kritisiert Workism in seinem Buch scharf - siehe dazu [[+Atlas/Notes/Kritik an Workism\|Kritik an Workism]].
 
-
-

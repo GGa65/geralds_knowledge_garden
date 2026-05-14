@@ -3,7 +3,7 @@
 ---
 
 
-> [!tip] ### Serendipity
+> [!tip] Serendipity
 > - die Kunst, etwas zufällig zu finden
 
 

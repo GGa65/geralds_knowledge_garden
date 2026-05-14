@@ -52,30 +52,31 @@
 | [[+Efforts/Notes/Kriterien der Softwareauswahl für ein PKM-System\|Kriterien der Softwareauswahl für ein PKM-System]]                                                                         | \-      | true       |
 | [[+Atlas/Notes/Kritik an Workism\|Kritik an Workism]]                                                                                                                                         | \-      | true       |
 | [[+Atlas/Notes/Live-Test Obsidian Publish\|Live-Test Obsidian Publish]]                                                                                                                       | true    | true       |
-| [[+Atlas/INDIZEES/MoC - public Terms\|MoC - public Terms]]                                                                                                                                    | true    | true       |
+| [[+Atlas/INDIZEES/MoC - Public Outcome knowledge-garden.de\|MoC - Public Outcome knowledge-garden.de]]                                                                                        | false   | true       |
+| [[+Atlas/INDIZEES/MoC - public Terms\|MoC - public Terms]]                                                                                                                                    | false   | true       |
 | [[+Atlas/INDIZEES/MOC Blogging Task-Listen\|MOC Blogging Task-Listen]]                                                                                                                        | \-      | true       |
 | [[+Atlas/INDIZEES/MOC Blogging Task-Listen mit Aktivitäts-Fokus\|MOC Blogging Task-Listen mit Aktivitäts-Fokus]]                                                                              | \-      | true       |
 | [[+Atlas/INDIZEES/MOC How-To\|MOC How-To]]                                                                                                                                                    | \-      | true       |
-| [[+Atlas/INDIZEES/MoC Publiziertes\|MoC Publiziertes]]                                                                                                                                        | true    | true       |
+| [[+Atlas/INDIZEES/MoC Publiziertes\|MoC Publiziertes]]                                                                                                                                        | false   | true       |
 | [[+References/People/Nick Milo\|Nick Milo]]                                                                                                                                                   | \-      | true       |
-| [[+References/Terms/osmotisches Lernen\|osmotisches Lernen]]                                                                                                                                  | \-      | true       |
+| [[+Efforts/Notes/osmotisches Lernen - Ein Begriff taucht plötzlich auf.\|osmotisches Lernen - Ein Begriff taucht plötzlich auf.]]                                                             | true    | true       |
 | [[+References/Terms/PACT\|PACT]]                                                                                                                                                              | \-      | true       |
 | [[+Atlas/Notes/Plugin Auto Template Trigger\|Plugin Auto Template Trigger]]                                                                                                                   | \-      | true       |
 | [[+Atlas/Notes/Plugin ICS\|Plugin ICS]]                                                                                                                                                       | \-      | true       |
 | [[+Atlas/Notes/Plugin Vault Statistics\|Plugin Vault Statistics]]                                                                                                                             | \-      | true       |
 | [[+References/Terms/Rumination\|Rumination]]                                                                                                                                                  | true    | true       |
-| [[+References/Terms/Serendipity\|Serendipity]]                                                                                                                                                | \-      | true       |
+| [[+References/Terms/Serendipity\|Serendipity]]                                                                                                                                                | true    | true       |
 | [[+References/Terms/SMART\|SMART]]                                                                                                                                                            | \-      | true       |
 | [[+References/Quotes/Statement zur Nutzung von KI - ZfK\|Statement zur Nutzung von KI - ZfK]]                                                                                                 | \-      | true       |
 | [[+References/Terms/Sycophancy\|Sycophancy]]                                                                                                                                                  | true    | true       |
 | [[+References/Sources/The Biggest Problem with Remote Work\|The Biggest Problem with Remote Work]]                                                                                            | \-      | true       |
 | [[+References/Sources/The Religion of Workism\|The Religion of Workism]]                                                                                                                      | \-      | true       |
-| [[+References/Terms/Thymos\|Thymos]]                                                                                                                                                          | \-      | true       |
+| [[+References/Terms/Thymos\|Thymos]]                                                                                                                                                          | true    | true       |
 | [[+Atlas/Notes/Warum Dateinamen ein besonderes Zeichen am Anfang tragen\|Warum Dateinamen ein besonderes Zeichen am Anfang tragen]]                                                           | true    | true       |
 | [[+References/Sources/What Is the Office For\|What Is the Office For]]                                                                                                                        | \-      | true       |
 | [[+Efforts/Sleeping/Wie man Kühlschrank-Türscharniere tauscht\|Wie man Kühlschrank-Türscharniere tauscht]]                                                                                    | \-      | true       |
 | [[Willkommen!\|Willkommen!]]                                                                                                                                                                  | true    | false      |
-| [[+References/Terms/Workism\|Workism]]                                                                                                                                                        | \-      | true       |
+| [[+References/Terms/Workism\|Workism]]                                                                                                                                                        | true    | true       |
 
 { .block-language-dataview}
 
