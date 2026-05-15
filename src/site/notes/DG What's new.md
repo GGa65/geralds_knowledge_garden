@@ -13,6 +13,7 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                    | Modified   | Ort                 |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------- |
+| [[+References/Terms/implizites Wissen\|implizites Wissen]]                                                                          | 2026-05-15 | +References/Terms   |
 | [[+References/Quotes/Des Product Owners Tragödie\|Des Product Owners Tragödie]]                                                     | 2026-05-15 | +References/Quotes  |
 | [[+Efforts/Notes/osmotisches Lernen - Ein Begriff taucht plötzlich auf.\|osmotisches Lernen - Ein Begriff taucht plötzlich auf.]]   | 2026-05-15 | +Efforts/Notes      |
 | [[+Atlas/About Knowledge Garden\|About Knowledge Garden]]                                                                           | 2026-05-15 | +Atlas              |
@@ -42,7 +43,6 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 | [[+Efforts/Learnings/Book UVW\|Book UVW]]                                                                                           | 2026-02-27 | +Efforts/Learnings  |
 | [[+Efforts/Learnings/Book DEF\|Book DEF]]                                                                                           | 2026-02-27 | +Efforts/Learnings  |
 | [[+Atlas/INDIZEES/MOC Blogging Task-Listen mit Aktivitäts-Fokus\|MOC Blogging Task-Listen mit Aktivitäts-Fokus]]                    | 2026-02-27 | +Atlas/INDIZEES     |
-| [[+Atlas/INDIZEES/MOC Blogging Task-Listen\|MOC Blogging Task-Listen]]                                                              | 2026-02-27 | +Atlas/INDIZEES     |
 
 { .block-language-dataview}
 ---

@@ -47,6 +47,7 @@
 | [[+Efforts/Notes/Erzeugen eines Zotero-Links im PKM\|Erzeugen eines Zotero-Links im PKM]]                                                                                                     | \-      | true       |
 | [[+Efforts/Notes/Gedanken über Abschlagsplanverlängerungen\|Gedanken über Abschlagsplanverlängerungen]]                                                                                       | \-      | true       |
 | [[+References/Terms/Geschäftsfunktion\|Geschäftsfunktion]]                                                                                                                                    | \-      | true       |
+| [[+References/Terms/implizites Wissen\|implizites Wissen]]                                                                                                                                    | true    | true       |
 | [[+Atlas/INDIZEES/INDEX - public Terms\|INDEX - public Terms]]                                                                                                                                | false   | true       |
 | [[+Atlas/INDIZEES/INDEX - Publiziertes\|INDEX - Publiziertes]]                                                                                                                                | false   | true       |
 | [[+References/Quotes/Information collection is not wisdom\|Information collection is not wisdom]]                                                                                             | \-      | true       |

@@ -10,6 +10,7 @@
 | [[+References/Terms/E2E-Prozess\|E2E-Prozess]]                 | +References/Terms | 2025-03-27 |
 | [[+References/Terms/Ende der Geschichte\|Ende der Geschichte]] | +References/Terms | 2025-03-31 |
 | [[+References/Terms/Geschäftsfunktion\|Geschäftsfunktion]]     | +References/Terms | 2025-03-27 |
+| [[+References/Terms/implizites Wissen\|implizites Wissen]]     | +References/Terms | 2026-03-29 |
 | [[+References/Terms/PACT\|PACT]]                               | +References/Terms | 2023-04-02 |
 | [[+References/Terms/Rumination\|Rumination]]                   | +References/Terms | 2026-05-14 |
 | [[+References/Terms/Serendipity\|Serendipity]]                 | +References/Terms | 2024-12-17 |
