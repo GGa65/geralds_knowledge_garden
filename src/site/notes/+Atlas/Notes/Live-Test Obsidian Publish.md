@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/live-test-obsidian-publish/","tags":["class/note"]}
+{"dg-publish":true,"permalink":"/atlas/notes/live-test-obsidian-publish/","tags":["class/note"],"created":"2026-05-10T11:38:03.065+02:00","updated":"2026-05-11T14:46:04.428+02:00","dg-note-properties":{"tags":["class/note"],"created":"2026-05-10","publish":true,"up":null,"related":null,"template":"[[GGa Note Template]]","Zielfolder":["+Atlas/Notes"]}}
 ---
 
 # Meine Live-Test-Instanz

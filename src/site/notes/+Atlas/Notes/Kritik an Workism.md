@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/kritik-an-workism/","tags":["class/note"]}
+{"dg-publish":true,"permalink":"/atlas/notes/kritik-an-workism/","tags":["class/note"],"created":"2026-03-25T13:48:32.831+01:00","updated":"2026-03-25T14:47:01.489+01:00","dg-note-properties":{"tags":["class/note"],"created":"2026-03-25","up":["[[+References/Terms/Workism\|Workism]]"],"related":["[[+References/Sources/On Work - Money, Meaning, Identity\|On Work - Money, Meaning, Identity]]"],"template":"[[GGa Note Template]]","Zielfolder":["+Atlas/Notes"]}}
 ---
 
 ### Thompsons Fazit zum Thema Workism

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/indizees/mo-c-publiziertes/","tags":["class/index"]}
+{"dg-publish":true,"permalink":"/atlas/indizees/mo-c-publiziertes/","tags":["class/index"],"created":"2026-05-09T17:05:43.731+02:00","updated":"2026-05-14T21:13:27.230+02:00","dg-note-properties":{"tags":["class/index"],"created":"2026-05-09","publish":false,"indexStatus":null,"Zielfolder":["+Atlas/Indizees"]}}
 ---
 
 

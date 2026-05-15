@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/notes/gedanken-ueber-abschlagsplanverlaengerungen/","tags":["class/outcome"]}
+{"dg-publish":true,"permalink":"/efforts/notes/gedanken-ueber-abschlagsplanverlaengerungen/","tags":["class/outcome"],"created":"2025-11-11T14:39:14.754+01:00","updated":"2025-11-11T16:38:34.876+01:00","dg-note-properties":{"tags":["class/outcome"],"created":"2025-11-11","date published":"2025-11-11","url":null,"description":null,"channel":null,"template":"[[GGa Outcome-Template]]","Zielfolder":"+Effort/Notes","target-channel":["[[Blog - Utilitiesenthusiast.de]]"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/indizees/mo-c-public-terms/","tags":["class/index"]}
+{"dg-publish":true,"permalink":"/atlas/indizees/mo-c-public-terms/","tags":["class/index"],"created":"2023-11-28T16:06:25.973+01:00","updated":"2026-05-14T21:12:43.926+02:00","dg-note-properties":{"tags":["class/index"],"date created":"2023-11-28T16:06:00","publish":false}}
 ---
 
 

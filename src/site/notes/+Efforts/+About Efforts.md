@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/about-efforts/","tags":["class/admin","thema/PKM"]}
+{"dg-publish":true,"permalink":"/efforts/about-efforts/","tags":["class/admin","thema/PKM"],"created":"2024-02-17T15:52:34.119+01:00","updated":"2025-09-01T19:44:07.064+02:00","dg-note-properties":{"tags":["class/admin","thema/PKM"],"created":"2024-02-17","related":["[[MoC Closed Efforts]]"],"gg-pkm-class":["009a PKM","000 Informations- und Wissensmanagement","PKM-Administration"]}}
 ---
 
 
