@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/notes/osmotisches-lernen-ein-begriff-taucht-ploetzlich-auf/","tags":["class/termNote","actions/follow-up","class/outcome"],"created":"2026-03-28T18:21:02.214+01:00","updated":"2026-05-15T16:56:34.719+02:00","dg-note-properties":{"tags":["class/termNote","actions/follow-up","class/outcome"],"created":"2026-03-28","publish":true,"template":"[[GGa Term Template]]","Zielfolder":["+References/Terms"]}}
+{"dg-publish":true,"permalink":"/efforts/notes/osmotisches-lernen-ein-begriff-taucht-ploetzlich-auf/","tags":["actions/follow-up","class/outcome"],"created":"2026-03-28T18:21:02.214+01:00","updated":"2026-05-15T17:20:59.454+02:00","dg-note-properties":{"tags":["actions/follow-up","class/outcome"],"created":"2026-03-28","publish":true,"template":"[[GGa Term Template]]","Zielfolder":["+References/Terms"]}}
 ---
 
 Stellt Euch vor, Ihr bearbeitet einige Notizen und diskutiert dabei das Werk, auf das sich diese Notizen beziehen, mit einer KI und es passiert Folgendes:

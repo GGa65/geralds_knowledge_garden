@@ -13,18 +13,18 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                    | Modified   | Ort                 |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------- |
+| [[+References/Quotes/Des Product Owners Tragödie\|Des Product Owners Tragödie]]                                                     | 2026-05-15 | +References/Quotes  |
 | [[+Efforts/Notes/osmotisches Lernen - Ein Begriff taucht plötzlich auf.\|osmotisches Lernen - Ein Begriff taucht plötzlich auf.]]   | 2026-05-15 | +Efforts/Notes      |
 | [[+Atlas/About Knowledge Garden\|About Knowledge Garden]]                                                                           | 2026-05-15 | +Atlas              |
 | [[+References/Sources/The Biggest Problem with Remote Work\|The Biggest Problem with Remote Work]]                                  | 2026-05-14 | +References/Sources |
 | [[+References/Terms/Serendipity\|Serendipity]]                                                                                      | 2026-05-14 | +References/Terms   |
 | [[+References/Terms/Workism\|Workism]]                                                                                              | 2026-05-14 | +References/Terms   |
 | [[+References/Terms/Thymos\|Thymos]]                                                                                                | 2026-05-14 | +References/Terms   |
-| [[+Atlas/INDIZEES/MoC Publiziertes\|MoC Publiziertes]]                                                                              | 2026-05-14 | +Atlas/INDIZEES     |
-| [[+Atlas/INDIZEES/MoC - public Terms\|MoC - public Terms]]                                                                          | 2026-05-14 | +Atlas/INDIZEES     |
+| [[+Atlas/INDIZEES/INDEX - Publiziertes\|INDEX - Publiziertes]]                                                                      | 2026-05-14 | +Atlas/INDIZEES     |
+| [[+Atlas/INDIZEES/INDEX - public Terms\|INDEX - public Terms]]                                                                      | 2026-05-14 | +Atlas/INDIZEES     |
 | [[+Atlas/INDIZEES/MoC - Public Outcome knowledge-garden.de\|MoC - Public Outcome knowledge-garden.de]]                              | 2026-05-14 | +Atlas/INDIZEES     |
 | [[+References/Terms/Sycophancy\|Sycophancy]]                                                                                        | 2026-05-14 | +References/Terms   |
 | [[+References/Terms/Rumination\|Rumination]]                                                                                        | 2026-05-14 | +References/Terms   |
-| [[+References/Quotes/Des Product Owners Tragödie\|Des Product Owners Tragödie]]                                                     | 2026-05-12 | +References/Quotes  |
 | [[+References/Sources/A Critical Leaders AI Checklist\|A Critical Leaders AI Checklist]]                                            | 2026-05-12 | +References/Sources |
 | [[+Atlas/About Knowledge Garden + Zettelkästchen\|About Knowledge Garden + Zettelkästchen]]                                         | 2026-05-11 | +Atlas              |
 | [[DG Home\|DG Home]]                                                                                                                | 2026-05-11 |                     |
