@@ -13,6 +13,7 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                    | Modified   | Ort                 |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------- |
+| [[+References/Quotes/Statement zur Nutzung von KI - ZfK\|Statement zur Nutzung von KI - ZfK]]                                       | 2026-05-15 | +References/Quotes  |
 | [[+References/Terms/implizites Wissen\|implizites Wissen]]                                                                          | 2026-05-15 | +References/Terms   |
 | [[+References/Quotes/Des Product Owners Tragödie\|Des Product Owners Tragödie]]                                                     | 2026-05-15 | +References/Quotes  |
 | [[+Efforts/Notes/osmotisches Lernen - Ein Begriff taucht plötzlich auf.\|osmotisches Lernen - Ein Begriff taucht plötzlich auf.]]   | 2026-05-15 | +Efforts/Notes      |
@@ -34,7 +35,6 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 | [[+Atlas/Notes/Warum Dateinamen ein besonderes Zeichen am Anfang tragen\|Warum Dateinamen ein besonderes Zeichen am Anfang tragen]] | 2026-05-10 | +Atlas/Notes        |
 | [[+About (2026)\|+About (2026)]]                                                                                                    | 2026-05-10 |                     |
 | [[DG What's new\|DG What's new]]                                                                                                    | 2026-05-09 |                     |
-| [[+References/Quotes/Statement zur Nutzung von KI - ZfK\|Statement zur Nutzung von KI - ZfK]]                                       | 2026-05-09 | +References/Quotes  |
 | [[+References/Sources/The Religion of Workism\|The Religion of Workism]]                                                            | 2026-03-29 | +References/Sources |
 | [[+References/Sources/What Is the Office For\|What Is the Office For]]                                                              | 2026-03-28 | +References/Sources |
 | [[+References/Quotes/Arbeit ist Währung\|Arbeit ist Währung]]                                                                       | 2026-03-28 | +References/Quotes  |

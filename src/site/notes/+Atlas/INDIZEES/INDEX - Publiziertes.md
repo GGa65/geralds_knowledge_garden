@@ -68,7 +68,7 @@
 | [[+References/Terms/Rumination\|Rumination]]                                                                                                                                                  | true    | true       |
 | [[+References/Terms/Serendipity\|Serendipity]]                                                                                                                                                | true    | true       |
 | [[+References/Terms/SMART\|SMART]]                                                                                                                                                            | \-      | true       |
-| [[+References/Quotes/Statement zur Nutzung von KI - ZfK\|Statement zur Nutzung von KI - ZfK]]                                                                                                 | \-      | true       |
+| [[+References/Quotes/Statement zur Nutzung von KI - ZfK\|Statement zur Nutzung von KI - ZfK]]                                                                                                 | true    | true       |
 | [[+References/Terms/Sycophancy\|Sycophancy]]                                                                                                                                                  | true    | true       |
 | [[+References/Sources/The Biggest Problem with Remote Work\|The Biggest Problem with Remote Work]]                                                                                            | \-      | true       |
 | [[+References/Sources/The Religion of Workism\|The Religion of Workism]]                                                                                                                      | \-      | true       |
