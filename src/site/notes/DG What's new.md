@@ -13,10 +13,11 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                    | Modified   | Ort                 |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------- |
+| [[+Efforts/Notes/osmotisches Lernen - Ein Begriff taucht plötzlich auf.\|osmotisches Lernen - Ein Begriff taucht plötzlich auf.]]   | 2026-05-15 | +Efforts/Notes      |
+| [[+Atlas/Notes/Live-Test Obsidian Publish\|Live-Test Obsidian Publish]]                                                             | 2026-05-15 | +Atlas/Notes        |
 | [[+References/Quotes/Statement zur Nutzung von KI - ZfK\|Statement zur Nutzung von KI - ZfK]]                                       | 2026-05-15 | +References/Quotes  |
 | [[+References/Terms/implizites Wissen\|implizites Wissen]]                                                                          | 2026-05-15 | +References/Terms   |
 | [[+References/Quotes/Des Product Owners Tragödie\|Des Product Owners Tragödie]]                                                     | 2026-05-15 | +References/Quotes  |
-| [[+Efforts/Notes/osmotisches Lernen - Ein Begriff taucht plötzlich auf.\|osmotisches Lernen - Ein Begriff taucht plötzlich auf.]]   | 2026-05-15 | +Efforts/Notes      |
 | [[+Atlas/About Knowledge Garden\|About Knowledge Garden]]                                                                           | 2026-05-15 | +Atlas              |
 | [[+References/Sources/The Biggest Problem with Remote Work\|The Biggest Problem with Remote Work]]                                  | 2026-05-14 | +References/Sources |
 | [[+References/Terms/Serendipity\|Serendipity]]                                                                                      | 2026-05-14 | +References/Terms   |
@@ -31,7 +32,6 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 | [[+Atlas/About Knowledge Garden + Zettelkästchen\|About Knowledge Garden + Zettelkästchen]]                                         | 2026-05-11 | +Atlas              |
 | [[DG Home\|DG Home]]                                                                                                                | 2026-05-11 |                     |
 | [[+Atlas/About me\|About me]]                                                                                                       | 2026-05-11 | +Atlas              |
-| [[+Atlas/Notes/Live-Test Obsidian Publish\|Live-Test Obsidian Publish]]                                                             | 2026-05-11 | +Atlas/Notes        |
 | [[+Atlas/Notes/Warum Dateinamen ein besonderes Zeichen am Anfang tragen\|Warum Dateinamen ein besonderes Zeichen am Anfang tragen]] | 2026-05-10 | +Atlas/Notes        |
 | [[+About (2026)\|+About (2026)]]                                                                                                    | 2026-05-10 |                     |
 | [[DG What's new\|DG What's new]]                                                                                                    | 2026-05-09 |                     |

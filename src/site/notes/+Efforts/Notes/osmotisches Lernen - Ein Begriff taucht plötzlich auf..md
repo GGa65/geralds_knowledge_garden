@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/notes/osmotisches-lernen-ein-begriff-taucht-ploetzlich-auf/","tags":["actions/follow-up","class/outcome"],"created":"2026-03-28T18:21:02.214+01:00","updated":"2026-05-15T17:20:59.454+02:00","dg-note-properties":{"tags":["actions/follow-up","class/outcome"],"created":"2026-03-28","publish":true,"template":"[[GGa Term Template]]","Zielfolder":["+References/Terms"]}}
+{"dg-publish":true,"permalink":"/efforts/notes/osmotisches-lernen-ein-begriff-taucht-ploetzlich-auf/","tags":["actions/follow-up","class/outcome"],"created":"2026-03-28T18:21:02.214+01:00","updated":"2026-05-15T18:04:17.629+02:00","dg-note-properties":{"tags":["actions/follow-up","class/outcome"],"created":"2026-03-28","publish":true,"template":"[[GGa Term Template]]","Zielfolder":["+References/Terms"]}}
 ---
 
 Stellt Euch vor, Ihr bearbeitet einige Notizen und diskutiert dabei das Werk, auf das sich diese Notizen beziehen, mit einer KI und es passiert Folgendes:
@@ -42,3 +42,12 @@ Ich lasse das mal so stehen. Soll sich doch jeder selbst eine Meinung bilden, wa
 
 
 [^1]: Die KI gaukelt hier tatsächlich ein menschliches Selbstbewusstsein vor, in dem es von sich in der Ich-Form schreibt.
+
+
+---
+
+> [!question] Du hast Fragen zum Beitrag oder zur Site?
+> Kontaktiere mich gerne über das Formular https://letterbird.co/gerald-g und nimm dabei auf diese Seite hier Bezug! Trau Dich!
+> 
+
+gekürzter Link ins Zettekästchen: https://chk.me/WRCCzfM

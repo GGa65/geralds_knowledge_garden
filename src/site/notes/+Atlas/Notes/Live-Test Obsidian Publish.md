@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/live-test-obsidian-publish/","tags":["class/note"],"created":"2026-05-10T11:38:03.065+02:00","updated":"2026-05-11T14:46:04.428+02:00","dg-note-properties":{"tags":["class/note"],"created":"2026-05-10","publish":true,"up":null,"related":null,"template":"[[GGa Note Template]]","Zielfolder":["+Atlas/Notes"]}}
+{"dg-publish":true,"permalink":"/atlas/notes/live-test-obsidian-publish/","tags":["class/note"],"created":"2026-05-10T11:38:03.065+02:00","updated":"2026-05-15T18:00:11.390+02:00","dg-note-properties":{"tags":["class/note"],"created":"2026-05-10","publish":true,"up":null,"related":null,"template":"[[GGa Note Template]]","Zielfolder":["+Atlas/Notes"]}}
 ---
 
 # Meine Live-Test-Instanz
@@ -30,11 +30,6 @@ Man sollte sich überlegen, welche Notes aus dem eigenen Vault zu veröffentlich
 
 Wer mit Templates für verschiedene Notiz-Typen arbeitet, sollte in den Templates die Property mit Property-Typ "Kontroll-Kästchen" versehen als `publish: false` vorkonfigurieren, dann kann eine neue Notiz mit nur einem Klick zur Veröffentlichung markiert werden.
 
---
-May 2026
-
---
-
 ## 3. Eigene Domain
 ich versuche mich Punkt für Punkt an die Anleitung zu halten.
 - cloudflare Account
@@ -42,6 +37,12 @@ ich versuche mich Punkt für Punkt an die Anleitung zu halten.
 Aber die Weiterleitung funktioniert nicht. Ich werden laut Fehlermeldung zu oft weitergeleitet.
 
 Insofern stelle ich die Versuche ein, mich mit meiner eigenen Domain zu verbinden.
+
+
+--
+May 2026
+
+--
 
 
 ---
