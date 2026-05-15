@@ -13,6 +13,7 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                    | Modified   | Ort                 |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------- |
+| [[+/Der zentrale Effekt von KI\|Der zentrale Effekt von KI]]                                                                        | 2026-05-15 | +                   |
 | [[+Efforts/Notes/osmotisches Lernen - Ein Begriff taucht plötzlich auf.\|osmotisches Lernen - Ein Begriff taucht plötzlich auf.]]   | 2026-05-15 | +Efforts/Notes      |
 | [[+Atlas/Notes/Live-Test Obsidian Publish\|Live-Test Obsidian Publish]]                                                             | 2026-05-15 | +Atlas/Notes        |
 | [[+References/Quotes/Statement zur Nutzung von KI - ZfK\|Statement zur Nutzung von KI - ZfK]]                                       | 2026-05-15 | +References/Quotes  |
@@ -42,7 +43,6 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 | [[+Efforts/Notes/Digitale Souveränität - Teil 1\|Digitale Souveränität - Teil 1]]                                                   | 2026-03-08 | +Efforts/Notes      |
 | [[+Efforts/Learnings/Book UVW\|Book UVW]]                                                                                           | 2026-02-27 | +Efforts/Learnings  |
 | [[+Efforts/Learnings/Book DEF\|Book DEF]]                                                                                           | 2026-02-27 | +Efforts/Learnings  |
-| [[+Atlas/INDIZEES/MOC Blogging Task-Listen mit Aktivitäts-Fokus\|MOC Blogging Task-Listen mit Aktivitäts-Fokus]]                    | 2026-02-27 | +Atlas/INDIZEES     |
 
 { .block-language-dataview}
 ---
