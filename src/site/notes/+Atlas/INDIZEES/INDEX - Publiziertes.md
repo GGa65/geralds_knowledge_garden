@@ -60,7 +60,9 @@
 | [[+Atlas/INDIZEES/MOC Blogging Task-Listen\|MOC Blogging Task-Listen]]                                                                                                                        | \-      | true       |
 | [[+Atlas/INDIZEES/MOC Blogging Task-Listen mit Aktivitäts-Fokus\|MOC Blogging Task-Listen mit Aktivitäts-Fokus]]                                                                              | \-      | true       |
 | [[+Atlas/INDIZEES/MOC How-To\|MOC How-To]]                                                                                                                                                    | \-      | true       |
+| [[+/Nächtliche Gedanke über Organisationen\|Nächtliche Gedanke über Organisationen]]                                                                                                          | true    | false      |
 | [[+References/People/Nick Milo\|Nick Milo]]                                                                                                                                                   | \-      | true       |
+| [[+References/Terms/osmotisches Lernen\|osmotisches Lernen]]                                                                                                                                  | \-      | true       |
 | [[+Efforts/Notes/osmotisches Lernen - Ein Begriff taucht plötzlich auf.\|osmotisches Lernen - Ein Begriff taucht plötzlich auf.]]                                                             | true    | true       |
 | [[+References/Terms/PACT\|PACT]]                                                                                                                                                              | \-      | true       |
 | [[+Atlas/Notes/Plugin Auto Template Trigger\|Plugin Auto Template Trigger]]                                                                                                                   | \-      | true       |
@@ -75,6 +77,7 @@
 | [[+References/Sources/The Religion of Workism\|The Religion of Workism]]                                                                                                                      | \-      | true       |
 | [[+References/Terms/Thymos\|Thymos]]                                                                                                                                                          | true    | true       |
 | [[+Atlas/Notes/Warum Dateinamen ein besonderes Zeichen am Anfang tragen\|Warum Dateinamen ein besonderes Zeichen am Anfang tragen]]                                                           | true    | true       |
+| [[+Efforts/Notes/Was machen wir, wenn ...\|Was machen wir, wenn ...]]                                                                                                                         | false   | true       |
 | [[+References/Sources/What Is the Office For\|What Is the Office For]]                                                                                                                        | \-      | true       |
 | [[+Efforts/Sleeping/Wie man Kühlschrank-Türscharniere tauscht\|Wie man Kühlschrank-Türscharniere tauscht]]                                                                                    | \-      | true       |
 | [[Willkommen!\|Willkommen!]]                                                                                                                                                                  | true    | false      |

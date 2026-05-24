@@ -13,6 +13,8 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                    | Modified   | Ort                 |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------- |
+| [[+Efforts/Notes/Was machen wir, wenn ...\|Was machen wir, wenn ...]]                                                               | 2026-05-24 | +Efforts/Notes      |
+| [[+References/Terms/osmotisches Lernen\|osmotisches Lernen]]                                                                        | 2026-05-24 | +References/Terms   |
 | [[+/Der zentrale Effekt von KI\|Der zentrale Effekt von KI]]                                                                        | 2026-05-15 | +                   |
 | [[+Efforts/Notes/osmotisches Lernen - Ein Begriff taucht plötzlich auf.\|osmotisches Lernen - Ein Begriff taucht plötzlich auf.]]   | 2026-05-15 | +Efforts/Notes      |
 | [[+Atlas/Notes/Live-Test Obsidian Publish\|Live-Test Obsidian Publish]]                                                             | 2026-05-15 | +Atlas/Notes        |
@@ -41,8 +43,6 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 | [[+References/Quotes/Arbeit ist Währung\|Arbeit ist Währung]]                                                                       | 2026-03-28 | +References/Quotes  |
 | [[+Atlas/Notes/Kritik an Workism\|Kritik an Workism]]                                                                               | 2026-03-25 | +Atlas/Notes        |
 | [[+Efforts/Notes/Digitale Souveränität - Teil 1\|Digitale Souveränität - Teil 1]]                                                   | 2026-03-08 | +Efforts/Notes      |
-| [[+Efforts/Learnings/Book UVW\|Book UVW]]                                                                                           | 2026-02-27 | +Efforts/Learnings  |
-| [[+Efforts/Learnings/Book DEF\|Book DEF]]                                                                                           | 2026-02-27 | +Efforts/Learnings  |
 
 { .block-language-dataview}
 ---
