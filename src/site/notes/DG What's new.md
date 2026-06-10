@@ -13,6 +13,7 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                                                                                                                            | Modified   | Ort                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------- |
+| [[+References/Quotes/Entwicklung einer Strategie\|Entwicklung einer Strategie]]                                                                                                                                                             | 2026-06-10 | +References/Quotes  |
 | [[+References/Quotes/Der zentrale Effekt von KI\|Der zentrale Effekt von KI]]                                                                                                                                                               | 2026-06-07 | +References/Quotes  |
 | [[+References/Quotes/Potenzial für Produktivitätsverbesserungen durch KI-gestütztes Operating Model in der Softwareentwicklung\|Potenzial für Produktivitätsverbesserungen durch KI-gestütztes Operating Model in der Softwareentwicklung]] | 2026-06-03 | +References/Quotes  |
 | [[+/Poppenborg über KI\|Poppenborg über KI]]                                                                                                                                                                                                | 2026-05-27 | +                   |
@@ -42,7 +43,6 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 | [[DG What's new\|DG What's new]]                                                                                                                                                                                                            | 2026-05-09 |                     |
 | [[+References/Sources/The Religion of Workism\|The Religion of Workism]]                                                                                                                                                                    | 2026-03-29 | +References/Sources |
 | [[+References/Sources/What Is the Office For\|What Is the Office For]]                                                                                                                                                                      | 2026-03-28 | +References/Sources |
-| [[+References/Quotes/Arbeit ist Währung\|Arbeit ist Währung]]                                                                                                                                                                               | 2026-03-28 | +References/Quotes  |
 
 { .block-language-dataview}
 ---
