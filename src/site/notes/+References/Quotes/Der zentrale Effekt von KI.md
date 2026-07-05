@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/quotes/der-zentrale-effekt-von-ki/","tags":["🗨️Quote"],"created":"2026-05-15T19:21:45.847+02:00","updated":"2026-06-07T11:50:36.978+02:00","dg-note-properties":{"tags":["🗨️Quote"],"source":null,"created":"2026-05-15","publish":true,"gg-pkm-class":null,"target-channel":null,"template":"[[GGA Quote Template]]","Zielfolder":["+References/Quotes"],"Zitat":"Der zentrale Effekt von KI ist daher Strukturwandel: Alte Tätigkeiten verschwinden, neue entstehen. Genau diese Mechanismen werden in Zika et al. (2025) modellbasiert nachgezeichnet.","Quotesource":null,"ANLEITUNG":"Zur PKM-Automatisierung achte auf: \n. Notiere das Zitat AUCH im Properties-Feld \"Zitat\"  und \n. Sorge im Properties-Feld \"Quotesource\" für den korrekten Eintrag der Buch-Notiz als Link zum File"}}
+{"dg-publish":true,"permalink":"/references/quotes/der-zentrale-effekt-von-ki/","tags":["🗨️Quote"]}
 ---
 
 

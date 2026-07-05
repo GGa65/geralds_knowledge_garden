@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/indizees/index-publiziertes/","tags":["class/index"],"created":"2026-05-09T17:05:43.731+02:00","updated":"2026-05-14T21:13:27.230+02:00","dg-note-properties":{"tags":["class/index"],"created":"2026-05-09","publish":false,"indexStatus":null,"Zielfolder":["+Atlas/Indizees"]}}
+{"dg-publish":true,"permalink":"/atlas/indizees/index-publiziertes/","tags":["class/index"]}
 ---
 
 
@@ -33,6 +33,7 @@
 | [[+Efforts/Learnings/Buch ABC\|Buch ABC]]                                                                                                                                                                                                   | \-      | true       |
 | [[+Efforts/Learnings/Buch XYZ\|Buch XYZ]]                                                                                                                                                                                                   | \-      | true       |
 | [[+References/Quotes/Clarity versus detail\|Clarity versus detail]]                                                                                                                                                                         | \-      | true       |
+| [[+Atlas/Notes/Der Niedergang des denkenden Subjekts durch KI Delegation\|Der Niedergang des denkenden Subjekts durch KI Delegation]]                                                                                                       | false   | true       |
 | [[+References/Quotes/Der zentrale Effekt von KI\|Der zentrale Effekt von KI]]                                                                                                                                                               | true    | true       |
 | [[+References/Quotes/Des Product Owners Tragödie\|Des Product Owners Tragödie]]                                                                                                                                                             | true    | true       |
 | [[+Atlas/INDIZEES/DG Beispiel Decision-Log\|DG Beispiel Decision-Log]]                                                                                                                                                                      | \-      | true       |
@@ -42,6 +43,7 @@
 | [[+Efforts/Notes/DG Mein PKM-Setup - public\|DG Mein PKM-Setup - public]]                                                                                                                                                                   | \-      | true       |
 | [[+Atlas/INDIZEES/DG MOC published Efforts\|DG MOC published Efforts]]                                                                                                                                                                      | \-      | true       |
 | [[DG What's new\|DG What's new]]                                                                                                                                                                                                            | \-      | true       |
+| [[+Atlas/Notes/Die Verschiebung von politischem Regieren zu technologischem Programmieren\|Die Verschiebung von politischem Regieren zu technologischem Programmieren]]                                                                     | false   | true       |
 | [[+Efforts/Notes/Digitale Souveränität - Teil 1\|Digitale Souveränität - Teil 1]]                                                                                                                                                           | \-      | true       |
 | [[+References/Terms/E2E-Prozess\|E2E-Prozess]]                                                                                                                                                                                              | \-      | true       |
 | [[+References/Terms/Ende der Geschichte\|Ende der Geschichte]]                                                                                                                                                                              | \-      | true       |
@@ -54,6 +56,7 @@
 | [[+Atlas/INDIZEES/INDEX - Publiziertes\|INDEX - Publiziertes]]                                                                                                                                                                              | false   | true       |
 | [[+References/Quotes/Information collection is not wisdom\|Information collection is not wisdom]]                                                                                                                                           | \-      | true       |
 | [[+Efforts/On/Installierte Plugins Index\|Installierte Plugins Index]]                                                                                                                                                                      | \-      | true       |
+| [[+Atlas/Notes/Kognitiver Totalitarismus als Kolonialisierung des Denkens von Innen\|Kognitiver Totalitarismus als Kolonialisierung des Denkens von Innen]]                                                                                 | false   | true       |
 | [[+Efforts/Notes/Kriterien der Softwareauswahl für ein PKM-System\|Kriterien der Softwareauswahl für ein PKM-System]]                                                                                                                       | \-      | true       |
 | [[+Atlas/Notes/Kritik an Workism\|Kritik an Workism]]                                                                                                                                                                                       | \-      | true       |
 | [[+Atlas/Notes/Live-Test Obsidian Publish\|Live-Test Obsidian Publish]]                                                                                                                                                                     | true    | true       |

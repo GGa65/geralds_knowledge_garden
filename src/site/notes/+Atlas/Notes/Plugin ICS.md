@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/plugin-ics/","tags":["class/admin","thema/own-system-documentation","note-lifecycle/settled🧱"],"created":"2025-09-06T10:27:13.192+02:00","updated":"2026-02-02T21:24:00.447+01:00","dg-note-properties":{"tags":["class/admin","thema/own-system-documentation","note-lifecycle/settled🧱"],"created":"2025-09-06","url":null,"up":null,"related":["[[PKM Dokumentation]]"],"template":null}}
+{"dg-publish":true,"permalink":"/atlas/notes/plugin-ics/","tags":["class/admin","thema/own-system-documentation","note-lifecycle/settled🧱"]}
 ---
 
 `Zielfolder: +Atlas/Notes`

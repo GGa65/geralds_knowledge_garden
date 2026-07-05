@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/notes/kriterien-der-softwareauswahl-fuer-ein-pkm-system/","tags":["class/note","thema/PKM"],"created":"2024-10-27T11:26:34.350+01:00","updated":"2025-09-01T19:44:09.246+02:00","dg-note-properties":{"tags":["class/note","thema/PKM"],"created":null,"up":["[[DG Home]]"],"related":["[[+Efforts/Notes/DG Mein PKM-Setup - public\|DG Mein PKM-Setup - public]]"],"gg-pkm-class":["000 Informations- und Wissensmanagement","009a PKM"]}}
+{"dg-publish":true,"permalink":"/efforts/notes/kriterien-der-softwareauswahl-fuer-ein-pkm-system/","tags":["class/note","thema/PKM"]}
 ---
 
 ### Ziel und Abgrenzung dieses Artikels

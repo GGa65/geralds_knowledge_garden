@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/quotes/statement-zur-nutzung-von-ki-zf-k/","tags":["🗨️Quote"],"created":"2026-05-09T14:26:30.807+02:00","updated":"2026-05-15T17:54:05.139+02:00","dg-note-properties":{"tags":["🗨️Quote"],"source":null,"created":"2026-05-09","gg-pkm-class":["090 Künstliche Intelligenz","100 Philosophie und Ethik","110 Management und Leadership"],"target-channel":["[[Blog - Der die Welt beobachtet]]","[[Blog - Muschelschale97]]","[[Blog - Lebenslaenglich-Lernen.de]]"],"publish":true,"template":"[[GGA Quote Template]]","Zielfolder":["+References/Quotes"],"Zitat":"\"Wir sehen KI als Werkzeug, das unsere Arbeit unterstützt – nicht als Ersatz für journalistische, redaktionelle oder kreative Verantwortung.\"","Quotesource":null,"ANLEITUNG":"Zur PKM-Automatisierung achte auf: \n. Notiere das Zitat AUCH im Properties-Feld \"Zitat\"  und \n. Sorge im Properties-Feld \"Quotesource\" für den korrekten Eintrag der Buch-Notiz als Link zum File","url":"https://www.zfk.de/kuenstliche-intelligenz?_hsenc=p2ANqtz--gAjLwHBmGaYtrcyh2oAcOF1L0CVfaHwX84IW9s_bWXAPGPKGpThfX3viX6OvHOdDPyhXjDpplT4NPIml3v9dIByMSu3zboQcp_GGKjU4g_pU-KzU&_hsmi=135190298"}}
+{"dg-publish":true,"permalink":"/references/quotes/statement-zur-nutzung-von-ki-zf-k/","tags":["🗨️Quote"]}
 ---
 
 

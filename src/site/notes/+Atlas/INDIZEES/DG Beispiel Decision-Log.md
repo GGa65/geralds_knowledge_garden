@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/indizees/dg-beispiel-decision-log/","tags":["class/index"],"created":"2024-10-30T08:49:33.744+01:00","updated":"2026-02-13T16:12:38.813+01:00","dg-note-properties":{"tags":["class/index"],"created":"2024-10-30"}}
+{"dg-publish":true,"permalink":"/atlas/indizees/dg-beispiel-decision-log/","tags":["class/index"]}
 ---
 
 

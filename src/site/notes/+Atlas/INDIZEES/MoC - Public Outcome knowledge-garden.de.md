@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/indizees/mo-c-public-outcome-knowledge-garden-de/","tags":["class/index"],"created":"2023-11-07T17:40:39.000+01:00","updated":"2026-05-14T21:12:38.076+02:00","dg-note-properties":{"tags":["class/index"],"date created":"2023-11-05T15:43:00","up":[],"publish":false}}
+{"dg-publish":true,"permalink":"/atlas/indizees/mo-c-public-outcome-knowledge-garden-de/","tags":["class/index"]}
 ---
 
 

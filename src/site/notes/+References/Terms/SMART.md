@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/terms/smart/","tags":["class/termNote"],"created":"2023-04-02T10:30:31.887+02:00","updated":"2025-06-06T18:18:24.958+02:00","dg-note-properties":{"tags":["class/termNote"],"created":"2023-04-02","links":["https://nesslabs.com/smart-goals-pact","zotero://select/library/items/7325UA27","zotero://select/library/items/IMJKGQ7Z"],"wissensgebiet":["[[akronym]]"]}}
+{"dg-publish":true,"permalink":"/references/terms/smart/","tags":["class/termNote"]}
 ---
 
 
