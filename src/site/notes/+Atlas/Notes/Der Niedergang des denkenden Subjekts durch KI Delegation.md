@@ -10,7 +10,8 @@
 **Trigger**:: [[+References/Sources/Clippings/Asma Mhalla über den Technofaschismus - Gehirne an der Leine\|Asma Mhalla über den Technofaschismus - Gehirne an der Leine]] in DER SPIEGEL 28/2026
 
 `Gedanke stellt den Ort für den Gedanken bereit, sei er auch noch so flüchtig.`
-**Gedanke**:: 
+**Gedanke**: 
+- wird erhärtet durch [[+References/Quotes/Poppenborg über KI\|Poppenborg über KI]]
 
 `Gibt es Follow-Up-Assoziationen, die dem o.g. Gedanken entspringen?.`
 **Assoziationen**:: 
