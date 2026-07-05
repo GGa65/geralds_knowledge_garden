@@ -9,7 +9,7 @@
 
 
 `Von wo aus wurde der Gedanke angeregt, woher entspringt er, was war sein Auslöser? Das kann alles zwischen Texten (Source Notes) und Situationen sein.`
-**Trigger**:: [[+References/Sources/Clippings/Asma Mhalla über den Technofaschismus - Gehirne an der Leine\|Asma Mhalla über den Technofaschismus - Gehirne an der Leine]]
+**Trigger**:: [[+References/Sources/Clippings/Asma Mhalla über den Technofaschismus - Gehirne an der Leine\|Asma Mhalla über den Technofaschismus - Gehirne an der Leine]] in DER SPIEGEL 28/2026
 
 `Gedanke stellt den Ort für den Gedanken bereit, sei er auch noch so flüchtig.`
 **Gedanke**:: 
