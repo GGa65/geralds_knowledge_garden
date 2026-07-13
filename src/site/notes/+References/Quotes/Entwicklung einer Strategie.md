@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/quotes/entwicklung-einer-strategie/","tags":["🗨️Quote"]}
+{"dg-publish":true,"permalink":"/references/quotes/entwicklung-einer-strategie/","tags":["🗨️Quote"],"dg-note-properties":{"tags":["🗨️Quote"],"source":null,"created":"2026-06-10","publish":false,"gg-pkm-class":null,"target-channel":["[[Blog - Der die Welt beobachtet]]","[[Blog - Lebenslaenglich-Lernen.de]]","[[Blog - Utilitiesenthusiast.de]]"],"template":"[[GGA Quote Template]]","Zielfolder":["+References/Quotes"],"Zitat":"Die Entwicklung einer Strategie – der Prozess, unter Unsicherheit kohärente und schwer rückgängig zu machende Entscheidungen mit dem Ziel der langfristigen Wertschöpfung zu treffen – war schon immer anspruchsvoll.","Quotesource":"https://www.mckinsey.com/~/media/mckinsey/business%20functions/strategy%20and%20corporate%20finance/our%20insights/how%20strategy%20champions%20win/how-strategy-champions-win_final_version.pdf?shouldIndex=false","ANLEITUNG":"Zur PKM-Automatisierung achte auf: \n. Notiere das Zitat AUCH im Properties-Feld \"Zitat\"  und \n. Sorge im Properties-Feld \"Quotesource\" für den korrekten Eintrag der Buch-Notiz als Link zum File"}}
 ---
 
 

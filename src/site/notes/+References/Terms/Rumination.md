@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/terms/rumination/","tags":["class/termNote"]}
+{"dg-publish":true,"permalink":"/references/terms/rumination/","tags":["class/termNote"],"dg-note-properties":{"tags":["class/termNote"],"created":"2026-05-14","publish":true,"template":"[[GGa Term Template]]","Zielfolder":["+References/Terms"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/quotes/arbeit-ist-waehrung/","tags":["🗨️Quote"]}
+{"dg-publish":true,"permalink":"/references/quotes/arbeit-ist-waehrung/","tags":["🗨️Quote"],"dg-note-properties":{"tags":["🗨️Quote"],"source":null,"created":"2026-03-25","gg-pkm-class":null,"target-channel":["[[Blog - Der die Welt beobachtet]]","[[Blog - Lebenslaenglich-Lernen.de]]"],"template":"[[GGA Quote Template]]","Zielfolder":["+References/Quotes"],"Zitat":"Work is not life’s product, but its currency. What we choose to buy with it is the ultimate project of living. - Arbeit ist nicht das Produkt des Lebens, sondern seine Währung. Was wir damit erwerben, ist das eigentliche Ziel des Lebens.","Quotesource":"[[+References/Sources/On Work - Money, Meaning, Identity\|On Work - Money, Meaning, Identity]]","ANLEITUNG":"Zur PKM-Automatisierung achte auf: \n. Notiere das Zitat AUCH im Properties-Feld \"Zitat\"  und \n. Sorge im Properties-Feld \"Quotesource\" für den korrekten Eintrag der Buch-Notiz als Link zum File"}}
 ---
 
 # Quote

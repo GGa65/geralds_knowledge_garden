@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/about-me/","tags":["class/admin"]}
+{"dg-publish":true,"permalink":"/atlas/about-me/","tags":["class/admin"],"dg-note-properties":{"tags":["class/admin"],"date created":"2023-11-05T16:17:00","publish":true,"up":["[[DG Home]]","[[Willkommen!]]"],"X":["[[+Atlas/About Knowledge Garden + Zettelkästchen\|About Knowledge Garden + Zettelkästchen]]"]}}
 ---
 
 

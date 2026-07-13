@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/terms/workism/","tags":["class/termNote"]}
+{"dg-publish":true,"permalink":"/references/terms/workism/","tags":["class/termNote"],"dg-note-properties":{"tags":["class/termNote"],"created":"2026-03-25","publish":true,"template":"[[GGa Term Template]]","Zielfolder":["+References/Terms"],"related":["[[+Atlas/Notes/Kritik an Workism\|Kritik an Workism]]"]}}
 ---
 
 

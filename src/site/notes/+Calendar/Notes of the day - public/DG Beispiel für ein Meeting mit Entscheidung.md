@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calendar/notes-of-the-day-public/dg-beispiel-fuer-ein-meeting-mit-entscheidung/","tags":["class/meeting"]}
+{"dg-publish":true,"permalink":"/calendar/notes-of-the-day-public/dg-beispiel-fuer-ein-meeting-mit-entscheidung/","tags":["class/meeting"],"dg-note-properties":{"tags":["class/meeting"],"attendees":null,"created":"2024-10-30"}}
 ---
 
 ## 2024-09-13 Verwendung von Loop

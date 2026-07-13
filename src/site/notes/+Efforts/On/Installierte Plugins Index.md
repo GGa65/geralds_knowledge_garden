@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/on/installierte-plugins-index/","tags":["class/index","actions/verzetteln","note-lifecycle/develop🍃","thema/own-system-documentation"]}
+{"dg-publish":true,"permalink":"/efforts/on/installierte-plugins-index/","tags":["class/index","actions/verzetteln","note-lifecycle/develop🍃","thema/own-system-documentation"],"dg-note-properties":{"tags":["class/index","actions/verzetteln","note-lifecycle/develop🍃","thema/own-system-documentation"],"created":"2025-08-20","up":null,"related":["[[2025-08-20]]"],"gg-pkm-class":["000 Informations- und Wissensmanagement","009a PKM","PKM-Administration"]}}
 ---
 
 `Zielfolder +Atlas/INDIZEES`

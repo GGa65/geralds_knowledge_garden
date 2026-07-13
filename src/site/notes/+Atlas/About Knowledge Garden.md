@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/about-knowledge-garden/","tags":["class/admin"]}
+{"dg-publish":true,"permalink":"/atlas/about-knowledge-garden/","tags":["class/admin"],"dg-note-properties":{"tags":["class/admin"],"date created":"2023-11-05T16:30:00","up":["[[DG Home]]"],"related":["[[+Atlas/About me\|About me]]"]}}
 ---
 
 ## **Über das Projekt [Knowledge Garden](https://knowledge-garden.de)**

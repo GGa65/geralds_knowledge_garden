@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/indizees/moc-blogging-task-listen/","tags":["class/index"]}
+{"dg-publish":true,"permalink":"/atlas/indizees/moc-blogging-task-listen/","tags":["class/index"],"dg-note-properties":{"tags":["class/index"],"created":"2026-02-13","indexStatus":null,"Zielfolder":["+Atlas/Indizees"]}}
 ---
 
 
@@ -22,7 +22,7 @@ path includes Learnings
 not done
 path includes Learnings
 ```
-![Blogging Tasks.png|3000](/img/user/+References/Images/Blogging%20Tasks.png)
+![Blogging Tasks.png\|3000](/img/user/+References/Images/Blogging%20Tasks.png)
 
 # Blogging Task Listen nach Pfad gruppiert
 

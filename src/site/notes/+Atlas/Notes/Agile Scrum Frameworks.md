@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/agile-scrum-frameworks/","tags":["class/note","thema/methodology","actions/follow-up"]}
+{"dg-publish":true,"permalink":"/atlas/notes/agile-scrum-frameworks/","tags":["class/note","thema/methodology","actions/follow-up"],"dg-note-properties":{"tags":["class/note","thema/methodology","actions/follow-up"],"created":"2024-10-25","up":null,"related":null,"gg-pkm-class":["110 Management und Leadership","040 Methoden, Arbeitsweisen"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/terms/e2-e-prozess/","tags":["class/termNote"]}
+{"dg-publish":true,"permalink":"/references/terms/e2-e-prozess/","tags":["class/termNote"],"dg-note-properties":{"tags":["class/termNote"],"created":"2025-03-27","up":null,"related":null,"gg-pkm-class":["000 Informations- und Wissensmanagement","010 Informationssysteme und Software","110 Management und Leadership","310 Wirtschaftswissenschaften"],"url":"https://learning.sap.com/courses/introducing-sap-s-core-business-processes-sap-for-industries-and-the-sap-partner-network/understanding-sap-s-end-to-end-business-processes"}}
 ---
 
 
@@ -23,6 +23,5 @@ Ausgehend von folgender Aussage (in der [Quelle](https://learning.sap.com/course
 | Notiz                                         | Details                                                                                                                                                                                                                                                                                                                                                    |
 | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[+Calendar/Daily/2025-03-27\|2025-03-27]] | <ul><li>[bei LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7310581279303884800?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7310581279303884800%2C7310919722663829505%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287310919722663829505%2Curn%3Ali%3Aactivity%3A7310581279303884800%29) zum Thema [[+References/Terms/E2E-Prozess\|E2E-Prozess]]e kommentiert</li></ul> |
-| [[+Calendar/Daily/2023-07-25\|2023-07-25]] | <ul><li>Mir fällt ein, ich müsste mal eine Term-Note zu  [[+References/Terms/E2E-Prozess\|E2E-Prozess]] schreiben</li></ul>                                                                                                                                                                                                                                                               |
 
 { .block-language-dataview}

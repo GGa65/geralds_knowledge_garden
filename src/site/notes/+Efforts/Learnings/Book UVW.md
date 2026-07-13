@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/learnings/book-uvw/"}
+{"dg-publish":true,"permalink":"/efforts/learnings/book-uvw/","dg-note-properties":{"A1_Activity":false,"A2_Activity":false,"A3_Activity":false}}
 ---
 
 Hinweis: 

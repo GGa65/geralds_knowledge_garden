@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/about-knowledge-garden-zettelkaestchen/","tags":["class/admin"]}
+{"dg-publish":true,"permalink":"/atlas/about-knowledge-garden-zettelkaestchen/","tags":["class/admin"],"dg-note-properties":{"tags":["class/admin"],"date created":"2023-11-05T16:30:00","publish":true,"up":["[[DG Home]]","[[Willkommen!]]"],"related":["[[+Atlas/About me\|About me]]"]}}
 ---
 
 ## **Über das Projekt [Knowledge Garden](https://knowledge-garden.de)**

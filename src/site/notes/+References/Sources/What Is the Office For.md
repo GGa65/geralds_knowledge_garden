@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/sources/what-is-the-office-for/","tags":["class/annotationNote"]}
+{"dg-publish":true,"permalink":"/references/sources/what-is-the-office-for/","tags":["class/annotationNote"],"dg-note-properties":{"tags":["class/annotationNote"],"created":"2026-03-28","gg-pkm-class":["100 Philosophie und Ethik","300 Sozialwissenschaften","310 Wirtschaftswissenschaften","110 Management und Leadership"],"up":["[[On Work - Money, Meaning, Identity]]"],"related":["[[The Religion of Workism]]"]}}
 ---
 
 

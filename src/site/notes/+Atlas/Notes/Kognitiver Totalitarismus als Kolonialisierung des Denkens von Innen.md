@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/kognitiver-totalitarismus-als-kolonialisierung-des-denkens-von-innen/","tags":["class/readingNote","theme/totalitarismus","theme/psychologie","class/thinkingNote"]}
+{"dg-publish":true,"permalink":"/atlas/notes/kognitiver-totalitarismus-als-kolonialisierung-des-denkens-von-innen/","tags":["class/readingNote","theme/totalitarismus","theme/psychologie","class/thinkingNote"],"dg-note-properties":{"tags":["class/readingNote","theme/totalitarismus","theme/psychologie","class/thinkingNote"],"date created":"2023-10-14T18:48:00","up":["[[+References/Sources/Clippings/Asma Mhalla über den Technofaschismus - Gehirne an der Leine\|Asma Mhalla über den Technofaschismus - Gehirne an der Leine]]"],"related":["[[Die Verschiebung von politischem Regieren zu technologischem Programmieren]]","[[Der Niedergang des denkenden Subjekts durch KI Delegation]]"],"keywords":["[[Kognitiver Totalitarismus]]","[[Big Tech]]","[[Big State]]","[[Gleichschaltung]]","[[Unterwerfung]]"],"Zielfolder":["+Atlas/Notes"],"publish":false}}
 ---
 
 > Der **moderne Totalitarismus** stützt sich laut [[+References/People/Asma Mhalla\|Asma Mhalla]] nicht mehr auf Zensur oder äußere Gewalt, sondern auf die Besetzung des menschlichen Geistes durch eine Allianz aus Politik und Technologiekonzernen. 

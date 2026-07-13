@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/die-verschiebung-von-politischem-regieren-zu-technologischem-programmieren/","tags":["class/thinkingNote","thema/macht","/thema/algorithmen","thema/politik"]}
+{"dg-publish":true,"permalink":"/atlas/notes/die-verschiebung-von-politischem-regieren-zu-technologischem-programmieren/","tags":["class/thinkingNote","thema/macht","/thema/algorithmen","thema/politik"],"dg-note-properties":{"tags":["class/thinkingNote","thema/macht","/thema/algorithmen","thema/politik"],"created":"2026-07-05","up":["[[+References/Sources/Clippings/Asma Mhalla über den Technofaschismus - Gehirne an der Leine\|Asma Mhalla über den Technofaschismus - Gehirne an der Leine]]"],"related":["[[Kognitiver Totalitarismus als Kolonialisierung des Denkens von Innen]]","[[Der Niedergang des denkenden Subjekts durch KI Delegation]]"],"publish":false,"keywords":["[[Programmierung]]","[[Verhaltenssteuerung]]","[[Cyberpunk]]","[[Machtwechsel]]","[[Regierungsform]]","[[Dystopie]]"],"Zielfolder":["+Atlas/Notes"]}}
 ---
 
 

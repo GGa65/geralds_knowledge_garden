@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/der-niedergang-des-denkenden-subjekts-durch-ki-delegation/","tags":["class/thinkingNote","thema/KI","thema/erkenntnistheorie","thema/sprache"]}
+{"dg-publish":true,"permalink":"/atlas/notes/der-niedergang-des-denkenden-subjekts-durch-ki-delegation/","tags":["class/thinkingNote","thema/KI","thema/erkenntnistheorie","thema/sprache"],"dg-note-properties":{"tags":["class/thinkingNote","thema/KI","thema/erkenntnistheorie","thema/sprache"],"created":"2026-07-05","up":["[[+References/Sources/Clippings/Asma Mhalla über den Technofaschismus - Gehirne an der Leine\|Asma Mhalla über den Technofaschismus - Gehirne an der Leine]]"],"related":["[[Kognitiver Totalitarismus als Kolonialisierung des Denkens von Innen]]","[[Die Verschiebung von politischem Regieren zu technologischem Programmieren]]"],"publish":false,"keywords":["[[Dystopie]]","[[Künstliche Intelligenz]]","[[Intellektuelle Verkümmerung]]","[[Denken]]","[[Erkenntnis]]","[[Subjektivität]]"],"Zielfolder":["+Atlas/Notes"]}}
 ---
 
 

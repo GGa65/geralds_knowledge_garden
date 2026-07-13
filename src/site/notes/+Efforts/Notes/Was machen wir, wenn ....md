@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/notes/was-machen-wir-wenn/","tags":["class/note"]}
+{"dg-publish":true,"permalink":"/efforts/notes/was-machen-wir-wenn/","tags":["class/note"],"dg-note-properties":{"tags":["class/note"],"created":"2026-05-24","publish":false,"up":null,"related":null,"template":"[[GGa Note Template]]","Zielfolder":["+Atlas/Notes"]}}
 ---
 
 2026-05-24

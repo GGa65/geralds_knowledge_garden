@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/people/nick-milo/","tags":["class/people"]}
+{"dg-publish":true,"permalink":"/references/people/nick-milo/","tags":["class/people"],"dg-note-properties":{"tags":["class/people"],"type":["Blogger, Unternehmer"],"date":"2023-05-11","project":null,"topic":["Person"],"known-in-real":"no","main-type":"Person","up":null,"related":["[[+/LYT approach\|LYT approach]]","[[Linking your Thinking]]"],"surname":"Milo"}}
 ---
 
 ## Über Nick Milo 
@@ -36,15 +36,9 @@ Der letzte Spiegelstrich bekommt von mir das Attribut "#attribut/rolling_eyes" v
 `Im Dataview Code bei FROM [[this file name]] den FileNamen dieses Files eintragen` 
 | Notiz                                                   | Ort               | Erstellt   |
 | ------------------------------------------------------- | ----------------- | ---------- |
-| [[+Atlas/+About Atlas\|+About Atlas]]                | +Atlas            | 2024-03-04 |
-| [[+Calendar/+About Calendar\|+About Calendar]]       | +Calendar         | 2024-02-17 |
-| [[+Efforts/+About Efforts\|+About Efforts]]          | +Efforts          | 2024-02-17 |
-| [[+References/+About References\|+About References]] | +References       | 2024-05-25 |
-| [[+References/Terms/ACE\|ACE]]                       | +References/Terms | 2024-02-19 |
-| [[DG Home\|DG Home]]                                 |                   | 2024-10-20 |
-| [[+/Konzept Tags\|Konzept Tags]]                     | +                 | 2023-04-19 |
-| [[+/LYT approach\|LYT approach]]                     | +                 | 2023-04-26 |
-| [[+Atlas/Notes/PARA\|PARA]]                          | +Atlas/Notes      | 2024-02-05 |
-| [[+Atlas/Über das VERZETTELN\|Über das VERZETTELN]]  | +Atlas            | 2025-03-25 |
+| [[+Efforts/+About Efforts\|+About Efforts]]          | +Efforts          | 2026-07-13 |
+| [[+References/+About References\|+About References]] | +References       | 2026-07-13 |
+| [[+References/Terms/ACE\|ACE]]                       | +References/Terms | 2026-07-13 |
+| [[DG Home\|DG Home]]                                 |                   | 2026-07-13 |
 
 { .block-language-dataview}

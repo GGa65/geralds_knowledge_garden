@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/learnings/book-def/"}
+{"dg-publish":true,"permalink":"/efforts/learnings/book-def/","dg-note-properties":{"A1_Activity":true,"A2_Activity":false,"A3_Activity":false}}
 ---
 
 Hinweis: 

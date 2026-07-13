@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/quotes/poppenborg-ueber-ki/","tags":["class/quote"]}
+{"dg-publish":true,"permalink":"/references/quotes/poppenborg-ueber-ki/","tags":["class/quote"],"dg-note-properties":{"tags":["class/quote"],"source":"[[+References/Sources/Die konsequente Umsetzung von »Clarity« mit Mark Poppenborg\|Die konsequente Umsetzung von »Clarity« mit Mark Poppenborg]]","created":"2026-05-27","publish":false,"gg-pkm-class":null,"target-channel":null,"template":"[[GGA Quote Template]]","Zielfolder":["+References/Quotes"],"Zitat":"... ich glaube eben, dass wir dabei aufpassen müssen, dass wir unsere menschliche Urteilskraft nicht verlieren. Die Unternehmen die einfach nur blind KI einführen um zu automatisieren und keine Sensibilisierung dafür aufbauen, wie man KI sinnvoll nutzt, die werden ihre Organisation verdummen und im Zweifel noch die jungen Leute rausschmeißen, die das Zukunftspotenzial darstellen. ...","Quotesource":null,"ANLEITUNG":"Zur PKM-Automatisierung achte auf: \n. Notiere das Zitat AUCH im Properties-Feld \"Zitat\"  und \n. Sorge im Properties-Feld \"Quotesource\" für den korrekten Eintrag der Buch-Notiz als Link zum File"}}
 ---
 
 
