@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/terms/implizites-wissen/","tags":["class/termNote"],"dg-note-properties":{"tags":["class/termNote"],"created":"2026-03-29","publish":true,"template":"[[GGa Term Template]]","Zielfolder":["+References/Terms"],"aliases":["tacit knowledge"]}}
+{"dg-publish":true,"permalink":"/references/terms/implizites-wissen/","tags":["class/termNote"],"created":"2026-03-29T12:38:24.648+02:00","updated":"2026-05-15T17:49:13.806+02:00","dg-note-properties":{"tags":["class/termNote"],"created":"2026-03-29","publish":true,"template":"[[GGa Term Template]]","Zielfolder":["+References/Terms"],"aliases":["tacit knowledge"]}}
 ---
 
 

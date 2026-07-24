@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/indizees/moc-blogging-task-listen/","tags":["class/index"],"dg-note-properties":{"tags":["class/index"],"created":"2026-02-13","indexStatus":null,"Zielfolder":["+Atlas/Indizees"]}}
+{"dg-publish":true,"permalink":"/atlas/indizees/moc-blogging-task-listen/","tags":["class/index"],"created":"2026-02-13T11:34:11.720+01:00","updated":"2026-02-27T13:27:38.990+01:00","dg-note-properties":{"tags":["class/index"],"created":"2026-02-13","indexStatus":null,"Zielfolder":["+Atlas/Indizees"]}}
 ---
 
 

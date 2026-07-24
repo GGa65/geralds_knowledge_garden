@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/indizees/dg-beispiel-decision-log/","tags":["class/index"],"dg-note-properties":{"tags":["class/index"],"created":"2024-10-30"}}
+{"dg-publish":true,"permalink":"/atlas/indizees/dg-beispiel-decision-log/","tags":["class/index"],"created":"2024-10-30T08:49:33.744+01:00","updated":"2026-02-13T16:12:38.813+01:00","dg-note-properties":{"tags":["class/index"],"created":"2024-10-30"}}
 ---
 
 
@@ -19,6 +19,6 @@ Es sieht wie folgt aus:
 ### Varianzen
 | Made                         | Details                                                                                                                                                                                                                                                                                                                                                                                                                           | Source                                                                                                                                                   |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>2026-07-13</li></ul> | <ul><li>#decision/public Für die Bearbeitung unserer gemeinsame Team-Aufgabe "xxx" beschließen die Anwesenden einstimmig: (1) Wir erstellen eine Loop-Page für die Aufgabe und wickeln die nächsten 8 Wochen die gemeinsame Arbeit über dieses Tool ab.  (2) wir treffen uns in 8 Wochen wieder, um gemeinsam die Verwendung und deren Pro's & Con's zu besprechen. Tom lädt dazu bis spätestens Ende dieser Woche ein.</li></ul> | <ul><li>[[+Calendar/Notes of the day - public/DG Beispiel für ein Meeting mit Entscheidung.md\\|DG Beispiel für ein Meeting mit Entscheidung]]</li></ul> |
+| <ul><li>2024-10-30</li></ul> | <ul><li>#decision/public Für die Bearbeitung unserer gemeinsame Team-Aufgabe "xxx" beschließen die Anwesenden einstimmig: (1) Wir erstellen eine Loop-Page für die Aufgabe und wickeln die nächsten 8 Wochen die gemeinsame Arbeit über dieses Tool ab.  (2) wir treffen uns in 8 Wochen wieder, um gemeinsam die Verwendung und deren Pro's & Con's zu besprechen. Tom lädt dazu bis spätestens Ende dieser Woche ein.</li></ul> | <ul><li>[[+Calendar/Notes of the day - public/DG Beispiel für ein Meeting mit Entscheidung.md\\|DG Beispiel für ein Meeting mit Entscheidung]]</li></ul> |
 
 { .block-language-dataview}
