@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-2026/","tags":["class/note"],"created":"2026-02-02T20:25:26.556+01:00","updated":"2026-05-10T11:26:47.579+02:00","dg-note-properties":{"tags":["class/note"],"created":"2026-02-02","publish":true,"up":["[[DG Home]]"],"related":null,"template":"[[GGa Note Template]]","Zielfolder":["+Atlas/Notes"]}}
+{"dg-publish":true,"permalink":"/about-2026/","tags":["class/note"],"created":"2026-02-02T20:25:26.556+01:00","updated":"2026-08-03T18:43:58.679+02:00","dg-note-properties":{"tags":["class/note"],"created":"2026-02-02","publish":true,"up":["[[DG Home]]"],"related":null,"template":"[[GGa Note Template]]","Zielfolder":["+Atlas/Notes"]}}
 ---
 
 by Gerald G. am 2026-02-02
@@ -17,7 +17,7 @@ Meine persönliche PKM Sicht auf interessante Konzepte, Ideen, Themen, die sich 
 
 ## Persönliches PKM
 "Erhalten" ist dabei das korrekte Verb. Erhalten bedeutet, ich bleibe mit der persönlichen Sicht im Werkzeug Obsidian und auf diese Weise auch in meinem [[+References/Terms/Digital Garden\|Digital Garden]], der sich mit seinem öffentlichen Teil auf [knowledge-garden.de](https://knowledge-garden.de) befindet.
-- *Update Mai 2026*: Daneben habe ich mich entschlossen, den Publish-Service von Obsidian wenigstens temporär auszuprobieren und gewissermaßen einem Live-Test zu unterziehen. Über diesen Live-Test schreibe ich unter [[+Atlas/Notes/Live-Test Obsidian Publish\|Live-Test Obsidian Publish]] und veröffentliche dazu aber abseits des  [knowledge-garden.de](https://knowledge-garden.de) auf der Obsidian-Publishing-Infrastruktur unter [Gerald's Zettelkasten](https://publish.obsidian.md/zettelkastengga/Willkommen!)
+- *Update August 2026* ich schließe das Projekt Obsidian Publish - nicht weil es nicht geht, sondern weil es mich zusätzliches Geld kostet ~~*Update Mai 2026*: Daneben habe ich mich entschlossen, den Publish-Service von Obsidian wenigstens temporär auszuprobieren und gewissermaßen einem Live-Test zu unterziehen. Über diesen Live-Test schreibe ich unter [[+Atlas/Notes/Live-Test Obsidian Publish\|Live-Test Obsidian Publish]] und veröffentliche dazu aber abseits des  [knowledge-garden.de](https://knowledge-garden.de) auf der Obsidian-Publishing-Infrastruktur unter [Gerald's Zettelkasten](https://publish.obsidian.md/zettelkastengga/Willkommen!)~~
 
 ## Geschäftliches PKM
 Da das Freelancertum eine beratende Tätigkeit darstellt, sind Veröffentlichungen darüber ohnehin unmöglich. Es besteht also genau dafür auch gar keine Notwendigkeit, im bestehenden Setup mit Obsidian zu bleiben. 

@@ -13,6 +13,7 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                                                                                                                            | Modified   | Ort                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------- |
+| [[+About (2026)\|+About (2026)]]                                                                                                                                                                                                            | 2026-08-03 |                     |
 | [[+References/Terms/Term Malignität\|Term Malignität]]                                                                                                                                                                                      | 2026-07-24 | +References/Terms   |
 | [[+Atlas/Notes/Der Niedergang des denkenden Subjekts durch KI Delegation\|Der Niedergang des denkenden Subjekts durch KI Delegation]]                                                                                                       | 2026-07-05 | +Atlas/Notes        |
 | [[+Atlas/Notes/Die Verschiebung von politischem Regieren zu technologischem Programmieren\|Die Verschiebung von politischem Regieren zu technologischem Programmieren]]                                                                     | 2026-07-05 | +Atlas/Notes        |
@@ -42,7 +43,6 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 | [[+Atlas/About Knowledge Garden + Zettelkästchen\|About Knowledge Garden + Zettelkästchen]]                                                                                                                                                 | 2026-05-11 | +Atlas              |
 | [[DG Home\|DG Home]]                                                                                                                                                                                                                        | 2026-05-11 |                     |
 | [[+Atlas/About me\|About me]]                                                                                                                                                                                                               | 2026-05-11 | +Atlas              |
-| [[+Atlas/Notes/Warum Dateinamen ein besonderes Zeichen am Anfang tragen\|Warum Dateinamen ein besonderes Zeichen am Anfang tragen]]                                                                                                         | 2026-05-10 | +Atlas/Notes        |
 
 { .block-language-dataview}
 ---
