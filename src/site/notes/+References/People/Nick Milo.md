@@ -1,10 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/references/people/nick-milo/","tags":["class/people"],"created":"2023-05-11T18:46:38.352+02:00","updated":"2025-04-12T15:49:11.558+02:00","dg-note-properties":{"tags":["class/people"],"type":["Blogger, Unternehmer"],"date":"2023-05-11","project":null,"topic":["Person"],"known-in-real":"no","main-type":"Person","up":null,"related":["[[+/LYT approach\|LYT approach]]","[[Linking your Thinking]]"],"surname":"Milo"}}
+{"dg-publish":true,"permalink":"/references/people/nick-milo/","tags":["class/people"],"created":"2023-05-11T18:46:38.352+02:00","updated":"2026-08-10T18:19:41.015+02:00","dg-note-properties":{"tags":["class/people"],"type":["Blogger, Unternehmer"],"date":"2023-05-11","project":null,"main-type":"Person","up":null,"related":["[[+/LYT approach\|LYT approach]]","[[Linking your Thinking]]"],"surname":"Milo"}}
 ---
 
 ## Über Nick Milo 
 
-*Ich bin faul, und befrage deshalb einfach ChatGPT danach, wer denn Nick Milo sei*, was immerhin eine interessante Erfahrung ist.
+`update 2026-08-10`
+- Spätestens Nick Milo's deutlich geäußerte Perspektive, dass das PKM-System eines jeden Menschen privat sei und deshalb vor der allzu schnellen Verwertung von KI-Tech-Bro's durch allzu leichtfertigen Zugriff durch diese im Kontext von KI-Verwendung zu schützen sei, macht ihn in meinen Augen zu einem wahrhaft ernstzunehmenden Vertreter seiner Zunft. 
+- Sein AIOS-Ansatz ist gegenwärtig ein Spagat den er offenbar gern vermeiden würde. Aber leistungsfähige Kommunikation mit einem eigenen PKM System auf Lokaler Instanz scheint in 2025/2026 noch nicht möglich zu sein, weshalb die AI-Schicht des AIOS leider immer noch bei den TechBro's liegt.
+
+---
+*Ich war faul, und befragte deshalb einfach ChatGPT danach, wer denn Nick Milo sei*, was immerhin eine interessante Erfahrung ist.
 
 **ChatGPT** hat mir am 2023-05-11 verraten, wer Nick Milo ist:
 
@@ -16,7 +21,7 @@
 - Nick Milo ist auf verschiedenen Konferenzen und Veranstaltungen als **Redner** aufgetreten und gibt regelmäßig Schulungen und Workshops **zur Verbesserung der Produktivität und des Lernens**.
 
 
-## Und was sagt uns das Internet über die Qualität seiner Reden, Schulungen und Workshops?
+*Und was sagt uns das Internet über die Qualität seiner Reden, Schulungen und Workshops?*
 
 **Chat GPT antwortet** wie folgt (2023-05-11, die Hervorhebungen stammen von mir):
 - Die **öffentliche Meinung** über die Qualität von Nick Milos Reden, Schulungen und Workshops **ist gemischt**. 
@@ -34,17 +39,19 @@ Der letzte Spiegelstrich bekommt von mir das Attribut "#attribut/rolling_eyes" v
 ---
 ## Nennungen im PKM-System
 `Im Dataview Code bei FROM [[this file name]] den FileNamen dieses Files eintragen` 
-| Notiz                                                   | Ort               | Erstellt   |
-| ------------------------------------------------------- | ----------------- | ---------- |
-| [[+Atlas/+About Atlas\|+About Atlas]]                | +Atlas            | 2024-03-04 |
-| [[+Calendar/+About Calendar\|+About Calendar]]       | +Calendar         | 2024-02-17 |
-| [[+Efforts/+About Efforts\|+About Efforts]]          | +Efforts          | 2024-02-17 |
-| [[+References/+About References\|+About References]] | +References       | 2024-05-25 |
-| [[+References/Terms/ACE\|ACE]]                       | +References/Terms | 2024-02-19 |
-| [[DG Home\|DG Home]]                                 |                   | 2024-10-20 |
-| [[+/Konzept Tags\|Konzept Tags]]                     | +                 | 2023-04-19 |
-| [[+/LYT approach\|LYT approach]]                     | +                 | 2023-04-26 |
-| [[+Atlas/Notes/PARA\|PARA]]                          | +Atlas/Notes      | 2024-02-05 |
-| [[+Atlas/Über das VERZETTELN\|Über das VERZETTELN]]  | +Atlas            | 2025-03-25 |
+| Notiz                                                                                                                        | Ort               | Erstellt   |
+| ---------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
+| [[+Atlas/+About Atlas\|+About Atlas]]                                                                                     | +Atlas            | 2024-03-04 |
+| [[+Calendar/+About Calendar\|+About Calendar]]                                                                            | +Calendar         | 2024-02-17 |
+| [[+Efforts/+About Efforts\|+About Efforts]]                                                                               | +Efforts          | 2024-02-17 |
+| [[+References/+About References\|+About References]]                                                                      | +References       | 2024-05-25 |
+| [[+References/Terms/ACE\|ACE]]                                                                                            | +References/Terms | 2024-02-19 |
+| [[DG Home\|DG Home]]                                                                                                      |                   | 2026-08-10 |
+| [[+/Konzept Tags\|Konzept Tags]]                                                                                          | +                 | 2023-04-19 |
+| [[+/LYT approach\|LYT approach]]                                                                                          | +                 | 2023-04-26 |
+| [[+Efforts/Notes/mein PKM System um eine KI-Zwiebelschale erweitert\|mein PKM System um eine KI-Zwiebelschale erweitert]] | +Efforts/Notes    | 2026-08-10 |
+| [[+Atlas/Notes/Meine "Lese-Vierzack"\|Meine "Lese-Vierzack"]]                                                             | +Atlas/Notes      | 2026-08-10 |
+| [[+Atlas/Notes/PARA\|PARA]]                                                                                               | +Atlas/Notes      | 2024-02-05 |
+| [[+Atlas/Über das VERZETTELN\|Über das VERZETTELN]]                                                                       | +Atlas            | 2025-03-25 |
 
 { .block-language-dataview}

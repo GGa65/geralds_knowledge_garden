@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/sources/a-critical-leaders-ai-checklist/","tags":["class/sourceNote","🛏️Embedding"],"created":"2026-05-12T09:34:02.708+02:00","updated":"2026-05-12T09:52:08.039+02:00","dg-note-properties":{"tags":["class/sourceNote","🛏️Embedding"],"created":"2026-05-12","publish":true,"related":null,"template":"[[GGa Embedded Doc Template]]","Zielfolder":["+References/Sources"]}}
+{"dg-publish":true,"permalink":"/references/sources/a-critical-leaders-ai-checklist/","tags":["class/sourceNote","🛏️Embedding"],"created":"2026-08-10T09:32:55.856+02:00","updated":"2026-08-10T09:32:55.857+02:00","dg-note-properties":{"tags":["class/sourceNote","🛏️Embedding"],"created":"2026-05-12","related":null,"template":"[[GGa Embedded Doc Template]]","Zielfolder":["+References/Sources"]}}
 ---
 
 > [!radar] Hintergrund

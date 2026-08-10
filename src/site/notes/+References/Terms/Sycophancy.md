@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/terms/sycophancy/","tags":["class/termNote"],"created":"2026-05-14T15:06:44.125+02:00","updated":"2026-05-14T16:44:33.450+02:00","dg-note-properties":{"tags":["class/termNote"],"created":"2026-05-14","publish":true,"template":"[[GGa Term Template]]","Zielfolder":["+References/Terms"]}}
+{"dg-publish":true,"permalink":"/references/terms/sycophancy/","tags":["class/termNote"],"created":"2026-08-10T09:32:41.577+02:00","updated":"2026-08-10T09:32:41.578+02:00","dg-note-properties":{"tags":["class/termNote"],"created":"2026-05-14","template":"[[GGa Term Template]]","Zielfolder":["+References/Terms"]}}
 ---
 
 

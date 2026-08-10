@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/about-me/","tags":["class/admin"],"created":"2023-11-05T16:16:13.477+01:00","updated":"2026-05-11T15:00:05.232+02:00","dg-note-properties":{"tags":["class/admin"],"date created":"2023-11-05T16:17:00","publish":true,"up":["[[DG Home]]","[[Willkommen!]]"],"X":["[[+Atlas/About Knowledge Garden + Zettelkästchen\|About Knowledge Garden + Zettelkästchen]]"]}}
+{"dg-publish":true,"permalink":"/atlas/about-me/","tags":["class/admin"],"created":"2026-08-10T09:31:28.926+02:00","updated":"2026-08-10T09:31:28.927+02:00","dg-note-properties":{"tags":["class/admin"],"date created":"2023-11-05T16:17:00","up":["[[DG Home]]","[[Willkommen!]]"],"X":["[[+Atlas/About Knowledge Garden + Zettelkästchen\|About Knowledge Garden + Zettelkästchen]]"]}}
 ---
 
 

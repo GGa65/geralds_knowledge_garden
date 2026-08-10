@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/indizees/mo-c-public-outcome-knowledge-garden-de/","tags":["class/index"],"created":"2023-11-07T17:40:39.000+01:00","updated":"2026-05-14T21:12:38.076+02:00","dg-note-properties":{"tags":["class/index"],"date created":"2023-11-05T15:43:00","up":[],"publish":false}}
+{"dg-publish":true,"permalink":"/atlas/indizees/mo-c-public-outcome-knowledge-garden-de/","tags":["class/index"],"created":"2026-08-10T09:31:25.385+02:00","updated":"2026-08-10T09:31:25.386+02:00","dg-note-properties":{"tags":["class/index"],"date created":"2023-11-05T15:43:00","up":[]}}
 ---
 
 
@@ -14,6 +14,7 @@
 | [[+Efforts/Notes/Digitale Souveränität - Teil 1\|Digitale Souveränität - Teil 1]]                                                                                                             | +Efforts/Notes | 2026-03-01 |
 | [[+Efforts/Notes/Erzeugen eines Zotero-Links im PKM\|Erzeugen eines Zotero-Links im PKM]]                                                                                                     | +Efforts/Notes | 2025-02-01 |
 | [[+Efforts/Notes/Gedanken über Abschlagsplanverlängerungen\|Gedanken über Abschlagsplanverlängerungen]]                                                                                       | +Efforts/Notes | 2025-11-11 |
-| [[+Efforts/Notes/osmotisches Lernen - Ein Begriff taucht plötzlich auf.\|osmotisches Lernen - Ein Begriff taucht plötzlich auf.]]                                                             | +Efforts/Notes | 2026-03-28 |
+| [[+Efforts/Notes/mein PKM System um eine KI-Zwiebelschale erweitert\|mein PKM System um eine KI-Zwiebelschale erweitert]]                                                                     | +Efforts/Notes | 2026-08-10 |
+| [[+Efforts/Notes/osmotisches Lernen - Ein Begriff taucht plötzlich auf.\|osmotisches Lernen - Ein Begriff taucht plötzlich auf.]]                                                             | +Efforts/Notes | 2026-08-10 |
 
 { .block-language-dataview}
