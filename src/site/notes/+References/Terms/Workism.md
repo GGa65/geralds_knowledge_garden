@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/terms/workism/","tags":["class/termNote"],"created":"2026-08-10T09:32:39.382+02:00","updated":"2026-08-10T09:32:39.383+02:00","dg-note-properties":{"tags":["class/termNote"],"created":"2026-03-25","template":"[[GGa Term Template]]","Zielfolder":["+References/Terms"],"related":["[[+Atlas/Notes/Kritik an Workism\|Kritik an Workism]]"]}}
+{"dg-publish":true,"permalink":"/references/terms/workism/","tags":["class/termNote"],"created":"2026-08-10T09:32:39.382+02:00","updated":"2026-08-11T11:04:56.667+02:00","dg-note-properties":{"tags":["class/termNote"],"created":"2026-03-25","template":"[[GGa Term Template]]","Zielfolder":["+References/Terms"],"related":["[[+Atlas/Notes/Kritik an Workism\|Kritik an Workism]]"],"relatedSource":null}}
 ---
 
 

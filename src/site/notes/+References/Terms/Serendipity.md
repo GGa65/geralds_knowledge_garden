@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/terms/serendipity/","tags":["class/termNote","actions/follow-up"],"created":"2026-08-10T09:32:38.291+02:00","updated":"2026-08-10T09:32:38.292+02:00","dg-note-properties":{"tags":["class/termNote","actions/follow-up"],"created":"2024-12-17","wissensgebiet":["[[definition]]"]}}
+{"dg-publish":true,"permalink":"/references/terms/serendipity/","tags":["class/termNote","actions/follow-up"],"created":"2026-08-10T09:32:38.291+02:00","updated":"2026-08-11T11:04:56.676+02:00","dg-note-properties":{"tags":["class/termNote","actions/follow-up"],"created":"2024-12-17","wissensgebiet":["[[definition]]"],"relatedSource":null}}
 ---
 
 

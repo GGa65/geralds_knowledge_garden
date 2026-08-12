@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/terms/osmotisches-lernen/","tags":["class/termNote","actions/follow-up"],"created":"2026-04-02T10:17:01.000+02:00","updated":"2026-05-24T03:33:59.593+02:00","dg-note-properties":{"tags":["class/termNote","actions/follow-up"],"created":"2026-03-28","template":"[[GGa Term Template]]","Zielfolder":["+References/Terms"]}}
+{"dg-publish":true,"permalink":"/references/terms/osmotisches-lernen/","tags":["class/termNote","actions/follow-up"],"created":"2026-04-02T10:17:01.000+02:00","updated":"2026-08-11T11:04:56.649+02:00","dg-note-properties":{"tags":["class/termNote","actions/follow-up"],"created":"2026-03-28","template":"[[GGa Term Template]]","Zielfolder":["+References/Terms"],"relatedSource":null}}
 ---
 
 
