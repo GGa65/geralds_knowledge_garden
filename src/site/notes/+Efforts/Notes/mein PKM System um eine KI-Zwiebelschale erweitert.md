@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/notes/mein-pkm-system-um-eine-ki-zwiebelschale-erweitert/","tags":["class/outcome","class/effort"],"created":"2026-08-10T17:48:57.479+02:00","updated":"2026-08-10T18:20:34.489+02:00","dg-note-properties":{"tags":["class/outcome","class/effort"],"created":"2026-08-10","date published":"2026-08-10","url":null,"description":null,"channel":["[[Blog - Lebenslaenglich-Lernen.de]]"],"template":"[[GGa Outcome-Template]]","Zielfolder":"+Effort/Notes"}}
+{"dg-publish":true,"permalink":"/efforts/notes/mein-pkm-system-um-eine-ki-zwiebelschale-erweitert/","tags":["class/outcome","class/effort"],"created":"2026-08-10T17:48:57.479+02:00","updated":"2026-08-12T15:59:04.344+02:00","dg-note-properties":{"tags":["class/outcome","class/effort"],"created":"2026-08-10","date published":"2026-08-10","url":null,"description":null,"channel":["[[Blog - Lebenslänglich Lernen.de]]"],"template":"[[GGa Outcome-Template]]","Zielfolder":"+Effort/Notes"}}
 ---
 
 
