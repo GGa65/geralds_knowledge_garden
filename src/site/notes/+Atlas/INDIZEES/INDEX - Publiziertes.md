@@ -60,6 +60,7 @@
 | [[+Atlas/Notes/Kognitiver Totalitarismus als Kolonialisierung des Denkens von Innen\|Kognitiver Totalitarismus als Kolonialisierung des Denkens von Innen]]                                                                                 | \-      | true       |
 | [[+Efforts/Notes/Kriterien der Softwareauswahl für ein PKM-System\|Kriterien der Softwareauswahl für ein PKM-System]]                                                                                                                       | \-      | true       |
 | [[+Atlas/Notes/Kritik an Workism\|Kritik an Workism]]                                                                                                                                                                                       | \-      | true       |
+| [[+Atlas/Notes/kritische Reflexion zur Gronau'schen Definition Wissensmanagement\|kritische Reflexion zur Gronau'schen Definition Wissensmanagement]]                                                                                       | \-      | true       |
 | [[+Atlas/Notes/Live-Test Obsidian Publish\|Live-Test Obsidian Publish]]                                                                                                                                                                     | \-      | true       |
 | [[+Efforts/Notes/mein PKM System um eine KI-Zwiebelschale erweitert\|mein PKM System um eine KI-Zwiebelschale erweitert]]                                                                                                                   | \-      | true       |
 | [[+Atlas/INDIZEES/MoC - Public Outcome knowledge-garden.de\|MoC - Public Outcome knowledge-garden.de]]                                                                                                                                      | \-      | true       |
@@ -89,6 +90,7 @@
 | [[+References/Sources/What Is the Office For\|What Is the Office For]]                                                                                                                                                                      | \-      | true       |
 | [[+Efforts/Sleeping/Wie man Kühlschrank-Türscharniere tauscht\|Wie man Kühlschrank-Türscharniere tauscht]]                                                                                                                                  | \-      | true       |
 | [[+References/Terms/Workism\|Workism]]                                                                                                                                                                                                      | \-      | true       |
+| [[+References/Quotes/Zitat zur Defintion Wissensmanagement\|Zitat zur Defintion Wissensmanagement]]                                                                                                                                         | \-      | true       |
 
 { .block-language-dataview}
 
