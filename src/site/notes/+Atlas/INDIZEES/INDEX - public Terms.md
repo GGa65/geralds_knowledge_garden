@@ -8,6 +8,8 @@
 | Notiz                                                                                                                              | Ort               | Erstellt   |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
 | [[+Atlas/Notes/Definition Organisationales Wissensmanagement - by GGa\|Definition Organisationales Wissensmanagement - by GGa]] | +Atlas/Notes      | 2026-08-31 |
+| [[+Atlas/Notes/Definition Persönliches Wissensmanagement - by GGa\|Definition Persönliches Wissensmanagement - by GGa]]         | +Atlas/Notes      | 2026-08-31 |
+| [[+References/Terms/Definition Wissensmanagement - by Norbert Gronau\|Definition Wissensmanagement - by Norbert Gronau]]        | +References/Terms | 2026-08-11 |
 | [[+References/Terms/E2E-Prozess\|E2E-Prozess]]                                                                                  | +References/Terms | 2025-03-27 |
 | [[+References/Terms/Ende der Geschichte\|Ende der Geschichte]]                                                                  | +References/Terms | 2025-03-31 |
 | [[+References/Terms/Geschäftsfunktion\|Geschäftsfunktion]]                                                                      | +References/Terms | 2025-03-27 |

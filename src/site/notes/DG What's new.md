@@ -14,6 +14,8 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 | New                                                                                                                                                      | Modified   | Ort                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------ |
 | [[+Atlas/Notes/Definition Organisationales Wissensmanagement - by GGa\|Definition Organisationales Wissensmanagement - by GGa]]                       | 2026-08-31 | +Atlas/Notes       |
+| [[+References/Terms/Definition Wissensmanagement - by Norbert Gronau\|Definition Wissensmanagement - by Norbert Gronau]]                              | 2026-08-31 | +References/Terms  |
+| [[+Atlas/Notes/Definition Persönliches Wissensmanagement - by GGa\|Definition Persönliches Wissensmanagement - by GGa]]                               | 2026-08-31 | +Atlas/Notes       |
 | [[+References/Quotes/Zitat zur Defintion Wissensmanagement\|Zitat zur Defintion Wissensmanagement]]                                                   | 2026-08-31 | +References/Quotes |
 | [[+Atlas/Notes/kritische Reflexion zur Gronau'schen Definition Wissensmanagement\|kritische Reflexion zur Gronau'schen Definition Wissensmanagement]] | 2026-08-31 | +Atlas/Notes       |
 | [[+References/Quotes/Statement zur Nutzung von KI - ZfK\|Statement zur Nutzung von KI - ZfK]]                                                         | 2026-08-12 | +References/Quotes |
@@ -41,8 +43,6 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 | [[+References/Terms/Thymos\|Thymos]]                                                                                                                  | 2026-08-11 | +References/Terms  |
 | [[+References/People/Nick Milo\|Nick Milo]]                                                                                                           | 2026-08-10 | +References/People |
 | [[+About (2026)\|+About (2026)]]                                                                                                                      | 2026-08-10 |                    |
-| [[DG Home\|DG Home]]                                                                                                                                  | 2026-08-10 |                    |
-| [[+Efforts/Notes/osmotisches Lernen - Ein Begriff taucht plötzlich auf.\|osmotisches Lernen - Ein Begriff taucht plötzlich auf.]]                     | 2026-08-10 | +Efforts/Notes     |
 
 { .block-language-dataview}
 ---
