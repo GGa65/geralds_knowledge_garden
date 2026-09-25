@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/notes/was-machen-wir-wenn/","tags":["class/note"],"created":"2026-08-10T09:33:36.491+02:00","updated":"2026-08-10T09:33:36.491+02:00","dg-note-properties":{"tags":["class/note"],"created":"2026-05-24","up":null,"related":null,"template":"[[GGa Note Template]]","Zielfolder":["+Atlas/Notes"]}}
+{"dg-publish":true,"permalink":"/efforts/notes/was-machen-wir-wenn/","tags":["class/note"],"created":"2026-08-10T09:33:36.491+02:00","updated":"2026-08-10T09:33:36.491+02:00","dg-note-properties":{"tags":["class/note"],"created":"2026-05-24","up":null,"related":null,"template":"[[Templates/GGa Note Template]]","Zielfolder":["+Atlas/Notes"]}}
 ---
 
 2026-05-24

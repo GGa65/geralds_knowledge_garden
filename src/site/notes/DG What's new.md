@@ -13,6 +13,7 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                                      | Modified   | Ort                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------ |
+| [[+References/Quotes/ProductOwner versus FeatureManager\|ProductOwner versus FeatureManager]]                                                         | 2026-09-25 | +References/Quotes |
 | [[+Atlas/Notes/Definition Organisationales Wissensmanagement - by GGa\|Definition Organisationales Wissensmanagement - by GGa]]                       | 2026-08-31 | +Atlas/Notes       |
 | [[+References/Terms/Definition Wissensmanagement - by Norbert Gronau\|Definition Wissensmanagement - by Norbert Gronau]]                              | 2026-08-31 | +References/Terms  |
 | [[+Atlas/Notes/Definition Persönliches Wissensmanagement - by GGa\|Definition Persönliches Wissensmanagement - by GGa]]                               | 2026-08-31 | +Atlas/Notes       |
@@ -42,7 +43,6 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 | [[+References/Terms/osmotisches Lernen\|osmotisches Lernen]]                                                                                          | 2026-08-11 | +References/Terms  |
 | [[+References/Terms/Thymos\|Thymos]]                                                                                                                  | 2026-08-11 | +References/Terms  |
 | [[+References/People/Nick Milo\|Nick Milo]]                                                                                                           | 2026-08-10 | +References/People |
-| [[+About (2026)\|+About (2026)]]                                                                                                                      | 2026-08-10 |                    |
 
 { .block-language-dataview}
 ---

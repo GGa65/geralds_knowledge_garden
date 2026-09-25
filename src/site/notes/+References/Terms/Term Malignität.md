@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/terms/term-malignitaet/","tags":["class/termNote"],"created":"2026-07-24T16:40:40.517+02:00","updated":"2026-08-11T11:04:56.662+02:00","dg-note-properties":{"tags":["class/termNote"],"created":"2026-07-24","template":"[[GGa Term Template]]","Zielfolder":["+References/Terms"],"relatedSource":null}}
+{"dg-publish":true,"permalink":"/references/terms/term-malignitaet/","tags":["class/termNote"],"created":"2026-07-24T16:40:40.517+02:00","updated":"2026-08-11T11:04:56.662+02:00","dg-note-properties":{"tags":["class/termNote"],"created":"2026-07-24","template":"[[Templates/GGa Term Template]]","Zielfolder":["+References/Terms"],"relatedSource":null}}
 ---
 
 

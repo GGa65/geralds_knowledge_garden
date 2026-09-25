@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/warum-dateinamen-ein-besonderes-zeichen-am-anfang-tragen/","tags":["class/note"],"created":"2026-08-10T09:31:20.478+02:00","updated":"2026-08-10T09:31:20.478+02:00","dg-note-properties":{"tags":["class/note"],"created":"2026-05-10","up":null,"related":null,"template":"[[GGa Note Template]]","Zielfolder":["+Atlas/Notes"]}}
+{"dg-publish":true,"permalink":"/atlas/notes/warum-dateinamen-ein-besonderes-zeichen-am-anfang-tragen/","tags":["class/note"],"created":"2026-08-10T09:31:20.478+02:00","updated":"2026-08-10T09:31:20.478+02:00","dg-note-properties":{"tags":["class/note"],"created":"2026-05-10","up":null,"related":null,"template":"[[Templates/GGa Note Template]]","Zielfolder":["+Atlas/Notes"]}}
 ---
 
 Hier widme ich mich der Frage:

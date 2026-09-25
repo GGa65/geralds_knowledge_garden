@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/definition-persoenliches-wissensmanagement-by-g-ga/","tags":["class/termNote"],"created":"2026-08-31T18:06:32.859+02:00","updated":"2026-08-31T18:14:05.928+02:00","dg-note-properties":{"tags":["class/termNote"],"created":"2026-08-31","template":"[[GGa Term Template]]","Zielfolder":["+References/Terms","+Atlas/Notes"],"relatedSource":"[[Definition Organisationales Wissensmanagement - by GGa]]","up":["[[+References/Terms/Definition Wissensmanagement - by Norbert Gronau\|Definition Wissensmanagement - by Norbert Gronau]]"],"related":["[[Definition Organisationales Wissensmanagement - by GGa]]"]}}
+{"dg-publish":true,"permalink":"/atlas/notes/definition-persoenliches-wissensmanagement-by-g-ga/","tags":["class/termNote"],"created":"2026-08-31T18:06:32.859+02:00","updated":"2026-08-31T18:14:05.928+02:00","dg-note-properties":{"tags":["class/termNote"],"created":"2026-08-31","template":"[[Templates/GGa Term Template]]","Zielfolder":["+References/Terms","+Atlas/Notes"],"relatedSource":"[[+Atlas/Notes/Definition Organisationales Wissensmanagement - by GGa]]","up":["[[+References/Terms/Definition Wissensmanagement - by Norbert Gronau]]"],"related":["[[+Atlas/Notes/Definition Organisationales Wissensmanagement - by GGa]]"]}}
 ---
 
 

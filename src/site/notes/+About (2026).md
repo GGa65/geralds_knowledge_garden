@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-2026/","tags":["class/note"],"created":"2026-08-10T09:39:53.888+02:00","updated":"2026-08-10T09:39:53.889+02:00","dg-note-properties":{"tags":["class/note"],"created":"2026-02-02","up":["[[DG Home]]"],"related":null,"template":"[[GGa Note Template]]","Zielfolder":["+Atlas/Notes"]}}
+{"dg-publish":true,"permalink":"/about-2026/","tags":["class/note"],"created":"2026-08-10T09:39:53.888+02:00","updated":"2026-08-10T09:39:53.889+02:00","dg-note-properties":{"tags":["class/note"],"created":"2026-02-02","up":["[[DG Home]]"],"related":null,"template":"[[Templates/GGa Note Template]]","Zielfolder":["+Atlas/Notes"]}}
 ---
 
 by Gerald G. am 2026-02-02

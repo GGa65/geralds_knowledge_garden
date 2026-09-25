@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/terms/definition-wissensmanagement-by-norbert-gronau/","tags":["class/termNote"],"created":"2026-08-11T17:10:06.725+02:00","updated":"2026-08-31T18:14:10.191+02:00","dg-note-properties":{"tags":["class/termNote"],"created":"2026-08-11","template":"[[GGa Term Template]]","Zielfolder":["+References/Terms"],"relatedSource":"[[+References/Sources/Wissen prozessorientiert managen\|Wissen prozessorientiert managen]]"}}
+{"dg-publish":true,"permalink":"/references/terms/definition-wissensmanagement-by-norbert-gronau/","tags":["class/termNote"],"created":"2026-08-11T17:10:06.725+02:00","updated":"2026-08-31T18:14:10.191+02:00","dg-note-properties":{"tags":["class/termNote"],"created":"2026-08-11","template":"[[Templates/GGa Term Template]]","Zielfolder":["+References/Terms"],"relatedSource":"[[+References/Sources/Wissen prozessorientiert managen]]"}}
 ---
 
 

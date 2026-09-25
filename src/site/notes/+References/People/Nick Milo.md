@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/people/nick-milo/","tags":["class/people"],"created":"2023-05-11T18:46:38.352+02:00","updated":"2026-08-10T18:19:41.015+02:00","dg-note-properties":{"tags":["class/people"],"type":["Blogger, Unternehmer"],"date":"2023-05-11","project":null,"main-type":"Person","up":null,"related":["[[+/LYT approach\|LYT approach]]","[[Linking your Thinking]]"],"surname":"Milo"}}
+{"dg-publish":true,"permalink":"/references/people/nick-milo/","tags":["class/people"],"created":"2023-05-11T18:46:38.352+02:00","updated":"2026-08-10T18:19:41.015+02:00","dg-note-properties":{"tags":["class/people"],"type":["Blogger, Unternehmer"],"date":"2023-05-11","project":null,"main-type":"Person","up":null,"related":["[[+/LYT approach]]","[[+/Linking your Thinking]]"],"surname":"Milo"}}
 ---
 
 ## Über Nick Milo 
