@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/on/installierte-plugins-index/","tags":["class/index","actions/verzetteln","note-lifecycle/develop🍃","thema/own-system-documentation"],"created":"2025-08-20T09:13:40.949+02:00","updated":"2026-02-02T21:19:41.086+01:00","dg-note-properties":{"tags":["class/index","actions/verzetteln","note-lifecycle/develop🍃","thema/own-system-documentation"],"created":"2025-08-20","up":null,"related":["[[+Calendar/Daily/2025-08-20]]"],"gg-pkm-class":["000 Informations- und Wissensmanagement","009a PKM","PKM-Administration"]}}
+{"dg-publish":true,"permalink":"/efforts/on/installierte-plugins-index/","tags":["class/index","actions/verzetteln","note-lifecycle/develop🍃","thema/own-system-documentation"],"created":"2025-08-20T09:13:40.949+02:00","updated":"2026-10-25T16:05:12.194+01:00","dg-note-properties":{"tags":["class/index","actions/verzetteln","note-lifecycle/develop🍃","thema/own-system-documentation"],"created":"2025-08-20","up":null,"related":["[[+Calendar/Daily/2025-08-20]]"],"gg-pkm-class":["000 Informations- und Wissensmanagement","009a PKM","PKM-Administration"]}}
 ---
 
 `Zielfolder +Atlas/INDIZEES`
@@ -56,6 +56,7 @@ Es substituiert damit in meinem PKM System alle Plugins, die nur auf genau einen
 </div></div>
 
 
+###### [[+/Plugin Ideaverse-Maps\|Plugin Ideaverse-Maps]] 
 ###### [[Plugin Importer\|Plugin Importer]]
 ###### [[Plugin List Callouts\|Plugin List Callouts]]
 ###### [[Plugin Note Refactor\|Plugin Note Refactor]]

@@ -13,6 +13,9 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                                      | Modified   | Ort                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------ |
+| [[+Efforts/On/Installierte Plugins Index\|Installierte Plugins Index]]                                                                                | 2026-10-25 | +Efforts/On        |
+| [[+/KI-Fachkompetenzschwelle - fehlende Gebietskenntnisse sind eine Gefahr\|KI-Fachkompetenzschwelle - fehlende Gebietskenntnisse sind eine Gefahr]]  | 2026-09-28 | +                  |
+| [[+/KI-Fachkompetenzschwelle - Teufelskreis.\|KI-Fachkompetenzschwelle - Teufelskreis.]]                                                              | 2026-09-28 | +                  |
 | [[+References/Quotes/ProductOwner versus FeatureManager\|ProductOwner versus FeatureManager]]                                                         | 2026-09-25 | +References/Quotes |
 | [[+Atlas/Notes/Definition Organisationales Wissensmanagement - by GGa\|Definition Organisationales Wissensmanagement - by GGa]]                       | 2026-08-31 | +Atlas/Notes       |
 | [[+References/Terms/Definition Wissensmanagement - by Norbert Gronau\|Definition Wissensmanagement - by Norbert Gronau]]                              | 2026-08-31 | +References/Terms  |
@@ -40,9 +43,6 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 | [[+References/Terms/implizites Wissen\|implizites Wissen]]                                                                                            | 2026-08-11 | +References/Terms  |
 | [[+References/Terms/PACT\|PACT]]                                                                                                                      | 2026-08-11 | +References/Terms  |
 | [[+References/Terms/E2E-Prozess\|E2E-Prozess]]                                                                                                        | 2026-08-11 | +References/Terms  |
-| [[+References/Terms/osmotisches Lernen\|osmotisches Lernen]]                                                                                          | 2026-08-11 | +References/Terms  |
-| [[+References/Terms/Thymos\|Thymos]]                                                                                                                  | 2026-08-11 | +References/Terms  |
-| [[+References/People/Nick Milo\|Nick Milo]]                                                                                                           | 2026-08-10 | +References/People |
 
 { .block-language-dataview}
 ---
