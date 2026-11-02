@@ -13,6 +13,7 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                                      | Modified   | Ort                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------ |
+| [[+Atlas/INDIZEES/MoC - public Terms\|MoC - public Terms]]                                                                                            | 2026-11-02 | +Atlas/INDIZEES    |
 | [[+Efforts/On/Installierte Plugins Index\|Installierte Plugins Index]]                                                                                | 2026-10-25 | +Efforts/On        |
 | [[+/KI-Fachkompetenzschwelle - fehlende Gebietskenntnisse sind eine Gefahr\|KI-Fachkompetenzschwelle - fehlende Gebietskenntnisse sind eine Gefahr]]  | 2026-09-28 | +                  |
 | [[+/KI-Fachkompetenzschwelle - Teufelskreis.\|KI-Fachkompetenzschwelle - Teufelskreis.]]                                                              | 2026-09-28 | +                  |
@@ -42,7 +43,6 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 | [[+References/Terms/Term Malignität\|Term Malignität]]                                                                                                | 2026-08-11 | +References/Terms  |
 | [[+References/Terms/implizites Wissen\|implizites Wissen]]                                                                                            | 2026-08-11 | +References/Terms  |
 | [[+References/Terms/PACT\|PACT]]                                                                                                                      | 2026-08-11 | +References/Terms  |
-| [[+References/Terms/E2E-Prozess\|E2E-Prozess]]                                                                                                        | 2026-08-11 | +References/Terms  |
 
 { .block-language-dataview}
 ---
