@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/notes/dass-menschen-der-kern-von-organisationen-sind-ist-ein-missverstaendnis/","tags":["class/outcome"],"created":"2026-11-03T10:21:08.585+01:00","updated":"2026-11-03T11:00:55.414+01:00","dg-note-properties":{"tags":["class/outcome"],"created":"2026-11-03","up":["[[+Efforts/On/Lektüre-Log - Die Humanisierung der Organisation]]"],"related":["[[+/Die Humanisierung der Organisation - Matthiesen et al]]"],"template":"[[Templates/GGa Vierzack Outcome-Note Template 2026]]","Zielfolder":["+Efforts/Notes"]}}
+{"dg-publish":true,"permalink":"/efforts/notes/dass-menschen-der-kern-von-organisationen-sind-ist-ein-missverstaendnis/","tags":["class/outcome","class/effort"],"created":"2026-11-03T10:21:08.585+01:00","updated":"2026-11-03T11:05:06.959+01:00","dg-note-properties":{"tags":["class/outcome","class/effort"],"created":"2026-11-03","up":["[[+Efforts/On/Lektüre-Log - Die Humanisierung der Organisation]]","[[+/Die Humanisierung der Organisation - Matthiesen et al]]"],"related":null,"template":"[[Templates/GGa Vierzack Outcome-Note Template 2026]]","Zielfolder":["+Efforts/Notes"]}}
 ---
 
 
