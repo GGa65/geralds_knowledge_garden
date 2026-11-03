@@ -11,38 +11,38 @@ Aufstellung der letzten 30 **modifizierten** oder gänzlich **neuen** Notizen me
 Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber eben dennoch passieren. 😉 
 
 
-| New                                                                                                                                                      | Modified   | Ort                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------ |
-| [[+Atlas/INDIZEES/MoC - public Terms\|MoC - public Terms]]                                                                                            | 2026-11-02 | +Atlas/INDIZEES    |
-| [[+Efforts/On/Installierte Plugins Index\|Installierte Plugins Index]]                                                                                | 2026-10-25 | +Efforts/On        |
-| [[+/KI-Fachkompetenzschwelle - fehlende Gebietskenntnisse sind eine Gefahr\|KI-Fachkompetenzschwelle - fehlende Gebietskenntnisse sind eine Gefahr]]  | 2026-09-28 | +                  |
-| [[+/KI-Fachkompetenzschwelle - Teufelskreis.\|KI-Fachkompetenzschwelle - Teufelskreis.]]                                                              | 2026-09-28 | +                  |
-| [[+References/Quotes/ProductOwner versus FeatureManager\|ProductOwner versus FeatureManager]]                                                         | 2026-09-25 | +References/Quotes |
-| [[+Atlas/Notes/Definition Organisationales Wissensmanagement - by GGa\|Definition Organisationales Wissensmanagement - by GGa]]                       | 2026-08-31 | +Atlas/Notes       |
-| [[+References/Terms/Definition Wissensmanagement - by Norbert Gronau\|Definition Wissensmanagement - by Norbert Gronau]]                              | 2026-08-31 | +References/Terms  |
-| [[+Atlas/Notes/Definition Persönliches Wissensmanagement - by GGa\|Definition Persönliches Wissensmanagement - by GGa]]                               | 2026-08-31 | +Atlas/Notes       |
-| [[+References/Quotes/Zitat zur Defintion Wissensmanagement\|Zitat zur Defintion Wissensmanagement]]                                                   | 2026-08-31 | +References/Quotes |
-| [[+Atlas/Notes/kritische Reflexion zur Gronau'schen Definition Wissensmanagement\|kritische Reflexion zur Gronau'schen Definition Wissensmanagement]] | 2026-08-31 | +Atlas/Notes       |
-| [[+References/Quotes/Statement zur Nutzung von KI - ZfK\|Statement zur Nutzung von KI - ZfK]]                                                         | 2026-08-12 | +References/Quotes |
-| [[+References/Quotes/Entwicklung einer Strategie\|Entwicklung einer Strategie]]                                                                       | 2026-08-12 | +References/Quotes |
-| [[+References/Quotes/Des Product Owners Tragödie\|Des Product Owners Tragödie]]                                                                       | 2026-08-12 | +References/Quotes |
-| [[+References/Quotes/Clarity versus detail\|Clarity versus detail]]                                                                                   | 2026-08-12 | +References/Quotes |
-| [[+References/Quotes/Arbeit ist Währung\|Arbeit ist Währung]]                                                                                         | 2026-08-12 | +References/Quotes |
-| [[+Efforts/Notes/mein PKM System um eine KI-Zwiebelschale erweitert\|mein PKM System um eine KI-Zwiebelschale erweitert]]                             | 2026-08-12 | +Efforts/Notes     |
-| [[+Efforts/Notes/Digitale Souveränität - Teil 1\|Digitale Souveränität - Teil 1]]                                                                     | 2026-08-12 | +Efforts/Notes     |
-| [[+Efforts/Notes/Aufgaben-Automation und Management für BloggerInnen\|Aufgaben-Automation und Management für BloggerInnen]]                           | 2026-08-12 | +Efforts/Notes     |
-| [[+Efforts/Notes/Aufgaben-Automation und Management für BloggerInnen 2\|Aufgaben-Automation und Management für BloggerInnen 2]]                       | 2026-08-12 | +Efforts/Notes     |
-| [[+References/Quotes/Benachteiligung bei Digitalen Kompetenzen\|Benachteiligung bei Digitalen Kompetenzen]]                                           | 2026-08-12 | +References/Quotes |
-| [[+References/Terms/Serendipity\|Serendipity]]                                                                                                        | 2026-08-11 | +References/Terms  |
-| [[+References/Terms/SMART\|SMART]]                                                                                                                    | 2026-08-11 | +References/Terms  |
-| [[+References/Terms/Rumination\|Rumination]]                                                                                                          | 2026-08-11 | +References/Terms  |
-| [[+References/Terms/Geschäftsfunktion\|Geschäftsfunktion]]                                                                                            | 2026-08-11 | +References/Terms  |
-| [[+References/Terms/Ende der Geschichte\|Ende der Geschichte]]                                                                                        | 2026-08-11 | +References/Terms  |
-| [[+References/Terms/Workism\|Workism]]                                                                                                                | 2026-08-11 | +References/Terms  |
-| [[+References/Terms/Sycophancy\|Sycophancy]]                                                                                                          | 2026-08-11 | +References/Terms  |
-| [[+References/Terms/Term Malignität\|Term Malignität]]                                                                                                | 2026-08-11 | +References/Terms  |
-| [[+References/Terms/implizites Wissen\|implizites Wissen]]                                                                                            | 2026-08-11 | +References/Terms  |
-| [[+References/Terms/PACT\|PACT]]                                                                                                                      | 2026-08-11 | +References/Terms  |
+| New                                                                                                                                                                    | Modified   | Ort                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------ |
+| [[+Efforts/Notes/Dass Menschen der Kern von Organisationen sind, ist ein Missverständnis\|Dass Menschen der Kern von Organisationen sind, ist ein Missverständnis]] | 2026-11-03 | +Efforts/Notes     |
+| [[+Atlas/INDIZEES/MoC - public Terms\|MoC - public Terms]]                                                                                                          | 2026-11-02 | +Atlas/INDIZEES    |
+| [[+Efforts/On/Installierte Plugins Index\|Installierte Plugins Index]]                                                                                              | 2026-10-25 | +Efforts/On        |
+| [[+/KI-Fachkompetenzschwelle - fehlende Gebietskenntnisse sind eine Gefahr\|KI-Fachkompetenzschwelle - fehlende Gebietskenntnisse sind eine Gefahr]]                | 2026-09-28 | +                  |
+| [[+/KI-Fachkompetenzschwelle - Teufelskreis.\|KI-Fachkompetenzschwelle - Teufelskreis.]]                                                                            | 2026-09-28 | +                  |
+| [[+References/Quotes/ProductOwner versus FeatureManager\|ProductOwner versus FeatureManager]]                                                                       | 2026-09-25 | +References/Quotes |
+| [[+Atlas/Notes/Definition Organisationales Wissensmanagement - by GGa\|Definition Organisationales Wissensmanagement - by GGa]]                                     | 2026-08-31 | +Atlas/Notes       |
+| [[+References/Terms/Definition Wissensmanagement - by Norbert Gronau\|Definition Wissensmanagement - by Norbert Gronau]]                                            | 2026-08-31 | +References/Terms  |
+| [[+Atlas/Notes/Definition Persönliches Wissensmanagement - by GGa\|Definition Persönliches Wissensmanagement - by GGa]]                                             | 2026-08-31 | +Atlas/Notes       |
+| [[+References/Quotes/Zitat zur Defintion Wissensmanagement\|Zitat zur Defintion Wissensmanagement]]                                                                 | 2026-08-31 | +References/Quotes |
+| [[+Atlas/Notes/kritische Reflexion zur Gronau'schen Definition Wissensmanagement\|kritische Reflexion zur Gronau'schen Definition Wissensmanagement]]               | 2026-08-31 | +Atlas/Notes       |
+| [[+References/Quotes/Statement zur Nutzung von KI - ZfK\|Statement zur Nutzung von KI - ZfK]]                                                                       | 2026-08-12 | +References/Quotes |
+| [[+References/Quotes/Entwicklung einer Strategie\|Entwicklung einer Strategie]]                                                                                     | 2026-08-12 | +References/Quotes |
+| [[+References/Quotes/Des Product Owners Tragödie\|Des Product Owners Tragödie]]                                                                                     | 2026-08-12 | +References/Quotes |
+| [[+References/Quotes/Clarity versus detail\|Clarity versus detail]]                                                                                                 | 2026-08-12 | +References/Quotes |
+| [[+References/Quotes/Arbeit ist Währung\|Arbeit ist Währung]]                                                                                                       | 2026-08-12 | +References/Quotes |
+| [[+Efforts/Notes/mein PKM System um eine KI-Zwiebelschale erweitert\|mein PKM System um eine KI-Zwiebelschale erweitert]]                                           | 2026-08-12 | +Efforts/Notes     |
+| [[+Efforts/Notes/Digitale Souveränität - Teil 1\|Digitale Souveränität - Teil 1]]                                                                                   | 2026-08-12 | +Efforts/Notes     |
+| [[+Efforts/Notes/Aufgaben-Automation und Management für BloggerInnen\|Aufgaben-Automation und Management für BloggerInnen]]                                         | 2026-08-12 | +Efforts/Notes     |
+| [[+Efforts/Notes/Aufgaben-Automation und Management für BloggerInnen 2\|Aufgaben-Automation und Management für BloggerInnen 2]]                                     | 2026-08-12 | +Efforts/Notes     |
+| [[+References/Quotes/Benachteiligung bei Digitalen Kompetenzen\|Benachteiligung bei Digitalen Kompetenzen]]                                                         | 2026-08-12 | +References/Quotes |
+| [[+References/Terms/Serendipity\|Serendipity]]                                                                                                                      | 2026-08-11 | +References/Terms  |
+| [[+References/Terms/SMART\|SMART]]                                                                                                                                  | 2026-08-11 | +References/Terms  |
+| [[+References/Terms/Rumination\|Rumination]]                                                                                                                        | 2026-08-11 | +References/Terms  |
+| [[+References/Terms/Geschäftsfunktion\|Geschäftsfunktion]]                                                                                                          | 2026-08-11 | +References/Terms  |
+| [[+References/Terms/Ende der Geschichte\|Ende der Geschichte]]                                                                                                      | 2026-08-11 | +References/Terms  |
+| [[+References/Terms/Workism\|Workism]]                                                                                                                              | 2026-08-11 | +References/Terms  |
+| [[+References/Terms/Sycophancy\|Sycophancy]]                                                                                                                        | 2026-08-11 | +References/Terms  |
+| [[+References/Terms/Term Malignität\|Term Malignität]]                                                                                                              | 2026-08-11 | +References/Terms  |
+| [[+References/Terms/implizites Wissen\|implizites Wissen]]                                                                                                          | 2026-08-11 | +References/Terms  |
 
 { .block-language-dataview}
 ---
