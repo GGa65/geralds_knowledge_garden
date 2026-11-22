@@ -7,6 +7,7 @@
 `Alle Notizen mit Tag #class/termNote und Eigenschaft dg-publish = true`
 | Notiz                                                                                                                              | Ort               | Erstellt   |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
+| [[+References/Terms/Bildungsgerechtigkeit\|Bildungsgerechtigkeit]]                                                              | +References/Terms | 2026-11-21 |
 | [[+Atlas/Notes/Definition Organisationales Wissensmanagement - by GGa\|Definition Organisationales Wissensmanagement - by GGa]] | +Atlas/Notes      | 2026-08-31 |
 | [[+Atlas/Notes/Definition Persönliches Wissensmanagement - by GGa\|Definition Persönliches Wissensmanagement - by GGa]]         | +Atlas/Notes      | 2026-08-31 |
 | [[+References/Terms/Definition Wissensmanagement - by Norbert Gronau\|Definition Wissensmanagement - by Norbert Gronau]]        | +References/Terms | 2026-08-11 |
@@ -14,8 +15,10 @@
 | [[+References/Terms/Ende der Geschichte\|Ende der Geschichte]]                                                                  | +References/Terms | 2025-03-31 |
 | [[+References/Terms/Geschäftsfunktion\|Geschäftsfunktion]]                                                                      | +References/Terms | 2025-03-27 |
 | [[+References/Terms/implizites Wissen\|implizites Wissen]]                                                                      | +References/Terms | 2026-08-10 |
+| [[+References/Terms/Individualisiertes Lernen\|Individualisiertes Lernen]]                                                      | +References/Terms | 2026-11-21 |
 | [[+References/Terms/osmotisches Lernen\|osmotisches Lernen]]                                                                    | +References/Terms | 2026-04-02 |
 | [[+References/Terms/PACT\|PACT]]                                                                                                | +References/Terms | 2023-04-02 |
+| [[+References/Terms/Personalisiertes oder Selbstgesteuertes Lernen\|Personalisiertes oder Selbstgesteuertes Lernen]]            | +References/Terms | 2026-11-21 |
 | [[+References/Terms/Rumination\|Rumination]]                                                                                    | +References/Terms | 2026-08-10 |
 | [[+References/Terms/Serendipity\|Serendipity]]                                                                                  | +References/Terms | 2026-08-10 |
 | [[+References/Terms/SMART\|SMART]]                                                                                              | +References/Terms | 2023-04-02 |

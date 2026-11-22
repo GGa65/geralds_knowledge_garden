@@ -13,6 +13,11 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 
 | New                                                                                                                                                                      | Modified   | Ort                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------------ |
+| [[+References/Terms/Personalisiertes oder Selbstgesteuertes Lernen\|Personalisiertes oder Selbstgesteuertes Lernen]]                                                  | 2026-11-21 | +References/Terms  |
+| [[+Efforts/Notes/Kritik an personalisiertem selbstgesteuertem individualisiertem Lernen\|Kritik an personalisiertem selbstgesteuertem individualisiertem Lernen]]     | 2026-11-21 | +Efforts/Notes     |
+| [[+References/Terms/Bildungsgerechtigkeit\|Bildungsgerechtigkeit]]                                                                                                    | 2026-11-21 | +References/Terms  |
+| [[+References/Terms/Individualisiertes Lernen\|Individualisiertes Lernen]]                                                                                            | 2026-11-21 | +References/Terms  |
+| [[+Efforts/+About Efforts\|+About Efforts]]                                                                                                                           | 2026-11-21 | +Efforts           |
 | [[+Efforts/Notes/Dass Menschen der Kern von Organisationen sind, ist ein Missverständnis\|Dass Menschen der Kern von Organisationen sind, ist ein Missverständnis]]   | 2026-11-03 | +Efforts/Notes     |
 | [[+Atlas/INDIZEES/MoC - public Terms\|MoC - public Terms]]                                                                                                            | 2026-11-02 | +Atlas/INDIZEES    |
 | [[+Efforts/On/Installierte Plugins Index\|Installierte Plugins Index]]                                                                                                | 2026-10-25 | +Efforts/On        |
@@ -38,11 +43,6 @@ Das liegt am technischen Ablauf, und sollte eigentlich nicht sein. Kann aber ebe
 | [[+References/Terms/SMART\|SMART]]                                                                                                                                    | 2026-08-11 | +References/Terms  |
 | [[+References/Terms/Rumination\|Rumination]]                                                                                                                          | 2026-08-11 | +References/Terms  |
 | [[+References/Terms/Geschäftsfunktion\|Geschäftsfunktion]]                                                                                                            | 2026-08-11 | +References/Terms  |
-| [[+References/Terms/Ende der Geschichte\|Ende der Geschichte]]                                                                                                        | 2026-08-11 | +References/Terms  |
-| [[+References/Terms/Workism\|Workism]]                                                                                                                                | 2026-08-11 | +References/Terms  |
-| [[+References/Terms/Sycophancy\|Sycophancy]]                                                                                                                          | 2026-08-11 | +References/Terms  |
-| [[+References/Terms/Term Malignität\|Term Malignität]]                                                                                                                | 2026-08-11 | +References/Terms  |
-| [[+References/Terms/implizites Wissen\|implizites Wissen]]                                                                                                            | 2026-08-11 | +References/Terms  |
 
 { .block-language-dataview}
 ---
